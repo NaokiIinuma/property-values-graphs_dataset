@@ -1,3 +1,5 @@
+mkdir RSC_data
+mkdir -p dataset/holdout
 cd prepro_RSC
 python exe_get_FigCaption.py
 cd ../prepro_dataset
