@@ -1,0 +1,4233 @@
+,paper_id,fig_id,label
+0,c7ta02661g,f6,Time
+1,c7ta03083e,f5,Time
+2,c8ta05978k,f6,Time
+3,c9ta06038c,f9,Time
+4,c5ta02201k,f7,Time
+5,c5ta02662h,f9,Time
+6,c5ta04716a,f8,Time
+7,c5ta05350a,f10,Time
+8,c6ta00614k,f4,Time
+9,c6ta00912c,f5,Time
+10,c6ta04726b,f8,Time
+11,c6ta10910a,f2,Time
+12,c7ta04351a,f7,Time
+13,c7ta09807c,f3,Time
+14,c7ta09814f,f10,Time
+15,c8ta05288c,f6,Time
+16,c8ta05970e,f9,Time
+17,c8ta06989a,f5,Time
+18,c8ta07973k,f6,Time
+19,c8ta12359d,f14,Time
+20,c5ta00783f,f10,Time
+21,c5ta02207j,f9,Time
+22,c5ta02446c,f2,Time
+23,c5ta03238e,f13,Time
+24,c5ta05688h,f10,Time
+25,c6ta01862a,f2,Time
+26,c6ta02284g,f8,Time
+27,c6ta05226f,f4,Time
+28,c6ta05380g,f21,Time
+29,c6ta07616e,f5,Time
+30,c4ta06124a,f8,Time
+31,c7ta10575d,f13,Time
+32,c8ta03297a,f3,Time
+33,c4ta06991a,f7,Time
+34,c9ta07465a,f8,Time
+35,c4ta07150f,f6,Time
+36,c5ta01109d,f6,Time
+37,c5ta01730k,f6,Time
+38,c5ta01861g,f6,Time
+39,c5ta05664k,f3,Time
+40,c4ta05292g,f7,Time
+41,c6ta03284b,f5,Time
+42,c7ta07264c,f10,Time
+43,c8ta00576a,f10,Time
+44,c8ta09826c,f7,Time
+45,c9ta02449b,f19,Time
+46,c4ta06936f,f8,Time
+47,c4ta06991a,f8,Time
+48,c4ta05087h,f8,Time
+49,c6ta01963c,f3,Time
+50,c7ta08251g,f3,Time
+51,c8ta00494c,f3,Time
+52,c8ta02845a,f9,Time
+53,c8ta04477e,f4,Time
+54,c8ta07746k,f8,Time
+55,c8ta11435h,f5,Time
+56,c4ta06858k,f11,Time
+57,c9ta08928d,f1,Time
+58,c5ta00259a,f4,Time
+59,c5ta02279g,f3,Time
+60,c5ta02925b,f8,Time
+61,c5ta03835a,f3,Time
+62,c4ta05452k,f5,Time
+63,c5ta10520j,f6,Time
+64,c4ta03893b,f6,Time
+65,c6ta08031f,f2,Time
+66,c6ta10744c,f7,Time
+67,c7ta00412e,f6,Time
+68,c7ta01767g,f5,Time
+69,c7ta02661g,f9,Time
+70,c4ta06235c,f10,Time
+71,c4ta06235c,f9,Time
+72,c7ta06856e,f11,Time
+73,c8ta07545j,f7,Time
+74,c8ta08998a,f4,Time
+75,c9ta03934a,f6,Time
+76,c6ta03657k,f5,Time
+77,c7ta02022h,f4,Time
+78,c4ta06172a,f8,Time
+79,c7ta06758e,f4,Time
+80,c8ta00494c,f10,Time
+81,c8ta04015j,f5,Time
+82,c9ta02413a,f10,Time
+83,c9ta04658e,f6,Time
+84,c9ta04871e,f5,Time
+85,c5ta01228g,f5,Time
+86,c5ta02215k,f13,Time
+87,c5ta04065e,f5,Time
+88,c5ta05071e,f9,Time
+89,c5ta07813j,f8,Time
+90,c5ta10105k,f5,Time
+91,c6ta01383j,f14,Time
+92,c6ta02420c,f10,Time
+93,c6ta04477h,f7,Time
+94,c7ta01228d,f9,Time
+95,c7ta04762b,f17,Time
+96,c7ta04769j,f4,Time
+97,c4ta06256f,f10,Time
+98,c7ta08529j,f9,Time
+99,c8ta01882k,f8,Time
+100,c8ta03321h,f7,Time
+101,c4ta04834b,f5,Time
+102,c5ta02337h,f7,Time
+103,c5ta04758g,f4,Time
+104,c6ta01460g,f11,Time
+105,c6ta09766a,f3,Time
+106,c7ta01670k,f4,Time
+107,c4ta01304b,f12,Time
+108,c5ta01237f,f3,Time
+109,c6ta04867f,f8,Time
+110,c6ta05207j,f11,Time
+111,c7ta01228d,f16,Time
+112,c7ta07663k,f4,Time
+113,c7ta10253d,f7,Time
+114,c8ta00494c,f8,Time
+115,c8ta03446j,f8,Time
+116,c8ta04320e,f2,Time
+117,c5ta03721b,f4,Time
+118,c5ta05818j,f9,Time
+119,c5ta10680j,f11,Time
+120,c6ta09036b,f5,Time
+121,c6ta09559c,f10,Time
+122,c6ta10535a,f5,Time
+123,c8ta00343b,f3,Time
+124,c8ta12146j,f4,Time
+125,c8ta12353e,f4,Time
+126,c4ta06858k,f8,Time
+127,c9ta02237f,f9,Time
+128,c4ta07159j,f11,Time
+129,c4ta07112c,f5,Time
+130,c5ta00402k,f8,Time
+131,c5ta00669d,f7,Time
+132,c4ta04680c,f10,Time
+133,c6ta06733f,f29,Time
+134,c4ta05777e,f6,Time
+135,c6ta09378g,f4,Time
+136,c6ta11167j,f5,Time
+137,c4ta06531j,f3,Time
+138,c8ta06034g,f8,Time
+139,c9ta00039a,f6,Time
+140,c9ta03236c,f4,Time
+141,c4ta06883a,f6,Time
+142,c9ta07171g,f7,Time
+143,c5ta02590g,f7,Time
+144,c5ta02774h,f10,Time
+145,c5ta04253d,f6,Time
+146,c6ta01846g,f3,Time
+147,c7ta05580c,f6,Time
+148,c4ta06286h,f7,Time
+149,c4ta04291c,f3,Time
+150,c4ta06630h,f7,Time
+151,c9ta01749f,f13,Time
+152,c4ta07018f,f9,Time
+153,c4ta04671d,f4,Time
+154,c5ta01552a,f8,Time
+155,c5ta02712h,f5,Time
+156,c5ta03669k,f8,Time
+157,c5ta08468g,f5,Time
+158,c6ta05080h,f7,Time
+159,c6ta06971a,f4,Time
+160,c8ta10587a,f15,Time
+161,c9ta03176f,f5,Time
+162,c4ta07112c,f6,Time
+163,c5ta01158b,f6,Time
+164,c5ta08622a,f3,Time
+165,c5ta10680j,f10,Time
+166,c6ta00429f,f3,Time
+167,c6ta00732e,f8,Time
+168,c6ta02748b,f19,Time
+169,c6ta06733f,f27,Time
+170,c7ta01534h,f7,Time
+171,c7ta02254a,f3,Time
+172,c8ta00023a,f6,Time
+173,c4ta06699e,f3,Time
+174,c5ta01246e,f4,Time
+175,c7ta06307e,f3,Time
+176,c7ta06840a,f6,Time
+177,c4ta06396a,f4,Time
+178,c5ta03090k,f7,Time
+179,c5ta06540b,f4,Time
+180,c5ta09125j,f9,Time
+181,c5ta09252c,f9,Time
+182,c7ta02282d,f8,Time
+183,c7ta09136b,f7,Time
+184,c8ta06730a,f4,Time
+185,c8ta08306a,f8,Time
+186,c8ta08975b,f4,Time
+187,c8ta12274a,f4,Time
+188,c5ta04933d,f7,Time
+189,c5ta05162b,f3,Time
+190,c6ta06115j,f10,Time
+191,c6ta09406f,f4,Time
+192,c6ta10543b,f21,Time
+193,c7ta00566k,f8,Time
+194,c7ta08999f,f3,Time
+195,c8ta02962h,f3,Time
+196,c8ta03509a,f4,Time
+197,c8ta07254j,f4,Time
+198,c9ta11103d,f4,Time
+199,c5ta00638d,f6,Time
+200,c5ta01101a,f4,Time
+201,c4ta04984e,f6,Time
+202,c6ta07424c,f6,Time
+203,c7ta10290a,f7,Time
+204,c8ta00492g,f5,Time
+205,c8ta00827b,f9,Time
+206,c8ta01114a,f8,Time
+207,c4ta06604a,f3,Time
+208,c5ta04976h,f13,Time
+209,c5ta05826k,f2,Time
+210,c5ta09024e,f7,Time
+211,c5ta09418f,f6,Time
+212,c5ta10708c,f9,Time
+213,c6ta01450j,f4,Time
+214,c6ta08003k,f5,Time
+215,c7ta03252h,f6,Time
+216,c5ta00566c,f4,Time
+217,c5ta00986c,f5,Time
+218,c5ta01129a,f6,Time
+219,c5ta01213a,f7,Time
+220,c5ta04400f,f10,Time
+221,c6ta00392c,f2,Time
+222,c6ta01963c,f8,Time
+223,c7ta06182j,f4,Time
+224,c7ta06642b,f2,Time
+225,c4ta06604a,f2,Time
+226,c8ta09235d,f7,Time
+227,c4ta06936f,f10,Time
+228,c5ta03663a,f7,Time
+229,c5ta03918e,f6,Time
+230,c6ta02885c,f8,Time
+231,c6ta09990d,f19,Time
+232,c7ta04045h,f18,Time
+233,c7ta06258c,f9,Time
+234,c7ta11283a,f17,Time
+235,c8ta00012c,f4,Time
+236,c8ta05106b,f13,Time
+237,c5ta02662h,f8,Time
+238,c5ta03850b,f11,Time
+239,c5ta09919f,f13,Time
+240,c7ta01616f,f7,Time
+241,c7ta09178h,f3,Time
+242,c8ta03464h,f7,Time
+243,c8ta05785k,f2,Time
+244,c9ta01674k,f10,Time
+245,c5ta00468c,f4,Time
+246,c5ta06678f,f4,Time
+247,c4ta05328a,f4,Time
+248,c5ta07459b,f12,Time
+249,c5ta09911k,f26,Time
+250,c6ta04605c,f3,Time
+251,c6ta07330a,f8,Time
+252,c6ta07757a,f4,Time
+253,c7ta06245a,f8,Time
+254,c4ta06362g,f7,Time
+255,c7ta10966k,f7,Time
+256,c8ta03027h,f3,Time
+257,c9ta01979k,f25,Time
+258,c5ta00435g,f7,Time
+259,c5ta00706b,f6,Time
+260,c5ta03318g,f5,Time
+261,c5ta03465e,f11,Time
+262,c5ta09234e,f9,Time
+263,c6ta01344a,f5,Time
+264,c6ta05380g,f22,Time
+265,c6ta06733f,f7,Time
+266,c7ta02297b,f7,Time
+267,c4ta06147k,f13,Time
+268,c7ta04440b,f7,Time
+269,c7ta10886a,f4,Time
+270,c8ta02356e,f8,Time
+271,c8ta06865h,f6,Time
+272,c8ta08932a,f29,Time
+273,c8ta09801h,f12,Time
+274,c9ta00028c,f6,Time
+275,c9ta00580c,f4,Time
+276,c9ta01165j,f6,Time
+277,c9ta01979k,f18,Time
+278,c9ta02393c,f6,Time
+279,c5ta01889g,f9,Time
+280,c5ta03949e,f7,Time
+281,c5ta04136h,f2,Time
+282,c5ta04136h,f3,Time
+283,c5ta08542j,f7,Time
+284,c6ta00402d,f6,Time
+285,c6ta08313g,f6,Time
+286,c8ta01045e,f4,Time
+287,c4ta06556e,f6,Time
+288,c8ta10633a,f5,Time
+289,c4ta07150f,f7,Time
+290,c4ta07213h,f10,Time
+291,c5ta02154e,f7,Time
+292,c5ta02514a,f8,Time
+293,c6ta04416f,f14,Time
+294,c7ta00353f,f4,Time
+295,c4ta06124a,f9,Time
+296,c7ta11138j,f8,Time
+297,c8ta09160a,f11,Time
+298,c4ta06837h,f6,Time
+299,c5ta00687b,f7,Time
+300,c5ta00839e,f5,Time
+301,c5ta01087j,f10,Time
+302,c5ta01207d,f14,Time
+303,c5ta03229f,f9,Time
+304,c5ta05371d,f4,Time
+305,c4ta05229c,f5,Time
+306,c5ta07112g,f9,Time
+307,c5ta07970e,f9,Time
+308,c6ta04639h,f8,Time
+309,c7ta03199h,f3,Time
+310,c7ta04041e,f10,Time
+311,c4ta06266c,f4,Time
+312,c8ta01093e,f3,Time
+313,c8ta07965j,f2,Time
+314,c8ta10932j,f6,Time
+315,c9ta01749f,f16,Time
+316,c5ta00103j,f8,Time
+317,c5ta01972a,f3,Time
+318,c5ta02514a,f9,Time
+319,c5ta02954f,f8,Time
+320,c5ta03955j,f7,Time
+321,c4ta05419a,f5,Time
+322,c6ta05823j,f9,Time
+323,c6ta06735b,f4,Time
+324,c7ta02047c,f6,Time
+325,c7ta07232e,f10,Time
+326,c7ta10759e,f9,Time
+327,c8ta02083c,f9,Time
+328,c8ta04783a,f3,Time
+329,c4ta06636g,f2,Time
+330,c8ta07973k,f11,Time
+331,c8ta08103d,f7,Time
+332,c5ta02640g,f9,Time
+333,c5ta03524d,f8,Time
+334,c4ta01304b,f14,Time
+335,c5ta05747g,f4,Time
+336,c5ta06069a,f1,Time
+337,c5ta07813j,f9,Time
+338,c5ta09029f,f7,Time
+339,c5ta10190e,f4,Time
+340,c6ta04364j,f5,Time
+341,c6ta09986f,f10,Time
+342,c7ta00891k,f6,Time
+343,c8ta00753e,f7,Time
+344,c8ta08518h,f10,Time
+345,c9ta00490d,f8,Time
+346,c9ta00556k,f8,Time
+347,c5ta01637a,f4,Time
+348,c5ta01720c,f8,Time
+349,c6ta03237k,f8,Time
+350,c6ta07177e,f1,Time
+351,c7ta08255j,f3,Time
+352,c8ta12274a,f3,Time
+353,c5ta00136f,f4,Time
+354,c5ta00763a,f8,Time
+355,c5ta00820d,f6,Time
+356,c5ta00870k,f7,Time
+357,c5ta01863c,f3,Time
+358,c5ta03612g,f5,Time
+359,c4ta03607g,f6,Time
+360,c5ta09860b,f8,Time
+361,c4ta05462h,f8,Time
+362,c6ta02672a,f11,Time
+363,c6ta09817g,f7,Time
+364,c4ta06295g,f6,Time
+365,c7ta10367k,f12,Time
+366,c4ta05042h,f7,Time
+367,c7ta05609e,f14,Time
+368,c8ta00602d,f5,Time
+369,c8ta10444a,f1,Time
+370,c4ta06858k,f14,Time
+371,c4ta05087h,f9,Time
+372,c7ta00879a,f5,Time
+373,c7ta00907k,f9,Time
+374,c7ta02078c,f8,Time
+375,c7ta03201c,f3,Time
+376,c7ta05679f,f4,Time
+377,c7ta05679f,f6,Time
+378,c7ta06856e,f16,Time
+379,c4ta06363e,f2,Time
+380,c7ta08328a,f5,Time
+381,c9ta01863h,f8,Time
+382,c9ta02237f,f8,Time
+383,c5ta02114f,f8,Time
+384,c5ta04021c,f7,Time
+385,c5ta05507e,f7,Time
+386,c6ta02348g,f12,Time
+387,c7ta04891b,f4,Time
+388,c7ta04940d,f9,Time
+389,c4ta06853j,f5,Time
+390,c5ta00358j,f6,Time
+391,c5ta01221j,f5,Time
+392,c5ta03056k,f4,Time
+393,c5ta05503b,f9,Time
+394,c5ta05788d,f1,Time
+395,c7ta09409d,f10,Time
+396,c8ta00494c,f9,Time
+397,c8ta03312a,f5,Time
+398,c9ta07346a,f11,Time
+399,c5ta00077g,f3,Time
+400,c5ta02525g,f10,Time
+401,c6ta07859a,f6,Time
+402,c4ta06530a,f4,Time
+403,c8ta10876e,f7,Time
+404,c5ta02045j,f6,Time
+405,c5ta05397h,f6,Time
+406,c5ta09989g,f2,Time
+407,c4ta05496b,f8,Time
+408,c4ta05504g,f8,Time
+409,c7ta01980g,f8,Time
+410,c7ta03965d,f1,Time
+411,c7ta08959g,f14,Time
+412,c9ta01220f,f7,Time
+413,c5ta10452a,f3,Time
+414,c6ta02501c,f6,Time
+415,c6ta05090e,f7,Time
+416,c6ta07653j,f7,Time
+417,c7ta01268c,f3,Time
+418,c7ta04132b,f8,Time
+419,c7ta04762b,f13,Time
+420,c7ta05225a,f8,Time
+421,c7ta06741k,f3,Time
+422,c7ta08025e,f4,Time
+423,c8ta02259c,f5,Time
+424,c9ta04482e,f11,Time
+425,c5ta00322a,f7,Time
+426,c5ta08336b,f9,Time
+427,c4ta05704j,f3,Time
+428,c6ta07541j,f6,Time
+429,c6ta10541f,f5,Time
+430,c7ta02316b,f2,Time
+431,c7ta09685b,f7,Time
+432,c8ta00602d,f8,Time
+433,c8ta01907j,f5,Time
+434,c8ta02016g,f9,Time
+435,c8ta03208d,f5,Time
+436,c8ta05973j,f5,Time
+437,c8ta08914k,f7,Time
+438,c8ta11515j,f2,Time
+439,c9ta01028a,f2,Time
+440,c5ta06248a,f4,Time
+441,c5ta09295g,f4,Time
+442,c4ta06075j,f7,Time
+443,c7ta07587a,f6,Time
+444,c7ta08619a,f10,Time
+445,c8ta00671g,f4,Time
+446,c8ta02629g,f4,Time
+447,c9ta01674k,f11,Time
+448,c5ta02975a,f8,Time
+449,c5ta05162b,f4,Time
+450,c5ta08340k,f8,Time
+451,c4ta05663a,f3,Time
+452,c6ta03936g,f7,Time
+453,c6ta04530h,f5,Time
+454,c4ta05736h,f6,Time
+455,c6ta10473h,f6,Time
+456,c6ta11139d,f8,Time
+457,c7ta00229g,f7,Time
+458,c4ta06134a,f9,Time
+459,c7ta05206e,f9,Time
+460,c8ta07797e,f6,Time
+461,c8ta08458k,f7,Time
+462,c9ta02002k,f4,Time
+463,c5ta00816f,f10,Time
+464,c5ta02320c,f7,Time
+465,c5ta03500g,f7,Time
+466,c4ta05204h,f5,Time
+467,c5ta05370f,f10,Time
+468,c5ta05487g,f4,Time
+469,c5ta05628d,f4,Time
+470,c5ta09435f,f11,Time
+471,c6ta01427e,f6,Time
+472,c6ta04845e,f10,Time
+473,c6ta06078a,f5,Time
+474,c6ta10535a,f4,Time
+475,c7ta10934b,f6,Time
+476,c8ta00012c,f5,Time
+477,c4ta06714b,f4,Time
+478,c5ta01361e,f8,Time
+479,c5ta01837d,f9,Time
+480,c5ta04351d,f9,Time
+481,c5ta06142c,f5,Time
+482,c6ta01460g,f10,Time
+483,c6ta04364j,f8,Time
+484,c7ta09216d,f3,Time
+485,c8ta02969e,f1,Time
+486,c4ta06625a,f6,Time
+487,c9ta01749f,f10,Time
+488,c4ta06860b,f6,Time
+489,c5ta00201j,f9,Time
+490,c5ta00557d,f4,Time
+491,c5ta01099c,f8,Time
+492,c5ta02201k,f6,Time
+493,c5ta03214h,f6,Time
+494,c5ta03734d,f2,Time
+495,c5ta04257g,f9,Time
+496,c5ta05306d,f9,Time
+497,c5ta08562d,f5,Time
+498,c5ta10675c,f7,Time
+499,c6ta10693e,f10,Time
+500,c7ta02405c,f7,Time
+501,c7ta07261a,f8,Time
+502,c8ta07760f,f4,Time
+503,c4ta06830k,f7,Time
+504,c4ta04951a,f8,Time
+505,c5ta03279b,f6,Time
+506,c5ta04675k,f5,Time
+507,c5ta10105k,f10,Time
+508,c6ta00334f,f2,Time
+509,c6ta04416f,f12,Time
+510,c7ta00590c,f2,Time
+511,c7ta01142c,f20,Time
+512,c4ta04197f,f8,Time
+513,c7ta04975g,f6,Time
+514,c7ta05206e,f11,Time
+515,c7ta08778k,f1,Time
+516,c8ta05751f,f8,Time
+517,c8ta08294d,f10,Time
+518,c8ta09466g,f8,Time
+519,c9ta06038c,f5,Time
+520,c9ta09400h,f11,Time
+521,c5ta02939b,f5,Time
+522,c5ta04137f,f4,Time
+523,c6ta01749e,f14,Time
+524,c6ta03936g,f8,Time
+525,c6ta04468a,f6,Time
+526,c4ta05820h,f7,Time
+527,c7ta02003a,f13,Time
+528,c7ta03890a,f7,Time
+529,c8ta05894f,f8,Time
+530,c8ta10651g,f6,Time
+531,c9ta04886c,f4,Time
+532,c5ta00316d,f11,Time
+533,c5ta00816f,f14,Time
+534,c5ta02201k,f9,Time
+535,c4ta05005c,f8,Time
+536,c5ta03663a,f6,Time
+537,c5ta04422g,f7,Time
+538,c6ta07456a,f11,Time
+539,c6ta09559c,f3,Time
+540,c6ta10541f,f12,Time
+541,c7ta00117g,f9,Time
+542,c7ta02297b,f5,Time
+543,c7ta04308b,f3,Time
+544,c7ta05155g,f6,Time
+545,c7ta10886a,f8,Time
+546,c8ta02356e,f9,Time
+547,c9ta06911a,f5,Time
+548,c5ta02827b,f10,Time
+549,c5ta03959b,f5,Time
+550,c5ta04573h,f8,Time
+551,c5ta06454f,f7,Time
+552,c5ta08468g,f8,Time
+553,c6ta00343e,f2,Time
+554,c6ta02830f,f7,Time
+555,c6ta09100h,f7,Time
+556,c6ta10044a,f7,Time
+557,c7ta02576a,f5,Time
+558,c7ta03172f,f4,Time
+559,c5ta00435g,f9,Time
+560,c5ta01135c,f5,Time
+561,c5ta05350a,f9,Time
+562,c5ta06955f,f10,Time
+563,c6ta06733f,f28,Time
+564,c7ta06806a,f8,Time
+565,c7ta09814f,f6,Time
+566,c4ta06593j,f12,Time
+567,c8ta07879c,f8,Time
+568,c9ta01106d,f12,Time
+569,c9ta08319g,f1,Time
+570,c9ta08992f,f3,Time
+571,c5ta04617c,f9,Time
+572,c5ta06563a,f4,Time
+573,c5ta10316a,f5,Time
+574,c6ta01053a,f4,Time
+575,c6ta04468a,f10,Time
+576,c6ta05790j,f9,Time
+577,c6ta08981j,f7,Time
+578,c6ta10297b,f20,Time
+579,c6ta10572f,f8,Time
+580,c7ta04728b,f11,Temperature
+581,c7ta11096k,f6,Temperature
+582,c5ta02017d,f2,Temperature
+583,c5ta09744d,f9,Temperature
+584,c4ta05536e,f7,Temperature
+585,c4ta05938g,f1,Temperature
+586,c7ta02204b,f9,Temperature
+587,c7ta02659e,f2,Temperature
+588,c7ta04054g,f3,Temperature
+589,c7ta04246a,f1,Temperature
+590,c7ta04810f,f3,Temperature
+591,c7ta08653a,f4,Temperature
+592,c7ta09659c,f2,Temperature
+593,c4ta06636g,f4,Temperature
+594,c5ta01037c,f2,Temperature
+595,c5ta01720c,f7,Temperature
+596,c5ta02628h,f2,Temperature
+597,c5ta10090a,f2,Temperature
+598,c4ta05504g,f2,Temperature
+599,c4ta03968h,f5,Temperature
+600,c6ta09751k,f2,Temperature
+601,c6ta11120c,f8,Temperature
+602,c7ta03554c,f7,Temperature
+603,c7ta08653a,f2,Temperature
+604,c8ta08045c,f2,Temperature
+605,c8ta11329g,f5,Temperature
+606,c9ta09244g,f2,Temperature
+607,c5ta01690h,f17,Temperature
+608,c6ta03404g,f5,Temperature
+609,c6ta09005b,f7,Temperature
+610,c7ta01513e,f10,Temperature
+611,c7ta02494k,f4,Temperature
+612,c8ta06269b,f3,Temperature
+613,c9ta03750k,f7,Temperature
+614,c4ta05026f,f10,Temperature
+615,c5ta05840f,f4,Temperature
+616,c6ta04310k,f8,Temperature
+617,c6ta11121a,f4,Temperature
+618,c7ta07034a,f5,Temperature
+619,c8ta00576a,f12,Temperature
+620,c9ta04912f,f3,Temperature
+621,c5ta00237k,f7,Temperature
+622,c5ta01260k,f6,Temperature
+623,c5ta01752a,f3,Temperature
+624,c4ta05247a,f6,Temperature
+625,c4ta03688c,f1,Temperature
+626,c5ta08166a,f3,Temperature
+627,c8ta04812f,f7,Temperature
+628,c8ta07140c,f6,Temperature
+629,c9ta03252e,f6,Temperature
+630,c4ta07095j,f1,Temperature
+631,c4ta04570j,f5,Temperature
+632,c5ta01699a,f3,Temperature
+633,c5ta02416a,f2,Temperature
+634,c5ta03704b,f5,Temperature
+635,c4ta03699a,f2,Temperature
+636,c6ta00261g,f9,Temperature
+637,c6ta10468a,f7,Temperature
+638,c7ta00566k,f3,Temperature
+639,c7ta00834a,f8,Temperature
+640,c4ta06062h,f4,Temperature
+641,c7ta04894g,f9,Temperature
+642,c7ta08663f,f3,Temperature
+643,c8ta00602d,f11,Temperature
+644,c4ta06692h,f2,Temperature
+645,c5ta00697j,f8,Temperature
+646,c5ta01637a,f9,Temperature
+647,c5ta02162f,f3,Temperature
+648,c5ta03937a,f12,Temperature
+649,c4ta03519d,f7,Temperature
+650,c6ta04337b,f2,Temperature
+651,c6ta09475a,f7,Temperature
+652,c7ta05025a,f2,Temperature
+653,c8ta06280c,f11,Temperature
+654,c8ta10079a,f11,Temperature
+655,c5ta03088a,f6,Temperature
+656,c5ta04257g,f1,Temperature
+657,c6ta06445k,f4,Temperature
+658,c7ta04266c,f5,Temperature
+659,c7ta05215d,f6,Temperature
+660,c8ta00910d,f12,Temperature
+661,c8ta10950h,f5,Temperature
+662,c4ta06860b,f4,Temperature
+663,c5ta05350a,f8,Temperature
+664,c6ta00100a,f17,Temperature
+665,c6ta05308d,f9,Temperature
+666,c6ta08692f,f5,Temperature
+667,c6ta09809f,f16,Temperature
+668,c7ta00905d,f6,Temperature
+669,c7ta02595e,f9,Temperature
+670,c7ta04169a,f7,Temperature
+671,c7ta09216d,f1,Temperature
+672,c7ta09762j,f5,Temperature
+673,c7ta10821d,f4,Temperature
+674,c8ta04082f,f9,Temperature
+675,c4ta06974a,f9,Temperature
+676,c5ta00094g,f3,Temperature
+677,c5ta00208g,f5,Temperature
+678,c5ta02897c,f8,Temperature
+679,c5ta04986e,f3,Temperature
+680,c6ta00593d,f4,Temperature
+681,c6ta03733j,f3,Temperature
+682,c7ta02595e,f4,Temperature
+683,c8ta02250j,f10,Temperature
+684,c4ta06613h,f8,Temperature
+685,c4ta06974a,f10,Temperature
+686,c5ta00367a,f1,Temperature
+687,c4ta04635h,f2,Temperature
+688,c5ta02276b,f3,Temperature
+689,c5ta04193g,f11,Temperature
+690,c5ta05380c,f4,Temperature
+691,c6ta04011j,f8,Temperature
+692,c7ta02037f,f3,Temperature
+693,c7ta08954f,f3,Temperature
+694,c8ta08593e,f5,Temperature
+695,c5ta02155c,f8,Temperature
+696,c5ta02276b,f10,Temperature
+697,c5ta04894j,f5,Temperature
+698,c5ta05397h,f2,Temperature
+699,c7ta02345f,f6,Temperature
+700,c7ta03071a,f1,Temperature
+701,c4ta06407k,f7,Temperature
+702,c8ta07140c,f7,Temperature
+703,c5ta01306b,f7,Temperature
+704,c5ta03442f,f5,Temperature
+705,c6ta00416d,f2,Temperature
+706,c6ta00953k,f8,Temperature
+707,c6ta03485c,f4,Temperature
+708,c6ta03654f,f2,Temperature
+709,c6ta08203c,f3,Temperature
+710,c6ta08955k,f7,Temperature
+711,c7ta00986k,f9,Temperature
+712,c7ta01861d,f2,Temperature
+713,c4ta06636g,f6,Temperature
+714,c8ta11254a,f7,Temperature
+715,c5ta01936b,f6,Temperature
+716,c5ta02149a,f5,Temperature
+717,c5ta04345j,f6,Temperature
+718,c6ta04297j,f3,Temperature
+719,c6ta09114h,f2,Temperature
+720,c6ta10340e,f2,Temperature
+721,c5ta00309a,f12,Temperature
+722,c6ta00698a,f9,Temperature
+723,c6ta02704k,f2,Temperature
+724,c7ta04452f,f10,Temperature
+725,c7ta07898f,f11,Temperature
+726,c7ta08954f,f6,Temperature
+727,c8ta02067a,f8,Temperature
+728,c8ta05159c,f4,Temperature
+729,c8ta08180h,f5,Temperature
+730,c8ta09439j,f7,Temperature
+731,c9ta01962f,f8,Temperature
+732,c5ta01062d,f5,Temperature
+733,c4ta04765f,f3,Temperature
+734,c5ta04400f,f9,Temperature
+735,c5ta05656j,f8,Temperature
+736,c4ta05616g,f2,Temperature
+737,c4ta05833j,f2,Temperature
+738,c7ta07780g,f12,Temperature
+739,c8ta02845a,f4,Temperature
+740,c8ta08731h,f5,Temperature
+741,c8ta10710f,f2,Temperature
+742,c9ta04868e,f4,Temperature
+743,c5ta01260k,f8,Temperature
+744,c5ta01699a,f2,Temperature
+745,c6ta00746e,f3,Temperature
+746,c6ta08981j,f4,Temperature
+747,c4ta06037g,f5,Temperature
+748,c7ta03888g,f6,Temperature
+749,c7ta10367k,f11,Temperature
+750,c8ta01672k,f12,Temperature
+751,c9ta09576d,f5,Temperature
+752,c4ta07183b,f2,Temperature
+753,c5ta02941d,f3,Temperature
+754,c5ta05397h,f5,Temperature
+755,c4ta05445h,f1,Temperature
+756,c6ta00261g,f7,Temperature
+757,c4ta05618c,f5,Temperature
+758,c6ta03485c,f11,Temperature
+759,c6ta03485c,f13,Temperature
+760,c6ta07025f,f11,Temperature
+761,c6ta10210g,f9,Temperature
+762,c6ta10513k,f2,Temperature
+763,c4ta06134a,f3,Temperature
+764,c7ta03603e,f7,Temperature
+765,c7ta04945e,f10,Temperature
+766,c5ta00292c,f6,Temperature
+767,c5ta02263k,f3,Temperature
+768,c4ta05026f,f7,Temperature
+769,c6ta07392a,f6,Temperature
+770,c8ta08932a,f35,Temperature
+771,c5ta01260k,f4,Temperature
+772,c5ta01690h,f6,Temperature
+773,c6ta03485c,f10,Temperature
+774,c9ta00174c,f5,Temperature
+775,c9ta07768e,f9,Temperature
+776,c5ta01337b,f4,Temperature
+777,c6ta04011j,f6,Temperature
+778,c6ta09293d,f10,Temperature
+779,c7ta11142h,f3,Temperature
+780,c5ta00208g,f7,Temperature
+781,c5ta00216h,f1,Temperature
+782,c5ta01273b,f3,Temperature
+783,c4ta05165c,f9,Temperature
+784,c6ta00368k,f3,Temperature
+785,c4ta05740f,f11,Temperature
+786,c7ta06167f,f11,Temperature
+787,c7ta09659c,f4,Temperature
+788,c8ta01231h,f4,Temperature
+789,c8ta09235d,f3,Temperature
+790,c8ta09423c,f5,Temperature
+791,c9ta00713j,f7,Temperature
+792,c5ta00149h,f5,Temperature
+793,c5ta02162f,f4,Temperature
+794,c5ta06020f,f7,Temperature
+795,c6ta09106g,f3,Temperature
+796,c7ta01174a,f8,Temperature
+797,c7ta02671d,f6,Temperature
+798,c7ta04452f,f4,Temperature
+799,c7ta09496e,f4,Temperature
+800,c8ta00500a,f8,Temperature
+801,c5ta00545k,f3,Temperature
+802,c5ta01523e,f1,Temperature
+803,c5ta04527d,f6,Temperature
+804,c5ta09739h,f1,Temperature
+805,c6ta07456a,f4,Temperature
+806,c7ta08000j,f10,Temperature
+807,c7ta08127h,f6,Temperature
+808,c5ta02107c,f5,Temperature
+809,c5ta02941d,f4,Temperature
+810,c4ta03875d,f6,Temperature
+811,c6ta02041k,f2,Temperature
+812,c6ta03181a,f5,Temperature
+813,c7ta10509f,f4,Temperature
+814,c4ta06475e,f8,Temperature
+815,c8ta08412b,f7,Temperature
+816,c8ta08851a,f6,Temperature
+817,c8ta10476j,f4,Temperature
+818,c4ta04667f,f8,Temperature
+819,c5ta01936b,f8,Temperature
+820,c4ta04993d,f10,Temperature
+821,c5ta03088a,f4,Temperature
+822,c5ta06107e,f6,Temperature
+823,c5ta06212h,f4,Temperature
+824,c6ta00589f,f2,Temperature
+825,c4ta05720a,f4,Temperature
+826,c7ta00871f,f7,Temperature
+827,c7ta04690a,f7,Temperature
+828,c8ta00827b,f2,Temperature
+829,c8ta04082f,f6,Temperature
+830,c4ta06636g,f7,Temperature
+831,c8ta08391f,f9,Temperature
+832,c5ta01125f,f6,Temperature
+833,c5ta09446a,f7,Temperature
+834,c6ta02672a,f13,Temperature
+835,c6ta10447a,f4,Temperature
+836,c7ta00665a,f3,Temperature
+837,c7ta00871f,f8,Temperature
+838,c4ta06520d,f5,Temperature
+839,c9ta01979k,f17,Temperature
+840,c5ta01062d,f4,Temperature
+841,c5ta01361e,f4,Temperature
+842,c5ta05380c,f2,Temperature
+843,c5ta06753g,f3,Temperature
+844,c6ta10420g,f1,Temperature
+845,c7ta02345f,f8,Temperature
+846,c7ta02552a,f7,Temperature
+847,c8ta01920g,f5,Temperature
+848,c9ta08368e,f3,Temperature
+849,c5ta01336d,f3,Temperature
+850,c5ta02525g,f4,Temperature
+851,c5ta03056k,f6,Temperature
+852,c4ta05116e,f6,Temperature
+853,c5ta05204a,f5,Temperature
+854,c5ta06966a,f3,Temperature
+855,c6ta00969g,f7,Temperature
+856,c6ta03027k,f3,Temperature
+857,c6ta07599a,f1,Temperature
+858,c7ta01080j,f3,Temperature
+859,c4ta06049k,f4,Temperature
+860,c7ta02916k,f4,Temperature
+861,c8ta03805h,f8,Temperature
+862,c8ta08309f,f1,Temperature
+863,c5ta01949d,f3,Temperature
+864,c5ta02149a,f10,Temperature
+865,c5ta02155c,f7,Temperature
+866,c4ta04952g,f7,Temperature
+867,c6ta06442f,f1,Temperature
+868,c6ta09548h,f8,Temperature
+869,c7ta00871f,f6,Temperature
+870,c7ta09112e,f2,Temperature
+871,c7ta11096k,f8,Temperature
+872,c8ta04379e,f4,Temperature
+873,c5ta01617g,f5,Temperature
+874,c5ta01637a,f14,Temperature
+875,c5ta01690h,f8,Temperature
+876,c5ta03776j,f2,Temperature
+877,c6ta06696h,f4,Temperature
+878,c6ta08684e,f1,Temperature
+879,c6ta09532a,f9,Temperature
+880,c7ta00987a,f5,Temperature
+881,c7ta01398a,f1,Temperature
+882,c7ta03603e,f8,Temperature
+883,c8ta00269j,f3,Temperature
+884,c8ta07572g,f12,Temperature
+885,c8ta09054h,f2,Temperature
+886,c9ta01233h,f7,Temperature
+887,c4ta04677c,f2,Temperature
+888,c5ta01123j,f9,Temperature
+889,c5ta01306b,f5,Temperature
+890,c4ta04908j,f6,Temperature
+891,c4ta05422a,f1,Temperature
+892,c6ta02067d,f6,Temperature
+893,c6ta04074h,f5,Temperature
+894,c4ta03986f,f6,Temperature
+895,c6ta09475a,f8,Temperature
+896,c6ta09990d,f14,Temperature
+897,c7ta06986c,f9,Temperature
+898,c7ta10759e,f1,Temperature
+899,c8ta01286e,f6,Temperature
+900,c8ta04222e,f5,Temperature
+901,c8ta09466g,f7,Temperature
+902,c9ta00788a,f4,Temperature
+903,c9ta06274b,f5,Temperature
+904,c9ta06279c,f4,Temperature
+905,c5ta04456a,f2,Temperature
+906,c5ta08630b,f1,Temperature
+907,c5ta08640j,f7,Temperature
+908,c5ta09573e,f1,Temperature
+909,c4ta05684a,f6,Temperature
+910,c7ta02842c,f3,Temperature
+911,c4ta06586g,f2,Temperature
+912,c8ta06034g,f3,Temperature
+913,c9ta04844h,f3,Temperature
+914,c5ta00006h,f5,Temperature
+915,c5ta00664c,f11,Temperature
+916,c5ta00697j,f4,Temperature
+917,c5ta00943j,f8,Temperature
+918,c5ta02017d,f7,Temperature
+919,c5ta03759j,f3,Temperature
+920,c5ta05700k,f4,Temperature
+921,c5ta06383c,f3,Temperature
+922,c5ta06779k,f13,Temperature
+923,c5ta06780d,f7,Temperature
+924,c5ta09860b,f4,Temperature
+925,c6ta01749e,f6,Temperature
+926,c6ta01757f,f14,Temperature
+927,c6ta09777d,f1,Temperature
+928,c8ta05106b,f3,Temperature
+929,c8ta07539e,f6,Temperature
+930,c5ta01699a,f9,Temperature
+931,c4ta05026f,f9,Temperature
+932,c5ta03570h,f3,Temperature
+933,c5ta04642d,f4,Temperature
+934,c5ta05947j,f3,Temperature
+935,c6ta10928d,f2,Temperature
+936,c4ta04275a,f3,Temperature
+937,c4ta06613h,f6,Temperature
+938,c4ta05274a,f4,Temperature
+939,c7ta00191f,f2,Temperature
+940,c4ta06508e,f12,Temperature
+941,c8ta02210k,f7,Temperature
+942,c5ta01361e,f7,Temperature
+943,c4ta05797j,f6,Temperature
+944,c4ta05882h,f9,Temperature
+945,c6ta11167j,f4,Temperature
+946,c7ta09245h,f5,Temperature
+947,c9ta05531b,f7,Temperature
+948,c4ta07127a,f5,Temperature
+949,c5ta02360b,f2,Temperature
+950,c5ta05185a,f9,Temperature
+951,c5ta07204b,f4,Temperature
+952,c6ta09532a,f8,Temperature
+953,c4ta05964f,f9,Temperature
+954,c7ta06986c,f5,Temperature
+955,c4ta06407k,f5,Temperature
+956,c8ta01012a,f4,Temperature
+957,c8ta05638b,f9,Temperature
+958,c8ta09184f,f23,Temperature
+959,c9ta09244g,f3,Temperature
+960,c5ta05380c,f3,Temperature
+961,c6ta03916b,f5,Temperature
+962,c4ta05852f,f3,Temperature
+963,c6ta10954c,f8,Temperature
+964,c7ta00924k,f6,Temperature
+965,c7ta05404a,f9,Temperature
+966,c5ta00570a,f1,Temperature
+967,c5ta05743d,f5,Temperature
+968,c4ta05791k,f9,Temperature
+969,c6ta09038a,f7,Temperature
+970,c8ta01242c,f6,Temperature
+971,c8ta09054h,f3,Temperature
+972,c9ta02449b,f4,Temperature
+973,c5ta01852h,f7,Temperature
+974,c5ta03013g,f5,Temperature
+975,c5ta08513f,f2,Temperature
+976,c6ta07576b,f4,Temperature
+977,c7ta00871f,f5,Temperature
+978,c7ta03554c,f8,Temperature
+979,c7ta04141a,f5,Temperature
+980,c8ta00390d,f5,Temperature
+981,c9ta00643e,f2,Temperature
+982,c9ta05028k,f4,Temperature
+983,c5ta01504a,f6,Temperature
+984,c5ta01699a,f11,Temperature
+985,c5ta05818j,f2,Temperature
+986,c6ta07025f,f6,Temperature
+987,c6ta07740d,f2,Temperature
+988,c6ta08513j,f1,Temperature
+989,c7ta02003a,f5,Temperature
+990,c7ta03056h,f7,Temperature
+991,c7ta03359a,f5,Temperature
+992,c7ta03659k,f7,Temperature
+993,c7ta06167f,f4,Temperature
+994,c8ta00553b,f7,Temperature
+995,c8ta06280c,f9,Temperature
+996,c8ta08851a,f2,Temperature
+997,c5ta00722d,f4,Temperature
+998,c5ta01334h,f1,Temperature
+999,c5ta01964h,f3,Temperature
+1000,c5ta02721g,f4,Temperature
+1001,c5ta04349b,f12,Temperature
+1002,c5ta05300e,f1,Temperature
+1003,c4ta05621c,f8,Temperature
+1004,c6ta02340a,f6,Temperature
+1005,c6ta09145h,f6,Temperature
+1006,c6ta09155e,f4,Temperature
+1007,c7ta11257b,f2,Temperature
+1008,c8ta00346g,f6,Temperature
+1009,c8ta03270j,f1,Temperature
+1010,c8ta03651a,f6,Temperature
+1011,c8ta06326e,f18,Temperature
+1012,c8ta11672e,f8,Temperature
+1013,c9ta06889a,f8,Temperature
+1014,c4ta07083f,f4,Temperature
+1015,c4ta04677c,f9,Temperature
+1016,c5ta02522b,f7,Temperature
+1017,c5ta04188k,f3,Temperature
+1018,c6ta04011j,f7,Temperature
+1019,c7ta01080j,f2,Temperature
+1020,c7ta02110k,f3,Temperature
+1021,c9ta04951g,f5,Temperature
+1022,c5ta03570h,f2,Temperature
+1023,c4ta05621c,f10,Temperature
+1024,c6ta05985f,f7,Temperature
+1025,c6ta06189c,f4,Temperature
+1026,c7ta04762b,f7,Temperature
+1027,c8ta00759d,f8,Temperature
+1028,c8ta05642k,f2,Temperature
+1029,c5ta04345j,f9,Temperature
+1030,c4ta05422a,f2,Temperature
+1031,c6ta00746e,f6,Temperature
+1032,c6ta09990d,f7,Temperature
+1033,c6ta10543b,f17,Temperature
+1034,c5ta01123j,f7,Temperature
+1035,c5ta02939b,f13,Temperature
+1036,c6ta00402d,f12,Temperature
+1037,c6ta02116f,f7,Temperature
+1038,c7ta08545a,f3,Temperature
+1039,c4ta06625a,f3,Temperature
+1040,c4ta06837h,f4,Temperature
+1041,c5ta05728k,f9,Temperature
+1042,c5ta05824d,f1,Temperature
+1043,c6ta04240f,f10,Temperature
+1044,c7ta08256h,f2,Temperature
+1045,c9ta01167f,f4,Temperature
+1046,c9ta02449b,f3,Temperature
+1047,c9ta03750k,f5,Temperature
+1048,c9ta04487f,f7,Temperature
+1049,c5ta00383k,f6,Temperature
+1050,c5ta00570a,f6,Temperature
+1051,c5ta04110d,f5,Temperature
+1052,c5ta09832g,f5,Temperature
+1053,c6ta01749e,f5,Temperature
+1054,c6ta06407h,f1,Temperature
+1055,c7ta01080j,f6,Temperature
+1056,c7ta08242h,f5,Not target
+1057,c7ta08955d,f9,Not target
+1058,c8ta02281j,f15,Not target
+1059,c4ta06567k,f1,Not target
+1060,c8ta04120b,f34,Not target
+1061,c8ta08559e,f1,Not target
+1062,c8ta10682g,f3,Not target
+1063,c8ta10788b,f9,Not target
+1064,c9ta06317j,f3,Not target
+1065,c9ta08321a,f3,Not target
+1066,c5ta00753d,f1,Not target
+1067,c5ta02040a,f18,Not target
+1068,c5ta02040a,f5,Not target
+1069,c5ta03471j,f15,Not target
+1070,c5ta03676c,f7,Not target
+1071,c5ta05082k,f35,Not target
+1072,c5ta05592j,f1,Not target
+1073,c5ta08472e,f1,Not target
+1074,c5ta10393b,f4,Not target
+1075,c6ta04085c,f2,Not target
+1076,c4ta05765a,f1,Not target
+1077,c6ta06661e,f1,Not target
+1078,c6ta06782d,f2,Not target
+1079,c6ta07576b,f1,Not target
+1080,c6ta11047a,f1,Not target
+1081,c6ta11156d,f1,Not target
+1082,c7ta00879a,f6,Not target
+1083,c7ta01177f,f2,Not target
+1084,c7ta05131j,f6,Not target
+1085,c7ta06392j,f10,Not target
+1086,c7ta06839e,f2,Not target
+1087,c7ta07780g,f8,Not target
+1088,c8ta00377g,f1,Not target
+1089,c8ta02545b,f4,Not target
+1090,c8ta04686g,f1,Not target
+1091,c8ta05894f,f3,Not target
+1092,c8ta09080g,f7,Not target
+1093,c8ta11273h,f5,Not target
+1094,c8ta12168k,f12,Not target
+1095,c9ta00086k,f5,Not target
+1096,c9ta00669a,f4,Not target
+1097,c9ta02739d,f1,Not target
+1098,c9ta03595h,f2,Not target
+1099,c9ta04871e,f4,Not target
+1100,c9ta04949e,f1,Not target
+1101,c9ta05782j,f4,Not target
+1102,c9ta08151h,f1,Not target
+1103,c5ta00199d,f13,Not target
+1104,c5ta00359h,f2,Not target
+1105,c5ta01228g,f45,Not target
+1106,c5ta03471j,f3,Not target
+1107,c5ta05190h,f5,Not target
+1108,c5ta05280g,f1,Not target
+1109,c4ta05420b,f1,Not target
+1110,c5ta09424k,f5,Not target
+1111,c6ta02039a,f8,Not target
+1112,c6ta05868j,f3,Not target
+1113,c6ta07420k,f9,Not target
+1114,c4ta03995e,f3,Not target
+1115,c6ta10016c,f6,Not target
+1116,c6ta10274c,f1,Not target
+1117,c6ta10896b,f3,Not target
+1118,c7ta00125h,f3,Not target
+1119,c7ta00799j,f12,Not target
+1120,c4ta05996d,f1,Not target
+1121,c7ta01361b,f8,Not target
+1122,c7ta04981a,f1,Not target
+1123,c7ta07687h,f9,Not target
+1124,c8ta11913a,f3,Not target
+1125,c9ta00126c,f15,Not target
+1126,c5ta00812c,f3,Not target
+1127,c5ta04349b,f15,Not target
+1128,c5ta05008a,f5,Not target
+1129,c6ta02442d,f1,Not target
+1130,c6ta04315a,f5,Not target
+1131,c7ta00799j,f6,Not target
+1132,c7ta04441k,f4,Not target
+1133,c7ta05445a,f8,Not target
+1134,c7ta08629f,f8,Not target
+1135,c7ta10159g,f1,Not target
+1136,c8ta00215k,f2,Not target
+1137,c8ta04058c,f1,Not target
+1138,c8ta04800b,f1,Not target
+1139,c8ta06436a,f1,Not target
+1140,c9ta01979k,f6,Not target
+1141,c5ta00897b,f1,Not target
+1142,c5ta01087j,f7,Not target
+1143,c5ta01592h,f19,Not target
+1144,c7ta02116j,f1,Not target
+1145,c8ta07437b,f1,Not target
+1146,c9ta04871e,f3,Not target
+1147,c5ta01228g,f40,Not target
+1148,c4ta05154h,f9,Not target
+1149,c5ta08025h,f2,Not target
+1150,c5ta08728g,f4,Not target
+1151,c6ta02582j,f5,Not target
+1152,c6ta03260e,f1,Not target
+1153,c6ta03633c,f1,Not target
+1154,c4ta05810k,f3,Not target
+1155,c6ta08651a,f1,Not target
+1156,c4ta03992k,f9,Not target
+1157,c7ta02613g,f3,Not target
+1158,c7ta08243f,f3,Not target
+1159,c7ta10367k,f2,Not target
+1160,c7ta11274b,f38,Not target
+1161,c8ta03099e,f1,Not target
+1162,c8ta04471f,f1,Not target
+1163,c8ta05131c,f1,Not target
+1164,c8ta09838g,f1,Not target
+1165,c8ta11913a,f4,Not target
+1166,c8ta12293h,f2,Not target
+1167,c8ta12465e,f8,Not target
+1168,c8ta12465e,f2,Not target
+1169,c8ta12537f,f2,Not target
+1170,c9ta00867e,f39,Not target
+1171,c9ta04027g,f6,Not target
+1172,c9ta04482e,f1,Not target
+1173,c9ta04559g,f14,Not target
+1174,c9ta05185f,f13,Not target
+1175,c5ta02354h,f11,Not target
+1176,c5ta02507a,f15,Not target
+1177,c5ta03728j,f6,Not target
+1178,c5ta04151a,f3,Not target
+1179,c5ta04622j,f8,Not target
+1180,c5ta06426k,f2,Not target
+1181,c5ta06702b,f1,Not target
+1182,c5ta08114a,f3,Not target
+1183,c5ta08656f,f9,Not target
+1184,c4ta05524a,f1,Not target
+1185,c6ta02045c,f10,Not target
+1186,c6ta05455b,f1,Not target
+1187,c6ta06987h,f5,Not target
+1188,c6ta09234a,f8,Not target
+1189,c6ta09314k,f1,Not target
+1190,c7ta01285c,f1,Not target
+1191,c7ta01511a,f7,Not target
+1192,c7ta03719h,f2,Not target
+1193,c7ta03965d,f3,Not target
+1194,c7ta05743a,f1,Not target
+1195,c7ta06221d,f3,Not target
+1196,c7ta09741g,f1,Not target
+1197,c4ta06547f,f10,Not target
+1198,c8ta04901g,f2,Not target
+1199,c8ta05273e,f1,Not target
+1200,c8ta10286d,f6,Not target
+1201,c8ta10651g,f1,Not target
+1202,c8ta10959a,f1,Not target
+1203,c8ta11748a,f1,Not target
+1204,c9ta00798a,f4,Not target
+1205,c9ta04575a,f12,Not target
+1206,c9ta08804k,f6,Not target
+1207,c9ta09569a,f1,Not target
+1208,c4ta07101h,f4,Not target
+1209,c5ta00634a,f1,Not target
+1210,c5ta00763a,f1,Not target
+1211,c5ta01561h,f10,Not target
+1212,c5ta01592h,f22,Not target
+1213,c5ta02240a,f9,Not target
+1214,c5ta07687k,f5,Not target
+1215,c6ta01996j,f1,Not target
+1216,c6ta09532a,f11,Not target
+1217,c6ta10997g,f1,Not target
+1218,c4ta05941g,f1,Not target
+1219,c8ta09383k,f13,Not target
+1220,c8ta12465e,f4,Not target
+1221,c9ta00129h,f8,Not target
+1222,c9ta01195a,f1,Not target
+1223,c9ta04811a,f5,Not target
+1224,c9ta05185f,f16,Not target
+1225,c9ta06506g,f1,Not target
+1226,c6ta01645f,f8,Not target
+1227,c6ta04442e,f3,Not target
+1228,c6ta05441b,f40,Not target
+1229,c6ta07991a,f7,Not target
+1230,c6ta08449d,f8,Not target
+1231,c7ta03264a,f9,Not target
+1232,c7ta05853e,f1,Not target
+1233,c7ta11274b,f49,Not target
+1234,c9ta05182a,f2,Not target
+1235,c7ta04532h,f1,Not target
+1236,c7ta04829g,f10,Not target
+1237,c7ta06500k,f25,Not target
+1238,c7ta09409d,f3,Not target
+1239,c7ta11321h,f6,Not target
+1240,c8ta02704h,f2,Not target
+1241,c8ta04181d,f1,Not target
+1242,c4ta06679k,f3,Not target
+1243,c8ta09899a,f8,Not target
+1244,c8ta09939a,f7,Not target
+1245,c8ta10051a,f1,Not target
+1246,c8ta11132d,f5,Not target
+1247,c8ta12274a,f1,Not target
+1248,c9ta00928k,f7,Not target
+1249,c9ta01999e,f1,Not target
+1250,c9ta03575c,f5,Not target
+1251,c9ta04856a,f2,Not target
+1252,c9ta06088j,f7,Not target
+1253,c9ta07834g,f1,Not target
+1254,c9ta08991h,f17,Not target
+1255,c9ta11369j,f1,Not target
+1256,c5ta00697j,f1,Not target
+1257,c5ta02040a,f10,Not target
+1258,c5ta02058a,f2,Not target
+1259,c5ta02240a,f1,Not target
+1260,c5ta02443a,f1,Not target
+1261,c5ta02728d,f1,Not target
+1262,c5ta02901e,f1,Not target
+1263,c5ta02988k,f1,Not target
+1264,c5ta05660h,f1,Not target
+1265,c5ta05818j,f4,Not target
+1266,c5ta08107f,f6,Not target
+1267,c5ta08214e,f1,Not target
+1268,c6ta01385f,f14,Not target
+1269,c6ta04729g,f2,Not target
+1270,c6ta06271g,f1,Not target
+1271,c6ta06733f,f5,Not target
+1272,c6ta06863d,f4,Not target
+1273,c6ta06987h,f4,Not target
+1274,c6ta07991a,f1,Not target
+1275,c6ta09020f,f1,Not target
+1276,c6ta10902k,f8,Not target
+1277,c6ta10948a,f3,Not target
+1278,c7ta00481h,f1,Not target
+1279,c7ta00482f,f1,Not target
+1280,c7ta02196h,f1,Not target
+1281,c7ta04001f,f10,Not target
+1282,c7ta04720g,f1,Not target
+1283,c7ta05283a,f1,Not target
+1284,c7ta05457b,f1,Not target
+1285,c7ta07054c,f21,Not target
+1286,c7ta07576f,f3,Not target
+1287,c7ta08152a,f1,Not target
+1288,c7ta08441b,f1,Not target
+1289,c7ta08768c,f1,Not target
+1290,c7ta10404a,f7,Not target
+1291,c7ta11274b,f77,Not target
+1292,c8ta01232f,f6,Not target
+1293,c8ta01940a,f4,Not target
+1294,c8ta02281j,f14,Not target
+1295,c8ta04220a,f5,Not target
+1296,c8ta06072j,f1,Not target
+1297,c8ta08263d,f1,Not target
+1298,c8ta08932a,f5,Not target
+1299,c8ta09815h,f28,Not target
+1300,c8ta10982f,f6,Not target
+1301,c8ta10989c,f1,Not target
+1302,c9ta00993k,f1,Not target
+1303,c9ta06920h,f1,Not target
+1304,c9ta09201c,f10,Not target
+1305,c5ta00985e,f2,Not target
+1306,c5ta01972a,f1,Not target
+1307,c5ta02507a,f2,Not target
+1308,c5ta02507a,f21,Not target
+1309,c5ta03696h,f8,Not target
+1310,c5ta03807c,f1,Not target
+1311,c5ta05943g,f1,Not target
+1312,c5ta09436d,f6,Not target
+1313,c5ta09891b,f1,Not target
+1314,c6ta01676f,f2,Not target
+1315,c6ta02907h,f10,Not target
+1316,c6ta04022e,f6,Not target
+1317,c6ta05511g,f5,Not target
+1318,c6ta10094e,f1,Not target
+1319,c6ta10248d,f1,Not target
+1320,c6ta10340e,f7,Not target
+1321,c6ta10476b,f1,Not target
+1322,c6ta10511d,f9,Not target
+1323,c9ta08620j,f1,Not target
+1324,c7ta02562a,f7,Not target
+1325,c7ta05759h,f4,Not target
+1326,c7ta10850h,f1,Not target
+1327,c8ta02059k,f1,Not target
+1328,c9ta02935d,f15,Not target
+1329,c5ta00302d,f1,Not target
+1330,c5ta02007g,f1,Not target
+1331,c5ta07246h,f2,Not target
+1332,c6ta08364a,f1,Not target
+1333,c7ta01297g,f13,Not target
+1334,c7ta02653f,f16,Not target
+1335,c7ta03874g,f1,Not target
+1336,c7ta04544a,f7,Not target
+1337,c7ta06500k,f2,Not target
+1338,c7ta08533h,f3,Not target
+1339,c8ta09528k,f1,Not target
+1340,c9ta02413a,f11,Not target
+1341,c9ta04031e,f1,Not target
+1342,c9ta06401j,f1,Not target
+1343,c9ta08620j,f8,Not target
+1344,c5ta00166h,f6,Not target
+1345,c5ta01228g,f24,Not target
+1346,c5ta05751e,f1,Not target
+1347,c4ta05271d,f11,Not target
+1348,c5ta06129f,f1,Not target
+1349,c5ta06454f,f2,Not target
+1350,c5ta09763k,f6,Not target
+1351,c5ta10421a,f1,Not target
+1352,c6ta10305g,f12,Not target
+1353,c6ta10985c,f3,Not target
+1354,c7ta01258f,f11,Not target
+1355,c8ta03879a,f9,Not target
+1356,c7ta04169a,f1,Not target
+1357,c7ta04814a,f5,Not target
+1358,c7ta05680j,f2,Not target
+1359,c7ta07842k,f1,Not target
+1360,c8ta08391f,f1,Not target
+1361,c4ta05559d,f1,Not target
+1362,c6ta07314j,f2,Not target
+1363,c6ta07820f,f2,Not target
+1364,c6ta11052e,f11,Not target
+1365,c7ta00891k,f1,Not target
+1366,c7ta02742g,f1,Not target
+1367,c7ta03694a,f1,Not target
+1368,c7ta04496h,f3,Not target
+1369,c7ta05358d,f5,Not target
+1370,c7ta06500k,f37,Not target
+1371,c7ta07054c,f17,Not target
+1372,c7ta07147g,f11,Not target
+1373,c7ta08268a,f4,Not target
+1374,c7ta08955d,f1,Not target
+1375,c8ta01458b,f1,Not target
+1376,c8ta02627k,f1,Not target
+1377,c8ta02627k,f12,Not target
+1378,c8ta03343a,f8,Not target
+1379,c8ta03529f,f5,Not target
+1380,c8ta05402a,f7,Not target
+1381,c8ta06392c,f2,Not target
+1382,c8ta11154e,f1,Not target
+1383,c8ta11435h,f6,Not target
+1384,c8ta11704g,f1,Not target
+1385,c8ta12149d,f1,Not target
+1386,c9ta00120d,f6,Not target
+1387,c9ta00581a,f13,Not target
+1388,c9ta01976f,f10,Not target
+1389,c9ta02107h,f1,Not target
+1390,c9ta03784e,f1,Not target
+1391,c9ta04650j,f4,Not target
+1392,c9ta04863d,f15,Not target
+1393,c9ta05782j,f11,Not target
+1394,c9ta05846j,f1,Not target
+1395,c9ta06088j,f11,Not target
+1396,c9ta06209b,f9,Not target
+1397,c4ta04667f,f4,Not target
+1398,c5ta02241j,f1,Not target
+1399,c5ta05984d,f8,Not target
+1400,c5ta06082f,f1,Not target
+1401,c5ta06201b,f1,Not target
+1402,c5ta09165a,f6,Not target
+1403,c5ta09171c,f3,Not target
+1404,c4ta05445h,f4,Not target
+1405,c6ta00739b,f1,Not target
+1406,c6ta02265k,f3,Not target
+1407,c6ta02582j,f13,Not target
+1408,c6ta05384j,f2,Not target
+1409,c6ta05441b,f21,Not target
+1410,c6ta06285g,f1,Not target
+1411,c6ta06463a,f6,Not target
+1412,c6ta06782d,f1,Not target
+1413,c6ta08117g,f6,Not target
+1414,c7ta01847a,f8,Not target
+1415,c7ta01873h,f1,Not target
+1416,c7ta02031g,f1,Not target
+1417,c7ta06850f,f4,Not target
+1418,c7ta07203a,f1,Not target
+1419,c7ta07654a,f2,Not target
+1420,c4ta06422d,f1,Not target
+1421,c7ta11274b,f16,Not target
+1422,c4ta06516f,f1,Not target
+1423,c8ta04568b,f5,Not target
+1424,c8ta06195e,f1,Not target
+1425,c8ta06745g,f1,Not target
+1426,c8ta09072f,f1,Not target
+1427,c8ta09620a,f8,Not target
+1428,c8ta11382c,f10,Not target
+1429,c8ta11483h,f5,Not target
+1430,c9ta00994a,f4,Not target
+1431,c9ta05440e,f10,Not target
+1432,c9ta08620j,f17,Not target
+1433,c5ta01866h,f1,Not target
+1434,c5ta02295a,f4,Not target
+1435,c5ta04913j,f6,Not target
+1436,c5ta05657h,f7,Not target
+1437,c5ta06592e,f1,Not target
+1438,c5ta08656f,f1,Not target
+1439,c5ta09423b,f4,Not target
+1440,c6ta01625a,f2,Not target
+1441,c6ta07112k,f3,Not target
+1442,c6ta07697a,f1,Not target
+1443,c6ta07865f,f1,Not target
+1444,c6ta09038a,f2,Not target
+1445,c6ta10935g,f10,Not target
+1446,c7ta02105d,f21,Not target
+1447,c7ta02874a,f1,Not target
+1448,c4ta06222a,f1,Not target
+1449,c7ta11074j,f1,Not target
+1450,c7ta11100b,f1,Not target
+1451,c8ta00346g,f3,Not target
+1452,c8ta00671g,f12,Not target
+1453,c8ta00764k,f1,Not target
+1454,c8ta01141a,f1,Not target
+1455,c8ta05976d,f1,Not target
+1456,c8ta06326e,f6,Not target
+1457,c8ta07048b,f2,Not target
+1458,c8ta07572g,f1,Not target
+1459,c8ta07716a,f1,Not target
+1460,c8ta08001a,f2,Not target
+1461,c8ta08100j,f2,Not target
+1462,c9ta01646e,f7,Not target
+1463,c9ta03595h,f1,Not target
+1464,c9ta03775f,f1,Not target
+1465,c9ta04735b,f1,Not target
+1466,c9ta05383b,f20,Not target
+1467,c9ta06430c,f1,Not target
+1468,c9ta06470b,f10,Not target
+1469,c9ta06694b,f1,Not target
+1470,c9ta08163a,f2,Not target
+1471,c9ta08800h,f5,Not target
+1472,c9ta10479h,f2,Not target
+1473,c5ta02040a,f7,Not target
+1474,c5ta05132k,f1,Not target
+1475,c5ta05288b,f1,Not target
+1476,c5ta08433d,f1,Not target
+1477,c5ta09349j,f5,Not target
+1478,c6ta00785f,f3,Not target
+1479,c6ta07697a,f4,Not target
+1480,c6ta08198c,f1,Not target
+1481,c6ta08874k,f1,Not target
+1482,c6ta10543b,f1,Not target
+1483,c7ta00366h,f1,Not target
+1484,c7ta00389g,f9,Not target
+1485,c7ta00533d,f3,Not target
+1486,c7ta01124e,f10,Not target
+1487,c7ta10367k,f6,Not target
+1488,c9ta00132h,f3,Not target
+1489,c4ta04461d,f13,Not target
+1490,c5ta00084j,f1,Not target
+1491,c5ta01025j,f6,Not target
+1492,c5ta08424e,f2,Not target
+1493,c4ta05537c,f2,Not target
+1494,c6ta03311c,f1,Not target
+1495,c6ta09234a,f9,Not target
+1496,c6ta11226a,f1,Not target
+1497,c7ta05632j,f7,Not target
+1498,c7ta05759h,f13,Not target
+1499,c7ta07294e,f3,Not target
+1500,c8ta02256a,f1,Not target
+1501,c8ta09383k,f20,Not target
+1502,c8ta11460a,f10,Not target
+1503,c9ta07022b,f12,Not target
+1504,c6ta07411a,f1,Not target
+1505,c7ta01623a,f1,Not target
+1506,c7ta03691d,f4,Not target
+1507,c7ta04915c,f4,Not target
+1508,c7ta06500k,f31,Not target
+1509,c4ta06386d,f1,Not target
+1510,c7ta08985f,f5,Not target
+1511,c4ta06705c,f1,Not target
+1512,c8ta10822f,f13,Not target
+1513,c5ta00302d,f2,Not target
+1514,c5ta00923e,f3,Not target
+1515,c5ta01228g,f3,Not target
+1516,c5ta02491a,f7,Not target
+1517,c5ta02806j,f1,Not target
+1518,c4ta05226a,f2,Not target
+1519,c5ta05901a,f2,Not target
+1520,c5ta06013c,f9,Not target
+1521,c6ta02501c,f4,Not target
+1522,c7ta04045h,f11,Not target
+1523,c7ta04501h,f4,Not target
+1524,c7ta05910h,f11,Not target
+1525,c7ta06353a,f3,Not target
+1526,c7ta08826d,f1,Not target
+1527,c7ta09227j,f10,Not target
+1528,c8ta01168k,f1,Not target
+1529,c8ta02061b,f30,Not target
+1530,c8ta06670a,f2,Not target
+1531,c8ta09383k,f18,Not target
+1532,c9ta00535h,f3,Not target
+1533,c9ta04035h,f5,Not target
+1534,c9ta04642a,f1,Not target
+1535,c9ta05185f,f25,Not target
+1536,c9ta08253k,f37,Not target
+1537,c4ta07036d,f1,Not target
+1538,c5ta03910j,f1,Not target
+1539,c5ta09929c,f5,Not target
+1540,c6ta05611c,f1,Not target
+1541,c6ta08874k,f4,Not target
+1542,c7ta00969k,f4,Not target
+1543,c7ta01825h,f16,Not target
+1544,c7ta03901h,f8,Not target
+1545,c7ta05125e,f3,Not target
+1546,c7ta08288f,f1,Not target
+1547,c7ta11088j,f5,Not target
+1548,c8ta01458b,f5,Not target
+1549,c8ta02205d,f1,Not target
+1550,c8ta02281j,f17,Not target
+1551,c8ta02919a,f5,Not target
+1552,c8ta04618b,f5,Not target
+1553,c8ta06663a,f8,Not target
+1554,c8ta11483h,f2,Not target
+1555,c8ta11844b,f2,Not target
+1556,c9ta03245b,f1,Not target
+1557,c9ta04513a,f2,Not target
+1558,c9ta04559g,f1,Not target
+1559,c9ta04634h,f1,Not target
+1560,c9ta04780h,f1,Not target
+1561,c4ta07018f,f7,Not target
+1562,c4ta04461d,f6,Not target
+1563,c5ta00899a,f1,Not target
+1564,c5ta01720c,f12,Not target
+1565,c5ta01928a,f1,Not target
+1566,c5ta02840j,f6,Not target
+1567,c5ta03644e,f4,Not target
+1568,c5ta08321d,f1,Not target
+1569,c6ta01935h,f1,Not target
+1570,c6ta01948j,f1,Not target
+1571,c6ta05380g,f1,Not target
+1572,c7ta01326d,f1,Not target
+1573,c7ta07323b,f1,Not target
+1574,c7ta09713a,f1,Not target
+1575,c8ta03128b,f1,Not target
+1576,c8ta03529f,f7,Not target
+1577,c8ta12398e,f1,Not target
+1578,c8ta12427b,f2,Not target
+1579,c9ta01364d,f2,Not target
+1580,c9ta06088j,f3,Not target
+1581,c9ta06852j,f1,Not target
+1582,c4ta04461d,f22,Not target
+1583,c5ta01577d,f1,Not target
+1584,c5ta06201b,f10,Not target
+1585,c5ta07226c,f1,Not target
+1586,c6ta02603f,f5,Not target
+1587,c6ta03123d,f1,Not target
+1588,c6ta04416f,f1,Not target
+1589,c6ta05455b,f2,Not target
+1590,c6ta07350f,f2,Not target
+1591,c8ta06721j,f10,Not target
+1592,c7ta04441k,f11,Not target
+1593,c4ta06264g,f7,Not target
+1594,c7ta05714h,f2,Not target
+1595,c7ta06618j,f1,Not target
+1596,c7ta07847a,f1,Not target
+1597,c7ta10575d,f3,Not target
+1598,c7ta11274b,f44,Not target
+1599,c7ta11274b,f58,Not target
+1600,c4ta06508e,f3,Not target
+1601,c8ta02534g,f7,Not target
+1602,c8ta02695e,f9,Not target
+1603,c8ta05037f,f5,Not target
+1604,c4ta06625a,f2,Not target
+1605,c8ta07686c,f1,Not target
+1606,c8ta08249a,f5,Not target
+1607,c8ta08930b,f7,Not target
+1608,c8ta09070j,f13,Not target
+1609,c8ta12405a,f1,Not target
+1610,c9ta00778d,f1,Not target
+1611,c4ta06861k,f11,Not target
+1612,c9ta02947h,f5,Not target
+1613,c9ta04614c,f1,Not target
+1614,c9ta04780h,f2,Not target
+1615,c9ta05309c,f3,Not target
+1616,c9ta05782j,f15,Not target
+1617,c9ta06470b,f6,Not target
+1618,c9ta06947j,f1,Not target
+1619,c9ta07466j,f2,Not target
+1620,c9ta08152f,f1,Not target
+1621,c9ta09277c,f5,Not target
+1622,c5ta01228g,f42,Not target
+1623,c5ta01436k,f1,Not target
+1624,c5ta04428f,f7,Not target
+1625,c5ta05676d,f1,Not target
+1626,c4ta05246c,f2,Not target
+1627,c5ta06669g,f6,Not target
+1628,c5ta07068f,f12,Not target
+1629,c5ta09179a,f6,Not target
+1630,c6ta00568c,f9,Not target
+1631,c6ta01628f,f1,Not target
+1632,c6ta04280e,f1,Not target
+1633,c6ta08517b,f1,Not target
+1634,c6ta08591a,f3,Not target
+1635,c6ta08636e,f11,Not target
+1636,c6ta10468a,f5,Not target
+1637,c6ta10520c,f3,Not target
+1638,c7ta01218g,f1,Not target
+1639,c7ta02105d,f18,Not target
+1640,c7ta02655b,f8,Not target
+1641,c7ta05759h,f10,Not target
+1642,c7ta05910h,f6,Not target
+1643,c7ta07228g,f2,Not target
+1644,c7ta08968f,f1,Not target
+1645,c7ta10497a,f6,Not target
+1646,c7ta11078b,f1,Not target
+1647,c8ta00163d,f1,Not target
+1648,c8ta00405f,f1,Not target
+1649,c8ta01049h,f1,Not target
+1650,c8ta03159b,f3,Not target
+1651,c8ta04325f,f1,Not target
+1652,c8ta06084c,f1,Not target
+1653,c8ta06417b,f1,Not target
+1654,c8ta06918b,f1,Not target
+1655,c8ta07147k,f1,Not target
+1656,c8ta07539e,f3,Not target
+1657,c8ta07901c,f6,Not target
+1658,c8ta08498j,f1,Not target
+1659,c9ta02513h,f1,Not target
+1660,c9ta03345a,f1,Not target
+1661,c4ta06923d,f12,Not target
+1662,c9ta05908c,f9,Not target
+1663,c9ta06273d,f1,Not target
+1664,c9ta07022b,f2,Not target
+1665,c9ta09012f,f20,Not target
+1666,c9ta09281a,f4,Not target
+1667,c5ta02092a,f3,Not target
+1668,c5ta02507a,f20,Not target
+1669,c5ta03864b,f5,Not target
+1670,c5ta04682c,f12,Not target
+1671,c4ta05226a,f8,Not target
+1672,c6ta01543c,f1,Not target
+1673,c6ta01676f,f1,Not target
+1674,c6ta05441b,f36,Not target
+1675,c6ta06457d,f2,Not target
+1676,c6ta07443j,f2,Not target
+1677,c6ta07803f,f2,Not target
+1678,c6ta07820f,f1,Not target
+1679,c6ta09234a,f7,Not target
+1680,c6ta09886j,f1,Not target
+1681,c6ta09990d,f9,Not target
+1682,c6ta10718d,f1,Not target
+1683,c7ta00194k,f10,Not target
+1684,c7ta00673j,f5,Not target
+1685,c7ta10998a,f5,Not target
+1686,c7ta00194k,f21,Not target
+1687,c7ta04985d,f17,Not target
+1688,c9ta04062e,f1,Not target
+1689,c5ta03937a,f8,Not target
+1690,c5ta08620e,f16,Not target
+1691,c6ta04053e,f3,Not target
+1692,c4ta05743k,f4,Not target
+1693,c6ta07452a,f1,Not target
+1694,c6ta08449d,f2,Not target
+1695,c6ta10947k,f15,Not target
+1696,c7ta00696a,f1,Not target
+1697,c7ta00961e,f1,Not target
+1698,c7ta01591g,f3,Not target
+1699,c7ta02401k,f1,Not target
+1700,c7ta05440h,f1,Not target
+1701,c7ta06500k,f28,Not target
+1702,c8ta01440j,f1,Not target
+1703,c8ta05751f,f2,Not target
+1704,c8ta07246a,f18,Not target
+1705,c9ta03666k,f11,Not target
+1706,c9ta06088j,f2,Not target
+1707,c5ta00764j,f5,Not target
+1708,c5ta02507a,f8,Not target
+1709,c4ta05034g,f6,Not target
+1710,c5ta06872j,f4,Not target
+1711,c6ta02334g,f21,Not target
+1712,c6ta02566h,f1,Not target
+1713,c6ta02918c,f1,Not target
+1714,c4ta05801a,f2,Not target
+1715,c6ta10685d,f4,Not target
+1716,c7ta00268h,f5,Not target
+1717,c7ta00328e,f1,Not target
+1718,c7ta02860a,f8,Not target
+1719,c7ta07509j,f1,Not target
+1720,c8ta00264a,f12,Not target
+1721,c8ta05853a,f1,Not target
+1722,c7ta07993a,f1,Not target
+1723,c7ta08327k,f1,Not target
+1724,c7ta10998a,f4,Not target
+1725,c7ta11311k,f1,Not target
+1726,c8ta02019a,f1,Not target
+1727,c8ta03959c,f1,Not target
+1728,c9ta01942a,f5,Not target
+1729,c9ta07344b,f2,Not target
+1730,c5ta02286j,f6,Not target
+1731,c4ta05078a,f8,Not target
+1732,c5ta04201a,f2,Not target
+1733,c5ta07112g,f6,Not target
+1734,c5ta08375c,f2,Not target
+1735,c5ta08620e,f3,Not target
+1736,c6ta02621d,f22,Not target
+1737,c6ta04325a,f6,Not target
+1738,c4ta05774k,f7,Not target
+1739,c6ta09155e,f2,Not target
+1740,c6ta09831b,f8,Not target
+1741,c3ta10406k,f1,Not target
+1742,c7ta04134a,f11,Not target
+1743,c7ta06190k,f1,Not target
+1744,c7ta06500k,f26,Not target
+1745,c7ta07512j,f11,Not target
+1746,c7ta07856k,f9,Not target
+1747,c7ta08690c,f10,Not target
+1748,c8ta00535d,f1,Not target
+1749,c8ta01828f,f5,Not target
+1750,c8ta02061b,f29,Not target
+1751,c8ta02859a,f3,Not target
+1752,c8ta04165b,f1,Not target
+1753,c8ta06491a,f1,Not target
+1754,c8ta07096b,f1,Not target
+1755,c8ta09247h,f8,Not target
+1756,c9ta00912d,f4,Not target
+1757,c9ta04328d,f15,Not target
+1758,c9ta06908a,f7,Not target
+1759,c4ta07019d,f8,Not target
+1760,c9ta10287f,f8,Not target
+1761,c4ta07101h,f1,Not target
+1762,c4ta07111e,f10,Not target
+1763,c5ta00252d,f23,Not target
+1764,c5ta01699a,f1,Not target
+1765,c5ta02240a,f8,Not target
+1766,c5ta03570h,f5,Not target
+1767,c5ta03811a,f1,Not target
+1768,c5ta04146e,f1,Not target
+1769,c5ta07057k,f14,Not target
+1770,c5ta09437b,f8,Not target
+1771,c6ta00953k,f12,Not target
+1772,c6ta01419d,f1,Not target
+1773,c6ta01441k,f1,Not target
+1774,c6ta02603f,f3,Not target
+1775,c6ta09528c,f1,Not target
+1776,c7ta01056g,f1,Not target
+1777,c7ta01239j,f2,Not target
+1778,c7ta02725g,f1,Not target
+1779,c7ta05338j,f1,Not target
+1780,c7ta10274g,f11,Not target
+1781,c8ta07603k,f5,Not target
+1782,c8ta11029h,f2,Not target
+1783,c8ta11483h,f9,Not target
+1784,c9ta00792j,f2,Not target
+1785,c9ta00822e,f6,Not target
+1786,c9ta01237k,f10,Not target
+1787,c9ta04328d,f12,Not target
+1788,c9ta04555d,f22,Not target
+1789,c9ta04811a,f24,Not target
+1790,c9ta05185f,f10,Not target
+1791,c9ta06847c,f10,Not target
+1792,c9ta07266g,f6,Not target
+1793,c9ta07663h,f1,Not target
+1794,c4ta07111e,f15,Not target
+1795,c5ta00546a,f1,Not target
+1796,c5ta02040a,f20,Not target
+1797,c5ta02286j,f1,Not target
+1798,c5ta02354h,f1,Not target
+1799,c4ta05448b,f4,Not target
+1800,c5ta10688e,f3,Not target
+1801,c6ta01893a,f1,Not target
+1802,c6ta03588d,f1,Not target
+1803,c6ta05746b,f1,Not target
+1804,c6ta07144a,f3,Not target
+1805,c4ta05939e,f1,Not target
+1806,c7ta01142c,f22,Not target
+1807,c7ta01297g,f3,Not target
+1808,c7ta02038d,f31,Not target
+1809,c7ta02534c,f8,Not target
+1810,c7ta02575k,f10,Not target
+1811,c7ta04330a,f18,Not target
+1812,c4ta06210h,f3,Not target
+1813,c7ta05033j,f2,Not target
+1814,c7ta05025a,f10,Not target
+1815,c8ta00264a,f22,Not target
+1816,c8ta03358g,f19,Not target
+1817,c8ta03358g,f8,Not target
+1818,c8ta03817a,f3,Not target
+1819,c8ta06319b,f6,Not target
+1820,c8ta07080f,f1,Not target
+1821,c8ta09184f,f10,Not target
+1822,c8ta09783f,f1,Not target
+1823,c8ta09862j,f3,Not target
+1824,c8ta12176a,f4,Not target
+1825,c9ta00789j,f2,Not target
+1826,c9ta01979k,f10,Not target
+1827,c9ta04833b,f3,Not target
+1828,c9ta05335b,f1,Not target
+1829,c4ta07094a,f12,Not target
+1830,c5ta00656b,f1,Not target
+1831,c5ta01783a,f1,Not target
+1832,c5ta02295a,f10,Not target
+1833,c5ta04310g,f3,Not target
+1834,c5ta05498b,f5,Not target
+1835,c5ta05714k,f1,Not target
+1836,c5ta07965a,f8,Not target
+1837,c5ta09832g,f13,Not target
+1838,c6ta02150f,f1,Not target
+1839,c4ta05676k,f7,Not target
+1840,c6ta05441b,f29,Not target
+1841,c6ta06848k,f1,Not target
+1842,c6ta07149j,f1,Not target
+1843,c6ta09314k,f3,Not target
+1844,c7ta00927e,f1,Not target
+1845,c7ta01994g,f3,Not target
+1846,c4ta06126h,f2,Not target
+1847,c4ta06498d,f1,Not target
+1848,c8ta07687a,f1,Not target
+1849,c8ta11925b,f3,Not target
+1850,c8ta12509k,f10,Not target
+1851,c9ta05236d,f16,Not target
+1852,c5ta02315g,f1,Not target
+1853,c5ta03471j,f8,Not target
+1854,c5ta04822b,f21,Not target
+1855,c6ta11058d,f1,Not target
+1856,c7ta00777a,f1,Not target
+1857,c7ta01174a,f5,Not target
+1858,c8ta03306d,f13,Not target
+1859,c9ta04772g,f6,Not target
+1860,c9ta05248h,f2,Not target
+1861,c9ta05718h,f1,Not target
+1862,c5ta01756d,f1,Not target
+1863,c5ta06426k,f7,Not target
+1864,c4ta06303a,f1,Not target
+1865,c7ta08627j,f6,Not target
+1866,c8ta02299b,f3,Not target
+1867,c8ta04886j,f1,Not target
+1868,c8ta04934c,f1,Not target
+1869,c9ta04033a,f14,Not target
+1870,c9ta08620j,f11,Not target
+1871,c4ta04791e,f3,Not target
+1872,c4ta04876h,f1,Not target
+1873,c5ta04427h,f4,Not target
+1874,c5ta05580f,f2,Not target
+1875,c6ta02501c,f5,Not target
+1876,c4ta05817h,f1,Not target
+1877,c4ta05905k,f1,Not target
+1878,c7ta05222g,f8,Not target
+1879,c7ta05534j,f1,Not target
+1880,c7ta07228g,f3,Not target
+1881,c7ta09755g,f1,Not target
+1882,c4ta06452f,f5,Not target
+1883,c7ta11104e,f1,Not target
+1884,c4ta06486k,f1,Not target
+1885,c8ta00823j,f5,Not target
+1886,c8ta01294f,f1,Not target
+1887,c8ta01902a,f5,Not target
+1888,c8ta02676a,f7,Not target
+1889,c8ta02919a,f7,Not target
+1890,c8ta03839b,f4,Not target
+1891,c8ta06908e,f5,Not target
+1892,c8ta12531g,f11,Not target
+1893,c9ta00807a,f1,Not target
+1894,c9ta02356a,f3,Not target
+1895,c9ta02935d,f13,Not target
+1896,c9ta03622a,f8,Not target
+1897,c9ta05782j,f17,Not target
+1898,c4ta04461d,f15,Not target
+1899,c5ta00570a,f3,Not target
+1900,c5ta00753d,f4,Not target
+1901,c5ta05666g,f11,Not target
+1902,c5ta07004j,f1,Not target
+1903,c6ta01222a,f1,Not target
+1904,c6ta01339b,f1,Not target
+1905,c4ta05652c,f5,Not target
+1906,c6ta02868c,f1,Not target
+1907,c6ta03417a,f1,Not target
+1908,c6ta06051j,f1,Not target
+1909,c6ta06508b,f1,Not target
+1910,c6ta06626g,f1,Not target
+1911,c6ta09189j,f1,Not target
+1912,c6ta09590a,f29,Not target
+1913,c7ta00455a,f1,Not target
+1914,c4ta05973e,f2,Not target
+1915,c7ta00922d,f1,Not target
+1916,c7ta02653f,f25,Not target
+1917,c7ta10998a,f3,Not target
+1918,c7ta11274b,f69,Not target
+1919,c7ta11388a,f3,Not target
+1920,c8ta00895g,f1,Not target
+1921,c8ta06326e,f23,Not target
+1922,c8ta06669h,f1,Not target
+1923,c8ta06872k,f3,Not target
+1924,c8ta07385f,f1,Not target
+1925,c4ta06714b,f2,Not target
+1926,c8ta11599k,f6,Not target
+1927,c9ta00521h,f1,Not target
+1928,c9ta04780h,f10,Not target
+1929,c9ta10206j,f6,Not target
+1930,c5ta00592b,f1,Not target
+1931,c5ta03179f,f3,Not target
+1932,c5ta04673d,f1,Not target
+1933,c6ta07860e,f3,Not target
+1934,c6ta08003k,f1,Not target
+1935,c6ta09146f,f2,Not target
+1936,c6ta10281f,f4,Not target
+1937,c6ta10932b,f1,Not target
+1938,c6ta11168h,f4,Not target
+1939,c7ta01659j,f4,Not target
+1940,c7ta07158b,f6,Not target
+1941,c4ta04324c,f1,Not target
+1942,c8ta01534a,f12,Not target
+1943,c9ta03324f,f1,Not target
+1944,c6ta04483b,f2,Not target
+1945,c4ta03968h,f1,Not target
+1946,c6ta05001h,f1,Not target
+1947,c7ta00297a,f1,Not target
+1948,c8ta08410f,f3,Not target
+1949,c8ta11646f,f1,Not target
+1950,c9ta04856a,f4,Not target
+1951,c4ta05004e,f6,Not target
+1952,c7ta04208f,f2,Not target
+1953,c7ta05025a,f13,Not target
+1954,c7ta06335k,f1,Not target
+1955,c7ta09094c,f4,Not target
+1956,c7ta09517a,f1,Not target
+1957,c7ta10343c,f10,Not target
+1958,c8ta00068a,f1,Not target
+1959,c8ta01232f,f1,Not target
+1960,c8ta02061b,f59,Not target
+1961,c8ta03672a,f1,Not target
+1962,c8ta04736g,f2,Not target
+1963,c8ta05788e,f1,Not target
+1964,c8ta07598k,f1,Not target
+1965,c8ta07973k,f12,Not target
+1966,c4ta06763k,f2,Not target
+1967,c8ta10444a,f9,Not target
+1968,c8ta11460a,f1,Not target
+1969,c8ta12497c,f1,Not target
+1970,c9ta00388f,f10,Not target
+1971,c4ta06850e,f1,Not target
+1972,c9ta01911a,f1,Not target
+1973,c9ta03345a,f9,Not target
+1974,c9ta03622a,f1,Not target
+1975,c5ta00619h,f7,Not target
+1976,c5ta01011j,f7,Not target
+1977,c5ta02863a,f8,Not target
+1978,c5ta03267a,f1,Not target
+1979,c5ta03989d,f14,Not target
+1980,c5ta04497a,f5,Not target
+1981,c4ta03892d,f1,Not target
+1982,c6ta00356g,f1,Not target
+1983,c6ta00732e,f4,Not target
+1984,c6ta02294d,f1,Not target
+1985,c6ta02796b,f5,Not target
+1986,c4ta05663a,f12,Not target
+1987,c6ta03178a,f10,Not target
+1988,c6ta03536a,f1,Not target
+1989,c6ta04112d,f8,Not target
+1990,c4ta05743k,f1,Not target
+1991,c6ta06241e,f9,Not target
+1992,c6ta06573b,f1,Not target
+1993,c6ta09826f,f1,Not target
+1994,c6ta10947k,f4,Not target
+1995,c6ta11168h,f23,Not target
+1996,c7ta00398f,f1,Not target
+1997,c7ta00698e,f3,Not target
+1998,c7ta00799j,f9,Not target
+1999,c7ta01293d,f1,Not target
+2000,c4ta06049k,f7,Not target
+2001,c7ta02105d,f2,Not target
+2002,c7ta06107b,f3,Not target
+2003,c7ta06986c,f1,Not target
+2004,c7ta07054c,f22,Not target
+2005,c7ta08992a,f3,Not target
+2006,c7ta10219d,f7,Not target
+2007,c8ta00598b,f3,Not target
+2008,c8ta01061g,f5,Not target
+2009,c8ta02061b,f52,Not target
+2010,c8ta02132e,f6,Not target
+2011,c4ta06557c,f7,Not target
+2012,c8ta03686a,f1,Not target
+2013,c8ta05805a,f4,Not target
+2014,c8ta07234e,f1,Not target
+2015,c8ta07749e,f3,Not target
+2016,c8ta09959f,f1,Not target
+2017,c8ta10092f,f1,Not target
+2018,c8ta11883c,f6,Not target
+2019,c9ta00890j,f1,Not target
+2020,c9ta01456j,f1,Not target
+2021,c9ta03249e,f5,Not target
+2022,c9ta04742e,f1,Not target
+2023,c9ta05441c,f4,Not target
+2024,c9ta05782j,f20,Not target
+2025,c9ta09012f,f18,Not target
+2026,c5ta00086f,f4,Not target
+2027,c5ta00258c,f1,Not target
+2028,c5ta00279f,f6,Not target
+2029,c5ta00568j,f2,Not target
+2030,c5ta01504a,f1,Not target
+2031,c5ta02630j,f6,Not target
+2032,c5ta02719e,f1,Not target
+2033,c4ta05058d,f2,Not target
+2034,c5ta04932f,f1,Not target
+2035,c5ta05090a,f1,Not target
+2036,c5ta05453b,f1,Not target
+2037,c5ta08990e,f1,Not target
+2038,c6ta00789a,f1,Not target
+2039,c6ta01501h,f1,Not target
+2040,c6ta02737g,f1,Not target
+2041,c6ta03162e,f4,Not target
+2042,c6ta03224a,f2,Not target
+2043,c6ta03429b,f1,Not target
+2044,c6ta06241e,f3,Not target
+2045,c6ta06367e,f1,Not target
+2046,c6ta10497e,f1,Not target
+2047,c7ta02209c,f1,Not target
+2048,c7ta09150h,f8,Not target
+2049,c8ta00220g,f5,Not target
+2050,c8ta12382a,f13,Not target
+2051,c5ta01660f,f1,Not target
+2052,c5ta02226f,f1,Not target
+2053,c5ta06013c,f1,Not target
+2054,c6ta00753h,f7,Not target
+2055,c7ta02498c,f1,Not target
+2056,c7ta04204c,f1,Not target
+2057,c8ta01621f,f1,Not target
+2058,c8ta02838a,f1,Not target
+2059,c8ta03306d,f2,Not target
+2060,c8ta03488e,f1,Not target
+2061,c8ta04120b,f2,Not target
+2062,c8ta07246a,f2,Not target
+2063,c8ta09146c,f3,Not target
+2064,c9ta03253c,f9,Not target
+2065,c4ta06936f,f1,Not target
+2066,c9ta08253k,f43,Not target
+2067,c5ta01616a,f1,Not target
+2068,c5ta03331d,f1,Not target
+2069,c5ta05850c,f14,Not target
+2070,c5ta08261g,f2,Not target
+2071,c6ta03123d,f2,Not target
+2072,c6ta06840e,f1,Not target
+2073,c7ta01177f,f3,Not target
+2074,c7ta02038d,f26,Not target
+2075,c7ta02749d,f1,Not target
+2076,c4ta06053a,f1,Not target
+2077,c7ta03004e,f1,Not target
+2078,c8ta01095a,f3,Not target
+2079,c8ta05052j,f2,Not target
+2080,c8ta07437b,f3,Not target
+2081,c8ta08334g,f5,Not target
+2082,c9ta02436k,f6,Not target
+2083,c9ta03711j,f1,Not target
+2084,c9ta03869h,f1,Not target
+2085,c9ta04555d,f15,Not target
+2086,c9ta05252f,f1,Not target
+2087,c4ta07111e,f7,Not target
+2088,c5ta01104c,f2,Not target
+2089,c5ta09848c,f10,Not target
+2090,c6ta01082b,f2,Not target
+2091,c6ta03733j,f4,Not target
+2092,c7ta03434b,f1,Not target
+2093,c7ta03929h,f1,Not target
+2094,c7ta04507g,f5,Not target
+2095,c7ta05481e,f1,Not target
+2096,c7ta05711c,f1,Not target
+2097,c7ta06335k,f5,Not target
+2098,c7ta07294e,f10,Not target
+2099,c7ta07294e,f14,Not target
+2100,c7ta09534a,f2,Not target
+2101,c8ta01298a,f1,Not target
+2102,c8ta02281j,f13,Not target
+2103,c8ta05026k,f2,Not target
+2104,c8ta08391f,f2,Not target
+2105,c8ta09521c,f1,Not target
+2106,c8ta11684a,f1,Not target
+2107,c9ta01752f,f2,Not target
+2108,c9ta04644e,f1,Not target
+2109,c9ta05121j,f5,Not target
+2110,c9ta05185f,f31,Not target
+2111,c9ta06316a,f1,Not target
+2112,c9ta06674h,f2,Not target
+2113,c9ta06847c,f4,Not target
+2114,c9ta07142c,f1,Not target
+2115,c9ta07198a,f1,Not target
+2116,c4ta04461d,f14,Not target
+2117,c4ta07077a,f2,Not target
+2118,c4ta04461d,f18,Not target
+2119,c5ta01510c,f6,Not target
+2120,c5ta02040a,f19,Not target
+2121,c5ta02276b,f6,Not target
+2122,c5ta02507a,f14,Not target
+2123,c5ta04802h,f1,Not target
+2124,c4ta05226a,f1,Not target
+2125,c5ta05666g,f10,Not target
+2126,c5ta05767a,f6,Not target
+2127,c5ta06859b,f1,Not target
+2128,c5ta08545d,f7,Not target
+2129,c5ta10155g,f1,Not target
+2130,c6ta02574a,f1,Not target
+2131,c6ta03740b,f3,Not target
+2132,c6ta05661j,f1,Not target
+2133,c6ta09943b,f1,Not target
+2134,c6ta10948a,f1,Not target
+2135,c7ta01142c,f9,Not target
+2136,c7ta01430a,f1,Not target
+2137,c7ta01693j,f1,Not target
+2138,c7ta02202f,f1,Not target
+2139,c7ta07188d,f10,Cycle
+2140,c5ta02233a,f9,Cycle
+2141,c7ta04135g,f9,Cycle
+2142,c5ta00323g,f5,Cycle
+2143,c6ta08828g,f5,Cycle
+2144,c4ta07220k,f7,Cycle
+2145,c5ta01710f,f5,Cycle
+2146,c6ta04351h,f7,Cycle
+2147,c7ta00035a,f5,Cycle
+2148,c4ta06039c,f3,Cycle
+2149,c7ta04551d,f1,Cycle
+2150,c5ta09908k,f10,Cycle
+2151,c4ta05462h,f9,Cycle
+2152,c8ta07739h,f7,Cycle
+2153,c9ta07965c,f4,Cycle
+2154,c5ta06823a,f3,Cycle
+2155,c6ta00876c,f6,Cycle
+2156,c6ta04473e,f10,Cycle
+2157,c6ta10022h,f10,Cycle
+2158,c7ta03133e,f7,Cycle
+2159,c8ta00602d,f14,Cycle
+2160,c9ta03076j,f5,Cycle
+2161,c5ta03334a,f8,Cycle
+2162,c5ta05145b,f7,Cycle
+2163,c8ta08932a,f7,Cycle
+2164,c6ta06874j,f6,Cycle
+2165,c4ta06273f,f6,Cycle
+2166,c9ta08778h,f4,Cycle
+2167,c5ta03570h,f8,Cycle
+2168,c5ta05476a,f5,Cycle
+2169,c8ta01798k,f3,Cycle
+2170,c4ta06678b,f5,Cycle
+2171,c5ta00961h,f11,Cycle
+2172,c7ta00624a,f4,Cycle
+2173,c7ta02576a,f9,Cycle
+2174,c8ta07095d,f4,Cycle
+2175,c4ta06855f,f11,Cycle
+2176,c5ta02131f,f11,Cycle
+2177,c4ta05804f,f4,Cycle
+2178,c6ta10138k,f3,Cycle
+2179,c9ta04360h,f10,Cycle
+2180,c9ta05440e,f6,Cycle
+2181,c6ta04219h,f9,Cycle
+2182,c7ta01675a,f6,Cycle
+2183,c7ta10167h,f4,Cycle
+2184,c6ta04179e,f3,Cycle
+2185,c6ta05655e,f8,Cycle
+2186,c7ta00015d,f4,Cycle
+2187,c5ta01837d,f12,Cycle
+2188,c5ta00006h,f8,Cycle
+2189,c5ta03049h,f12,Cycle
+2190,c5ta03415a,f9,Cycle
+2191,c5ta10713j,f9,Cycle
+2192,c6ta10577g,f4,Cycle
+2193,c7ta02845h,f15,Cycle
+2194,c4ta06860b,f8,Cycle
+2195,c5ta01963j,f9,Cycle
+2196,c8ta00823j,f7,Cycle
+2197,c9ta08043k,f8,Cycle
+2198,c5ta04882f,f5,Cycle
+2199,c6ta00605a,f3,Cycle
+2200,c6ta02845d,f6,Cycle
+2201,c6ta06470a,f8,Cycle
+2202,c6ta08485k,f8,Cycle
+2203,c7ta01195d,f6,Cycle
+2204,c5ta02780b,f10,Cycle
+2205,c5ta06387f,f9,Cycle
+2206,c5ta05231a,f8,Cycle
+2207,c5ta05984d,f7,Cycle
+2208,c6ta04196e,f7,Cycle
+2209,c7ta01951c,f11,Cycle
+2210,c5ta10528e,f1,Cycle
+2211,c7ta04246a,f10,Cycle
+2212,c8ta04568b,f10,Cycle
+2213,c5ta00570a,f9,Cycle
+2214,c5ta02674a,f12,Cycle
+2215,c5ta07876h,f8,Cycle
+2216,c6ta00743k,f8,Cycle
+2217,c6ta10772a,f6,Cycle
+2218,c7ta03113k,f5,Cycle
+2219,c8ta02788a,f8,Cycle
+2220,c9ta05608d,f8,Cycle
+2221,c6ta11252h,f12,Cycle
+2222,c7ta03476h,f8,Cycle
+2223,c8ta00835c,f5,Cycle
+2224,c7ta00188f,f5,Cycle
+2225,c7ta03904b,f7,Cycle
+2226,c7ta04169a,f6,Cycle
+2227,c8ta03991g,f5,Cycle
+2228,c5ta00279f,f8,Cycle
+2229,c5ta00961h,f9,Cycle
+2230,c7ta07054c,f1,Cycle
+2231,c8ta10587a,f18,Cycle
+2232,c9ta03824h,f10,Cycle
+2233,c5ta08106h,f13,Cycle
+2234,c6ta07599a,f7,Cycle
+2235,c6ta07717j,f4,Cycle
+2236,c4ta04275a,f7,Cycle
+2237,c5ta00601e,f8,Cycle
+2238,c5ta03140k,f9,Cycle
+2239,c6ta04774b,f7,Cycle
+2240,c6ta05607e,f6,Cycle
+2241,c8ta08420c,f6,Cycle
+2242,c6ta00605a,f6,Cycle
+2243,c6ta04765c,f6,Cycle
+2244,c5ta02913a,f4,Cycle
+2245,c5ta04099j,f6,Cycle
+2246,c6ta11167j,f9,Cycle
+2247,c7ta09475b,f2,Cycle
+2248,c7ta05896a,f9,Cycle
+2249,c5ta03455h,f5,Cycle
+2250,c6ta09852e,f8,Cycle
+2251,c7ta01424d,f9,Cycle
+2252,c4ta06062h,f8,Cycle
+2253,c4ta06594h,f4,Cycle
+2254,c8ta06802j,f11,Cycle
+2255,c4ta02924k,f12,Cycle
+2256,c6ta06874j,f12,Cycle
+2257,c8ta00602d,f13,Cycle
+2258,c6ta00882h,f7,Cycle
+2259,c8ta10257k,f5,Cycle
+2260,c5ta02450a,f6,Cycle
+2261,c7ta02706k,f6,Cycle
+2262,c5ta03570h,f7,Cycle
+2263,c5ta04016g,f5,Cycle
+2264,c5ta05266a,f10,Cycle
+2265,c6ta07616e,f9,Cycle
+2266,c5ta05145b,f9,Cycle
+2267,c7ta01285c,f8,Cycle
+2268,c7ta08663f,f12,Cycle
+2269,c8ta02969e,f3,Cycle
+2270,c5ta00961h,f17,Cycle
+2271,c5ta02250a,f10,Cycle
+2272,c4ta05501b,f5,Cycle
+2273,c9ta00807a,f10,Cycle
+2274,c5ta01710f,f10,Cycle
+2275,c5ta03248b,f6,Cycle
+2276,c5ta03665h,f4,Cycle
+2277,c6ta02568d,f4,Cycle
+2278,c5ta00361j,f12,Cycle
+2279,c5ta04099j,f5,Cycle
+2280,c8ta06224b,f10,Cycle
+2281,c4ta03144j,f6,Cycle
+2282,c4ta05767h,f5,Cycle
+2283,c9ta03062j,f5,Cycle
+2284,c5ta02289d,f5,Cycle
+2285,c5ta04882f,f13,Cycle
+2286,c5ta10675c,f4,Cycle
+2287,c5ta03687a,f11,Cycle
+2288,c6ta08482f,f8,Cycle
+2289,c7ta07232e,f12,Cycle
+2290,c7ta08483h,f8,Cycle
+2291,c4ta06832g,f4,Cycle
+2292,c9ta03371h,f13,Cycle
+2293,c5ta01073j,f10,Cycle
+2294,c5ta05386b,f6,Cycle
+2295,c4ta06172a,f9,Cycle
+2296,c7ta01038a,f9,Cycle
+2297,c7ta04971d,f7,Cycle
+2298,c5ta00816f,f13,Cycle
+2299,c7ta00117g,f6,Cycle
+2300,c5ta07922e,f8,Other
+2301,c4ta06692h,f7,Other
+2302,c9ta05383b,f17,Other
+2303,c7ta00871f,f4,Other
+2304,c8ta01114a,f7,Other
+2305,c5ta04345j,f10,Other
+2306,c8ta04748k,f3,Other
+2307,c9ta03971f,f6,Other
+2308,c5ta05248c,f9,Other
+2309,c5ta05654c,f5,Other
+2310,c4ta05423g,f1,Other
+2311,c5ta07687k,f7,Other
+2312,c5ta00156k,f5,Other
+2313,c4ta04808c,f8,Other
+2314,c7ta06476d,f4,Other
+2315,c4ta06479h,f7,Other
+2316,c8ta04310h,f3,Other
+2317,c8ta06280c,f2,Other
+2318,c5ta05388a,f10,Other
+2319,c4ta05720a,f5,Other
+2320,c6ta07653j,f9,Other
+2321,c6ta09751k,f9,Other
+2322,c5ta07464a,f8,Other
+2323,c6ta00392c,f8,Other
+2324,c5ta03088a,f9,Other
+2325,c5ta00182j,f6,Other
+2326,c7ta08152a,f5,Other
+2327,c5ta02179k,f4,Other
+2328,c5ta03751d,f3,Other
+2329,c5ta07583a,f7,Other
+2330,c4ta06880g,f5,Other
+2331,c9ta04592a,f9,Other
+2332,c5ta08433d,f9,Other
+2333,c6ta02817a,f5,Other
+2334,c9ta03292d,f3,Other
+2335,c7ta07263e,f6,Other
+2336,c4ta06520d,f1,Other
+2337,c4ta04355c,f8,Other
+2338,c8ta02793e,f3,Other
+2339,c9ta07159h,f5,Other
+2340,c5ta04257g,f4,Other
+2341,c8ta10410g,f13,Other
+2342,c9ta03124c,f4,Other
+2343,c6ta06360h,f5,Other
+2344,c8ta06721j,f11,Other
+2345,c9ta01456j,f2,Other
+2346,c9ta07522d,f7,Other
+2347,c9ta09400h,f8,Other
+2348,c5ta01637a,f13,Other
+2349,c5ta02053k,f3,Other
+2350,c8ta06243a,f3,Other
+2351,c6ta04123j,f3,Other
+2352,c7ta01022b,f9,Other
+2353,c9ta05909a,f6,Other
+2354,c4ta04840g,f3,Other
+2355,c7ta02552a,f19,Other
+2356,c8ta11637g,f4,Other
+2357,c5ta02745d,f13,Other
+2358,c5ta05279c,f3,Other
+2359,c6ta02186g,f7,Other
+2360,c6ta10910a,f3,Other
+2361,c9ta06209b,f4,Other
+2362,c7ta09409d,f11,Other
+2363,c5ta04877j,f6,Other
+2364,c5ta09936f,f4,Other
+2365,c8ta11111a,f7,Other
+2366,c7ta10923g,f6,Other
+2367,c7ta01514c,f2,Other
+2368,c5ta03751d,f5,Other
+2369,c8ta11341f,f6,Other
+2370,c6ta06806e,f4,Other
+2371,c4ta04355c,f12,Other
+2372,c8ta06724d,f5,Other
+2373,c4ta06828a,f8,Other
+2374,c7ta04742h,f7,Other
+2375,c8ta03437k,f6,Other
+2376,c7ta02873c,f4,Other
+2377,c5ta03571f,f2,Other
+2378,c6ta00325g,f5,Other
+2379,c8ta02115e,f1,Other
+2380,c9ta04275j,f10,Other
+2381,c4ta04455j,f8,Other
+2382,c6ta04388g,f4,Other
+2383,c6ta08565b,f2,Other
+2384,c7ta10759e,f10,Other
+2385,c5ta00763a,f9,Other
+2386,c7ta03056h,f12,Other
+2387,c5ta01664a,f3,Other
+2388,c5ta05928c,f4,Other
+2389,c7ta07117e,f6,Other
+2390,c7ta08175h,f9,Other
+2391,c5ta00470e,f9,Other
+2392,c5ta02304a,f5,Other
+2393,c7ta03452k,f7,Other
+2394,c8ta00350e,f7,Other
+2395,c8ta09801h,f7,Other
+2396,c5ta07586f,f1,Other
+2397,c6ta07141d,f3,Other
+2398,c8ta08015a,f5,Other
+2399,c8ta03437k,f9,Other
+2400,c8ta08406h,f4,Other
+2401,c5ta00256g,f6,Other
+2402,c9ta06987a,f5,Other
+2403,c8ta00234g,f7,Other
+2404,c8ta09413f,f10,Other
+2405,c7ta07263e,f2,Other
+2406,c5ta01924a,f7,Other
+2407,c5ta09778a,f5,Other
+2408,c4ta06053a,f9,Other
+2409,c7ta07263e,f8,Other
+2410,c5ta01924a,f9,Other
+2411,c5ta02073e,f5,Other
+2412,c6ta03249d,f4,Other
+2413,c5ta06454f,f4,Other
+2414,c7ta08781k,f3,Other
+2415,c5ta00178a,f5,Energy
+2416,c5ta05185a,f2,Energy
+2417,c6ta07672f,f7,Energy
+2418,c7ta07535a,f4,Energy
+2419,c8ta09660k,f7,Energy
+2420,c5ta00651a,f4,Energy
+2421,c9ta00987f,f2,Energy
+2422,c5ta09701k,f3,Energy
+2423,c8ta00947c,f6,Energy
+2424,c5ta06381g,f4,Energy
+2425,c7ta10739k,f5,Energy
+2426,c8ta12465e,f15,Energy
+2427,c5ta02784e,f5,Energy
+2428,c5ta09671e,f4,Energy
+2429,c6ta02041k,f3,Energy
+2430,c4ta03992k,f2,Energy
+2431,c6ta10944f,f7,Energy
+2432,c4ta04647a,f4,Energy
+2433,c7ta10185f,f2,Energy
+2434,c4ta02924k,f9,Energy
+2435,c6ta06337c,f5,Energy
+2436,c7ta06750j,f2,Energy
+2437,c5ta01379h,f3,Energy
+2438,c5ta03520a,f2,Energy
+2439,c6ta00342g,f3,Energy
+2440,c7ta03115g,f4,Energy
+2441,c9ta00616h,f9,Energy
+2442,c5ta01214g,f5,Energy
+2443,c5ta06420a,f2,Energy
+2444,c5ta07015e,f5,Energy
+2445,c6ta02021f,f4,Energy
+2446,c7ta03710d,f4,Energy
+2447,c4ta06230b,f2,Energy
+2448,c7ta10746c,f9,Energy
+2449,c4ta06777k,f6,Energy
+2450,c4ta06810f,f5,Energy
+2451,c5ta01924a,f2,Energy
+2452,c5ta06758h,f6,Energy
+2453,c6ta00589f,f5,Energy
+2454,c6ta04310k,f5,Energy
+2455,c6ta05985f,f4,Energy
+2456,c8ta09414d,f6,Energy
+2457,c9ta05179a,f3,Energy
+2458,c5ta01285f,f7,Energy
+2459,c6ta08703e,f2,Energy
+2460,c4ta06861k,f7,Energy
+2461,c5ta06758h,f5,Energy
+2462,c4ta05524a,f3,Energy
+2463,c4ta05794e,f9,Energy
+2464,c8ta05795h,f6,Energy
+2465,c9ta02455g,f6,Energy
+2466,c9ta03459e,f6,Energy
+2467,c6ta00884d,f6,Energy
+2468,c7ta02254a,f6,Energy
+2469,c8ta07861k,f8,Energy
+2470,c8ta08045c,f6,Energy
+2471,c6ta00174b,f4,Energy
+2472,c4ta03995e,f5,Energy
+2473,c6ta10650a,f2,Energy
+2474,c9ta00561g,f2,Energy
+2475,c5ta02780b,f5,Energy
+2476,c8ta02627k,f14,Energy
+2477,c4ta04727c,f17,Energy
+2478,c4ta06891b,f6,Energy
+2479,c5ta07038d,f4,Energy
+2480,c4ta05620e,f2,Energy
+2481,c8ta07321j,f6,Energy
+2482,c5ta01848j,f2,Energy
+2483,c5ta05572e,f7,Energy
+2484,c5ta06277b,f2,Energy
+2485,c8ta06824k,f4,Energy
+2486,c4ta04428b,f5,Energy
+2487,c6ta06607k,f5,Energy
+2488,c7ta00673j,f3,Energy
+2489,c7ta00794a,f4,Energy
+2490,c7ta09260a,f5,Energy
+2491,c8ta11358k,f12,Energy
+2492,c8ta03951h,f2,Energy
+2493,c7ta10360c,f6,Energy
+2494,c8ta05594g,f4,Energy
+2495,c9ta06072c,f6,Energy
+2496,c5ta01588j,f5,Energy
+2497,c4ta05770h,f7,Energy
+2498,c6ta08624a,f2,Energy
+2499,c7ta00922d,f7,Energy
+2500,c7ta07140j,f5,Energy
+2501,c9ta01744e,f7,Energy
+2502,c6ta10294h,f5,Energy
+2503,c7ta07808k,f5,Energy
+2504,c4ta06697a,f4,Energy
+2505,c9ta01720h,f4,Energy
+2506,c7ta07264c,f7,Energy
+2507,c7ta07665g,f9,Energy
+2508,c8ta12176a,f5,Energy
+2509,c5ta05815e,f5,Energy
+2510,c7ta04041e,f4,Energy
+2511,c7ta01385j,f12,Energy
+2512,c6ta02356h,f3,Energy
+2513,c4ta06049k,f3,Energy
+2514,c7ta08619a,f5,Energy
+2515,c7ta09260a,f4,Energy
+2516,c5ta02320c,f4,Energy
+2517,c6ta07541j,f2,Energy
+2518,c5ta03056k,f5,Energy
+2519,c6ta06405a,f12,Energy
+2520,c6ta04240f,f4,Energy
+2521,c7ta04955b,f2,Energy
+2522,c8ta06745g,f8,Energy
+2523,c8ta11358k,f5,Energy
+2524,c5ta05388a,f3,Energy
+2525,c7ta08097b,f3,Energy
+2526,c4ta06804a,f6,Energy
+2527,c5ta02551f,f4,Energy
+2528,c6ta00679e,f4,Energy
+2529,c6ta03376h,f7,Energy
+2530,c6ta03644a,f2,Energy
+2531,c6ta09173c,f4,Energy
+2532,c7ta06204d,f4,Energy
+2533,c8ta05922e,f5,Energy
+2534,c8ta10075f,f10,Energy
+2535,c7ta00431a,f6,Energy
+2536,c7ta10759e,f8,Energy
+2537,c8ta07236a,f1,Energy
+2538,c5ta00302d,f5,Energy
+2539,c6ta02377k,f4,Energy
+2540,c9ta03459e,f5,Energy
+2541,c9ta07123g,f6,Energy
+2542,c8ta09413f,f4,Energy
+2543,c6ta03654f,f5,Energy
+2544,c4ta06235c,f6,Energy
+2545,c7ta06030k,f4,Energy
+2546,c7ta09082j,f3,Energy
+2547,c5ta04815j,f6,Energy
+2548,c6ta02457b,f5,Energy
+2549,c8ta00546j,f2,Energy
+2550,c4ta06516f,f6,Energy
+2551,c6ta04240f,f7,Energy
+2552,c8ta06466k,f3,Energy
+2553,c8ta09383k,f11,Energy
+2554,c9ta01188a,f3,Energy
+2555,c4ta05070c,f9,Energy
+2556,c5ta07026k,f8,Energy
+2557,c4ta05642f,f7,Energy
+2558,c6ta09043e,f4,Energy
+2559,c7ta01477e,f7,Energy
+2560,c4ta06147k,f1,Pressure
+2561,c9ta04069b,f9,Pressure
+2562,c4ta05877a,f4,Pressure
+2563,c7ta05416e,f6,Pressure
+2564,c7ta08288f,f5,Pressure
+2565,c4ta06555g,f3,Pressure
+2566,c9ta02585e,f5,Pressure
+2567,c5ta01260k,f9,Pressure
+2568,c6ta00261g,f11,Pressure
+2569,c6ta00261g,f12,Pressure
+2570,c5ta06082f,f4,Pressure
+2571,c6ta01528j,f5,Pressure
+2572,c6ta09779k,f5,Pressure
+2573,c4ta06634k,f5,Pressure
+2574,c8ta12558a,f6,Pressure
+2575,c6ta07305k,f6,Pressure
+2576,c8ta05323e,f4,Pressure
+2577,c5ta08705h,f5,Pressure
+2578,c6ta03440c,f6,Pressure
+2579,c4ta06746k,f4,Pressure
+2580,c6ta00261g,f10,Pressure
+2581,c6ta01035k,f8,Pressure
+2582,c4ta04734f,f2,Pressure
+2583,c8ta00012c,f3,Pressure
+2584,c8ta01458b,f7,Pressure
+2585,c9ta05233j,f2,Pressure
+2586,c7ta01979c,f8,Pressure
+2587,c4ta06295g,f2,Pressure
+2588,c4ta06539e,f13,Pressure
+2589,c8ta08185a,f5,Pressure
+2590,c5ta04400f,f8,Pressure
+2591,c5ta04573h,f5,Pressure
+2592,c6ta05823j,f8,Pressure
+2593,c6ta10716h,f6,Pressure
+2594,c5ta04682c,f3,Pressure
+2595,c5ta05654c,f6,Pressure
+2596,c5ta07696j,f5,Pressure
+2597,c6ta03959f,f6,Pressure
+2598,c4ta06555g,f8,Pressure
+2599,c5ta04581a,f2,Pressure
+2600,c5ta04620c,f5,Pressure
+2601,c7ta02105d,f6,Pressure
+2602,c4ta06150k,f5,Pressure
+2603,c6ta10718d,f6,Pressure
+2604,c5ta00383k,f8,Pressure
+2605,c8ta02560f,f4,Pressure
+2606,c5ta05258k,f3,Pressure
+2607,c6ta04623a,f4,Pressure
+2608,c6ta07696c,f2,Pressure
+2609,c9ta02237f,f4,Pressure
+2610,c6ta04623a,f3,Pressure
+2611,c6ta08574a,f6,Pressure
+2612,c5ta01260k,f11,Pressure
+2613,c5ta01383f,f3,Pressure
+2614,c5ta05503b,f6,Pressure
+2615,c7ta10888e,f6,Pressure
+2616,c5ta02942b,f4,Pressure
+2617,c5ta09353h,f6,Pressure
+2618,c7ta04945e,f3,Pressure
+2619,c5ta05603a,f6,Pressure
+2620,c6ta07076k,f9,Pressure
+2621,c8ta05647a,f12,Pressure
+2622,c8ta06726k,f2,Pressure
+2623,c8ta07739h,f5,Pressure
+2624,c5ta01260k,f5,Pressure
+2625,c5ta02207j,f5,Pressure
+2626,c6ta01676f,f7,Pressure
+2627,c6ta08574a,f4,Pressure
+2628,c4ta06292b,f3,Pressure
+2629,c7ta07186h,f9,Pressure
+2630,c9ta00287a,f6,Pressure
+2631,c5ta03663a,f3,Pressure
+2632,c5ta10180h,f4,Pressure
+2633,c5ta01746g,f4,Pressure
+2634,c5ta03598h,f5,Pressure
+2635,c7ta05043g,f4,Pressure
+2636,c7ta06003c,f2,Pressure
+2637,c8ta02059k,f7,Pressure
+2638,c4ta07203k,f6,Pressure
+2639,c5ta05187h,f3,Pressure
+2640,c6ta07145g,f6,Pressure
+2641,c4ta06046f,f3,Pressure
+2642,c5ta03465e,f6,Pressure
+2643,c6ta09782k,f8,Pressure
+2644,c7ta03874g,f7,Pressure
+2645,c7ta09350k,f5,Pressure
+2646,c8ta05647a,f9,Pressure
+2647,c4ta07197b,f6,Pressure
+2648,c7ta02691a,f3,Pressure
+2649,c8ta08914k,f8,Pressure
+2650,c5ta01290b,f3,Pressure
+2651,c6ta06656a,f5,Pressure
+2652,c6ta01625a,f5,Pressure
+2653,c7ta08000j,f3,Pressure
+2654,c4ta06361a,f4,Pressure
+2655,c8ta11722e,f1,Pressure
+2656,c6ta06407h,f6,Pressure
+2657,c8ta05647a,f17,Pressure
+2658,c7ta01616f,f2,Pressure
+2659,c8ta01286e,f5,Pressure
+2660,c5ta09202g,f8,Pressure
+2661,c7ta10106f,f4,Pressure
+2662,c9ta07510k,f3,Pressure
+2663,c6ta04936b,f1,Pressure
+2664,c8ta05583a,f2,Pressure
+2665,c6ta00343e,f4,Pressure
+2666,c6ta00397d,f3,Pressure
+2667,c8ta05647a,f7,Pressure
+2668,c9ta06308k,f6,Pressure
+2669,c9ta07510k,f1,Pressure
+2670,c4ta04734f,f7,Pressure
+2671,c4ta04420g,f6,Pressure
+2672,c5ta03238e,f8,Pressure
+2673,c5ta07876h,f2,Pressure
+2674,c6ta02655a,f5,Pressure
+2675,c9ta00511k,f3,Pressure
+2676,c6ta10127e,f5,Pressure
+2677,c6ta10022h,f4,Pressure
+2678,c5ta05605e,f4,Pressure
+2679,c6ta05142a,f3,Pressure
+2680,c4ta05940a,f4,Pressure
+2681,c7ta02552a,f14,Pressure
+2682,c7ta05025a,f6,Pressure
+2683,c7ta02842c,f8,Pressure
+2684,c7ta05134d,f6,Pressure
+2685,c5ta01290b,f8,Pressure
+2686,c5ta01874a,f10,Pressure
+2687,c4ta05935b,f8,Pressure
+2688,c7ta01255a,f5,Pressure
+2689,c8ta00827b,f4,Pressure
+2690,c5ta06947e,f8,Pressure
+2691,c6ta07145g,f2,Pressure
+2692,c6ta07305k,f8,Pressure
+2693,c8ta05647a,f5,Pressure
+2694,c9ta02585e,f1,Pressure
+2695,c4ta07101h,f7,Pressure
+2696,c5ta00648a,f4,Pressure
+2697,c5ta01290b,f7,Pressure
+2698,c9ta02712b,f2,Pressure
+2699,c5ta02034d,f4,Pressure
+2700,c5ta04146e,f4,Pressure
+2701,c5ta09157h,f6,Pressure
+2702,c5ta08542j,f5,Pressure
+2703,c6ta06407h,f7,Pressure
+2704,c8ta07739h,f4,Pressure
+2705,c5ta00888c,f2,Pressure
+2706,c4ta04947k,f2,Pressure
+2707,c6ta11052e,f4,Pressure
+2708,c4ta06246a,f2,Wavelength
+2709,c4ta06444e,f7,Wavelength
+2710,c8ta00879e,f2,Wavelength
+2711,c4ta06577h,f5,Wavelength
+2712,c9ta04073k,f7,Wavelength
+2713,c9ta06038c,f3,Wavelength
+2714,c5ta00201j,f7,Wavelength
+2715,c4ta04633a,f5,Wavelength
+2716,c4ta04761c,f8,Wavelength
+2717,c5ta02525g,f3,Wavelength
+2718,c5ta02774h,f8,Wavelength
+2719,c5ta03696h,f1,Wavelength
+2720,c4ta05087h,f1,Wavelength
+2721,c5ta04978d,f4,Wavelength
+2722,c5ta06081h,f9,Wavelength
+2723,c5ta08553e,f2,Wavelength
+2724,c6ta00783j,f4,Wavelength
+2725,c7ta02892j,f5,Wavelength
+2726,c7ta03114a,f4,Wavelength
+2727,c7ta04162d,f1,Wavelength
+2728,c7ta06990a,f4,Wavelength
+2729,c7ta08281a,f11,Wavelength
+2730,c8ta04165b,f2,Wavelength
+2731,c9ta02882j,f2,Wavelength
+2732,c9ta06911a,f1,Wavelength
+2733,c5ta00355e,f7,Wavelength
+2734,c5ta00606f,f5,Wavelength
+2735,c5ta01837d,f2,Wavelength
+2736,c5ta06381g,f3,Wavelength
+2737,c5ta06802a,f5,Wavelength
+2738,c6ta08110j,f3,Wavelength
+2739,c4ta05877a,f6,Wavelength
+2740,c4ta05940a,f2,Wavelength
+2741,c7ta01066d,f2,Wavelength
+2742,c7ta02552a,f5,Wavelength
+2743,c8ta00704g,f6,Wavelength
+2744,c8ta03526a,f3,Wavelength
+2745,c9ta01810g,f3,Wavelength
+2746,c4ta05274a,f2,Wavelength
+2747,c6ta01419d,f5,Wavelength
+2748,c6ta07845a,f5,Wavelength
+2749,c6ta08898h,f5,Wavelength
+2750,c6ta09173c,f5,Wavelength
+2751,c7ta00431a,f8,Wavelength
+2752,c7ta04949h,f9,Wavelength
+2753,c7ta08814k,f2,Wavelength
+2754,c8ta05969a,f9,Wavelength
+2755,c8ta07583b,f3,Wavelength
+2756,c5ta01025j,f7,Wavelength
+2757,c5ta01400j,f4,Wavelength
+2758,c6ta01528j,f3,Wavelength
+2759,c7ta09374h,f3,Wavelength
+2760,c9ta01846h,f3,Wavelength
+2761,c4ta07036d,f4,Wavelength
+2762,c5ta04400f,f2,Wavelength
+2763,c5ta07404e,f3,Wavelength
+2764,c5ta08656f,f5,Wavelength
+2765,c5ta09024e,f3,Wavelength
+2766,c7ta03936k,f1,Wavelength
+2767,c7ta04045h,f9,Wavelength
+2768,c7ta04132b,f6,Wavelength
+2769,c8ta05288c,f8,Wavelength
+2770,c4ta07097f,f3,Wavelength
+2771,c5ta00315f,f6,Wavelength
+2772,c4ta04834b,f7,Wavelength
+2773,c5ta02709h,f2,Wavelength
+2774,c6ta03784d,f2,Wavelength
+2775,c6ta05249e,f2,Wavelength
+2776,c7ta00828g,f5,Wavelength
+2777,c4ta05991c,f10,Wavelength
+2778,c7ta05206e,f8,Wavelength
+2779,c8ta09021a,f5,Wavelength
+2780,c9ta05236d,f4,Wavelength
+2781,c5ta00943j,f2,Wavelength
+2782,c5ta02500a,f4,Wavelength
+2783,c5ta06029j,f4,Wavelength
+2784,c5ta09919f,f4,Wavelength
+2785,c6ta02748b,f29,Wavelength
+2786,c6ta03178a,f12,Wavelength
+2787,c6ta04468a,f8,Wavelength
+2788,c6ta08962c,f4,Wavelength
+2789,c6ta10541f,f2,Wavelength
+2790,c7ta00100b,f4,Wavelength
+2791,c7ta01217a,f3,Wavelength
+2792,c7ta03009f,f8,Wavelength
+2793,c7ta07808k,f1,Wavelength
+2794,c8ta00258d,f5,Wavelength
+2795,c8ta02177e,f1,Wavelength
+2796,c8ta03414a,f7,Wavelength
+2797,c4ta06810f,f3,Wavelength
+2798,c5ta00784d,f2,Wavelength
+2799,c5ta02443a,f6,Wavelength
+2800,c5ta02520f,f5,Wavelength
+2801,c5ta03442f,f12,Wavelength
+2802,c5ta05153c,f6,Wavelength
+2803,c5ta05248c,f13,Wavelength
+2804,c5ta05603a,f4,Wavelength
+2805,c5ta07780j,f3,Wavelength
+2806,c4ta05974c,f2,Wavelength
+2807,c4ta06530a,f9,Wavelength
+2808,c8ta04809f,f3,Wavelength
+2809,c4ta06705c,f6,Wavelength
+2810,c9ta06771j,f4,Wavelength
+2811,c5ta01690h,f15,Wavelength
+2812,c5ta02295a,f6,Wavelength
+2813,c5ta05002b,f2,Wavelength
+2814,c5ta05286f,f1,Wavelength
+2815,c4ta05559d,f8,Wavelength
+2816,c6ta04416f,f7,Wavelength
+2817,c4ta05872k,f4,Wavelength
+2818,c7ta05108e,f3,Wavelength
+2819,c4ta06363e,f5,Wavelength
+2820,c4ta06648k,f5,Wavelength
+2821,c8ta07086e,f3,Wavelength
+2822,c8ta11358k,f2,Wavelength
+2823,c8ta12316k,f8,Wavelength
+2824,c9ta01278h,f2,Wavelength
+2825,c5ta00061k,f4,Wavelength
+2826,c5ta00702j,f4,Wavelength
+2827,c5ta01240f,f3,Wavelength
+2828,c5ta01632k,f4,Wavelength
+2829,c5ta02120k,f4,Wavelength
+2830,c5ta03442f,f4,Wavelength
+2831,c4ta03688c,f5,Wavelength
+2832,c5ta06802a,f7,Wavelength
+2833,c6ta01909a,f9,Wavelength
+2834,c4ta06070a,f7,Wavelength
+2835,c7ta10239a,f1,Wavelength
+2836,c8ta05322g,f1,Wavelength
+2837,c8ta07901c,f9,Wavelength
+2838,c8ta09801h,f14,Wavelength
+2839,c9ta00384c,f2,Wavelength
+2840,c9ta07768e,f7,Wavelength
+2841,c5ta00759c,f3,Wavelength
+2842,c5ta01857a,f2,Wavelength
+2843,c5ta02728d,f7,Wavelength
+2844,c5ta07583a,f5,Wavelength
+2845,c4ta05703a,f1,Wavelength
+2846,c6ta06415a,f4,Wavelength
+2847,c4ta05807k,f1,Wavelength
+2848,c4ta05872k,f8,Wavelength
+2849,c6ta09779k,f2,Wavelength
+2850,c6ta10795h,f8,Wavelength
+2851,c7ta01888f,f1,Wavelength
+2852,c4ta06188h,f8,Wavelength
+2853,c4ta04275a,f8,Wavelength
+2854,c4ta04313h,f2,Wavelength
+2855,c8ta03794a,f2,Wavelength
+2856,c4ta07122k,f3,Wavelength
+2857,c4ta04526b,f5,Wavelength
+2858,c5ta01523e,f2,Wavelength
+2859,c5ta01690h,f21,Wavelength
+2860,c5ta02482j,f2,Wavelength
+2861,c5ta06510k,f6,Wavelength
+2862,c5ta07713c,f3,Wavelength
+2863,c5ta09231k,f4,Wavelength
+2864,c4ta06988a,f6,Wavelength
+2865,c5ta00837a,f4,Wavelength
+2866,c5ta02120k,f2,Wavelength
+2867,c5ta02388b,f13,Wavelength
+2868,c5ta05248c,f5,Wavelength
+2869,c5ta05953d,f7,Wavelength
+2870,c5ta07030a,f5,Wavelength
+2871,c5ta10731h,f8,Wavelength
+2872,c6ta03288e,f1,Wavelength
+2873,c4ta05774k,f4,Wavelength
+2874,c6ta10202f,f6,Wavelength
+2875,c7ta01604b,f5,Wavelength
+2876,c9ta10931e,f2,Wavelength
+2877,c5ta00316d,f6,Wavelength
+2878,c5ta00624d,f8,Wavelength
+2879,c4ta04876h,f5,Wavelength
+2880,c5ta02114f,f3,Wavelength
+2881,c5ta04229a,f1,Wavelength
+2882,c5ta06966a,f5,Wavelength
+2883,c6ta07305k,f2,Wavelength
+2884,c6ta07681e,f3,Wavelength
+2885,c7ta00628d,f4,Wavelength
+2886,c4ta04197f,f2,Wavelength
+2887,c8ta05308a,f5,Wavelength
+2888,c5ta00166h,f2,Wavelength
+2889,c5ta03850b,f8,Wavelength
+2890,c6ta10044a,f6,Wavelength
+2891,c7ta04496h,f11,Wavelength
+2892,c7ta07780g,f18,Wavelength
+2893,c4ta04765f,f8,Wavelength
+2894,c5ta03396a,f12,Wavelength
+2895,c7ta02556d,f1,Wavelength
+2896,c7ta03887a,f8,Wavelength
+2897,c7ta04703g,f4,Wavelength
+2898,c7ta08653a,f7,Wavelength
+2899,c7ta10222d,f1,Wavelength
+2900,c8ta07572g,f13,Wavelength
+2901,c8ta07583b,f4,Wavelength
+2902,c4ta06871h,f2,Wavelength
+2903,c9ta06423k,f6,Wavelength
+2904,c5ta01198a,f1,Wavelength
+2905,c4ta04994b,f6,Wavelength
+2906,c4ta05035e,f4,Wavelength
+2907,c5ta03955j,f2,Wavelength
+2908,c5ta07004j,f3,Wavelength
+2909,c5ta08098c,f2,Wavelength
+2910,c5ta08772d,f8,Wavelength
+2911,c6ta05131f,f8,Wavelength
+2912,c6ta05175h,f4,Wavelength
+2913,c7ta00389g,f4,Wavelength
+2914,c7ta00871f,f2,Wavelength
+2915,c7ta03904b,f2,Wavelength
+2916,c7ta09723a,f6,Wavelength
+2917,c7ta10010h,f3,Wavelength
+2918,c8ta12398e,f3,Wavelength
+2919,c5ta00272a,f5,Wavelength
+2920,c5ta00764j,f12,Wavelength
+2921,c5ta04105h,f5,Wavelength
+2922,c5ta09231k,f2,Wavelength
+2923,c7ta02575k,f7,Wavelength
+2924,c7ta04985d,f15,Wavelength
+2925,c4ta06462c,f5,Wavelength
+2926,c8ta01712c,f6,Wavelength
+2927,c4ta06613h,f13,Wavelength
+2928,c5ta02163d,f3,Wavelength
+2929,c5ta02730f,f4,Wavelength
+2930,c4ta05070c,f6,Wavelength
+2931,c5ta05659d,f5,Wavelength
+2932,c5ta07464a,f4,Wavelength
+2933,c4ta05524a,f2,Wavelength
+2934,c7ta00229g,f5,Wavelength
+2935,c7ta01861d,f4,Wavelength
+2936,c4ta06054g,f4,Wavelength
+2937,c7ta02427d,f6,Wavelength
+2938,c8ta09504c,f2,Wavelength
+2939,c5ta01690h,f20,Wavelength
+2940,c5ta01852h,f2,Wavelength
+2941,c4ta04876h,f6,Wavelength
+2942,c5ta06382e,f3,Wavelength
+2943,c4ta05350h,f2,Wavelength
+2944,c6ta08684e,f7,Wavelength
+2945,c7ta08233a,f3,Wavelength
+2946,c7ta08281a,f2,Wavelength
+2947,c8ta03315c,f6,Wavelength
+2948,c5ta00715a,f3,Wavelength
+2949,c5ta02705e,f10,Wavelength
+2950,c4ta05154h,f3,Wavelength
+2951,c5ta05743d,f3,Wavelength
+2952,c7ta00508c,f1,Wavelength
+2953,c7ta04245k,f4,Wavelength
+2954,c4ta06347c,f2,Wavelength
+2955,c7ta09723a,f4,Wavelength
+2956,c5ta03358f,f3,Wavelength
+2957,c5ta03669k,f4,Wavelength
+2958,c5ta03959b,f1,Wavelength
+2959,c6ta00589f,f1,Wavelength
+2960,c4ta01304b,f11,Wavelength
+2961,c4ta06075j,f4,Wavelength
+2962,c7ta02575k,f5,Wavelength
+2963,c8ta07086e,f4,Wavelength
+2964,c4ta07127a,f3,Wavelength
+2965,c5ta02017d,f1,Wavelength
+2966,c5ta04061b,f5,Wavelength
+2967,c5ta06889d,f9,Wavelength
+2968,c6ta02885c,f3,Wavelength
+2969,c6ta03146c,f3,Wavelength
+2970,c7ta00038c,f4,Wavelength
+2971,c7ta08129d,f3,Wavelength
+2972,c4ta06725h,f4,Wavelength
+2973,c5ta02306h,f4,Wavelength
+2974,c5ta02780b,f2,Wavelength
+2975,c5ta05550d,f9,Wavelength
+2976,c5ta07095c,f4,Wavelength
+2977,c5ta09089j,f1,Wavelength
+2978,c5ta09370h,f6,Wavelength
+2979,c5ta09536k,f2,Wavelength
+2980,c6ta00396f,f6,Wavelength
+2981,c6ta05131f,f6,Wavelength
+2982,c6ta08513j,f5,Wavelength
+2983,c6ta08987a,f3,Wavelength
+2984,c6ta10123b,f4,Wavelength
+2985,c6ta10880f,f5,Wavelength
+2986,c7ta02982a,f2,Wavelength
+2987,c7ta08918j,f1,Wavelength
+2988,c7ta09322e,f10,Wavelength
+2989,c8ta05132a,f4,Wavelength
+2990,c8ta06649c,f3,Wavelength
+2991,c5ta00706b,f5,Wavelength
+2992,c5ta01207d,f6,Wavelength
+2993,c5ta01857a,f1,Wavelength
+2994,c5ta02360b,f10,Wavelength
+2995,c4ta05070c,f4,Wavelength
+2996,c4ta05087h,f6,Wavelength
+2997,c5ta04188k,f1,Wavelength
+2998,c5ta05397h,f3,Wavelength
+2999,c4ta05265j,f1,Wavelength
+3000,c4ta05350h,f3,Wavelength
+3001,c5ta10430k,f2,Wavelength
+3002,c6ta03576k,f2,Wavelength
+3003,c6ta05655e,f2,Wavelength
+3004,c7ta01026e,f3,Wavelength
+3005,c7ta02605f,f3,Wavelength
+3006,c7ta03887a,f6,Wavelength
+3007,c8ta07572g,f2,Wavelength
+3008,c8ta10580d,f11,Wavelength
+3009,c4ta06828a,f5,Wavelength
+3010,c5ta02226f,f8,Wavelength
+3011,c5ta05447h,f4,Wavelength
+3012,c5ta09911k,f37,Wavelength
+3013,c6ta04620g,f8,Wavelength
+3014,c7ta01106g,f8,Wavelength
+3015,c4ta06135g,f3,Wavelength
+3016,c7ta08295a,f9,Wavelength
+3017,c7ta10591f,f10,Wavelength
+3018,c4ta06590e,f7,Wavelength
+3019,c8ta03656j,f3,Wavelength
+3020,c9ta01147a,f3,Wavelength
+3021,c5ta01346a,f4,Wavelength
+3022,c5ta06238a,f3,Wavelength
+3023,c5ta06758h,f11,Wavelength
+3024,c5ta07075a,f5,Wavelength
+3025,c4ta05391e,f7,Wavelength
+3026,c5ta10601j,f1,Wavelength
+3027,c6ta00100a,f5,Wavelength
+3028,c4ta05974c,f1,Wavelength
+3029,c7ta02434g,f4,Wavelength
+3030,c7ta02655b,f6,Wavelength
+3031,c7ta03432f,f3,Wavelength
+3032,c7ta10794c,f3,Wavelength
+3033,c4ta06860b,f3,Wavelength
+3034,c5ta01552a,f9,Wavelength
+3035,c5ta02288f,f6,Wavelength
+3036,c5ta03229f,f2,Wavelength
+3037,c5ta04471e,f2,Wavelength
+3038,c5ta06081h,f2,Wavelength
+3039,c5ta10246d,f2,Wavelength
+3040,c6ta01074a,f8,Wavelength
+3041,c6ta04363a,f7,Wavelength
+3042,c7ta08188j,f2,Wavelength
+3043,c8ta09574d,f4,Wavelength
+3044,c9ta08216f,f5,Wavelength
+3045,c4ta04761c,f6,Wavelength
+3046,c5ta01544h,f2,Wavelength
+3047,c5ta08728g,f2,Wavelength
+3048,c4ta05445h,f7,Wavelength
+3049,c6ta04696g,f8,Wavelength
+3050,c6ta08232g,f9,Wavelength
+3051,c6ta08513j,f11,Wavelength
+3052,c7ta00246g,f2,Wavelength
+3053,c7ta00247e,f7,Wavelength
+3054,c7ta03360e,f6,Wavelength
+3055,c7ta03773b,f8,Wavelength
+3056,c8ta01729h,f6,Wavelength
+3057,c8ta06989a,f4,Wavelength
+3058,c8ta10790d,f3,Wavelength
+3059,c4ta04482g,f2,Wavelength
+3060,c4ta04855e,f5,Wavelength
+3061,c5ta01973g,f2,Wavelength
+3062,c5ta04107d,f7,Wavelength
+3063,c5ta05497d,f3,Wavelength
+3064,c5ta05507e,f10,Wavelength
+3065,c4ta05250a,f3,Wavelength
+3066,c5ta06802a,f9,Wavelength
+3067,c5ta07957h,f2,Wavelength
+3068,c6ta00320f,f2,Wavelength
+3069,c6ta00969g,f4,Wavelength
+3070,c6ta08574a,f1,Wavelength
+3071,c6ta09460k,f7,Wavelength
+3072,c6ta11167j,f2,Wavelength
+3073,c7ta00821j,f3,Wavelength
+3074,c7ta01967j,f3,Wavelength
+3075,c7ta04555g,f3,Wavelength
+3076,c7ta07292a,f4,Wavelength
+3077,c8ta02644k,f2,Wavelength
+3078,c8ta07968d,f5,Wavelength
+3079,c9ta00715f,f3,Wavelength
+3080,c9ta00867e,f9,Wavelength
+3081,c5ta00763a,f5,Wavelength
+3082,c4ta04680c,f3,Wavelength
+3083,c5ta00936g,f3,Wavelength
+3084,c5ta01972a,f11,Wavelength
+3085,c5ta02120k,f1,Wavelength
+3086,c5ta03215f,f12,Wavelength
+3087,c5ta03463a,f7,Wavelength
+3088,c5ta03593g,f8,Wavelength
+3089,c5ta05286f,f3,Wavelength
+3090,c5ta06041a,f5,Wavelength
+3091,c4ta05358c,f4,Wavelength
+3092,c4ta05407e,f5,Wavelength
+3093,c5ta10078j,f2,Wavelength
+3094,c5ta10534j,f2,Wavelength
+3095,c6ta08003k,f3,Wavelength
+3096,c6ta08513j,f14,Wavelength
+3097,c6ta10183f,f6,Wavelength
+3098,c5ta09763k,f7,Wavelength
+3099,c6ta03733j,f5,Wavelength
+3100,c5ta02354h,f12,Wavelength
+3101,c6ta10947k,f7,Wavelength
+3102,c7ta01228d,f3,Wavelength
+3103,c7ta04816e,f2,Wavelength
+3104,c8ta01286e,f11,Wavelength
+3105,c8ta03649g,f2,Wavelength
+3106,c4ta06746k,f5,Wavelength
+3107,c8ta11333e,f2,Wavelength
+3108,c9ta00244h,f2,Wavelength
+3109,c4ta06855f,f1,Wavelength
+3110,c5ta00185d,f1,Wavelength
+3111,c5ta00737b,f8,Wavelength
+3112,c4ta05288a,f4,Wavelength
+3113,c5ta08424e,f1,Wavelength
+3114,c5ta09069e,f3,Wavelength
+3115,c5ta10027e,f9,Wavelength
+3116,c5ta10574a,f2,Wavelength
+3117,c4ta05615a,f7,Wavelength
+3118,c6ta07025f,f3,Wavelength
+3119,c6ta07640h,f6,Wavelength
+3120,c6ta11121a,f12,Wavelength
+3121,c7ta01967j,f11,Wavelength
+3122,c7ta10995d,f3,Wavelength
+3123,c4ta06601d,f4,Wavelength
+3124,c8ta06326e,f28,Wavelength
+3125,c8ta07915c,f4,Wavelength
+3126,c9ta11550a,f6,Wavelength
+3127,c5ta02443a,f5,Wavelength
+3128,c6ta04416f,f15,Wavelength
+3129,c6ta06051j,f2,Wavelength
+3130,c6ta07772b,f1,Wavelength
+3131,c6ta09967j,f2,Wavelength
+3132,c7ta01255a,f4,Wavelength
+3133,c4ta06193d,f6,Wavelength
+3134,c7ta04985d,f3,Wavelength
+3135,c4ta06246a,f6,Wavelength
+3136,c4ta06477a,f3,Wavelength
+3137,c8ta01027g,f3,Wavelength
+3138,c8ta04092c,f6,Wavelength
+3139,c8ta05000g,f3,Wavelength
+3140,c8ta07603k,f9,Wavelength
+3141,c9ta00499h,f10,Wavelength
+3142,c9ta00715f,f4,Wavelength
+3143,c5ta00111k,f12,Wavelength
+3144,c4ta04633a,f7,Wavelength
+3145,c5ta05277g,f1,Wavelength
+3146,c5ta05380c,f7,Wavelength
+3147,c6ta04416f,f6,Wavelength
+3148,c4ta05931j,f6,Wavelength
+3149,c4ta06473a,f7,Wavelength
+3150,c7ta11274b,f4,Wavelength
+3151,c8ta04366c,f8,Wavelength
+3152,c9ta06771j,f13,Wavelength
+3153,c5ta00166h,f5,Wavelength
+3154,c5ta00383k,f3,Wavelength
+3155,c5ta02863a,f1,Wavelength
+3156,c5ta07057k,f4,Wavelength
+3157,c5ta07970e,f7,Wavelength
+3158,c6ta02662a,f2,Wavelength
+3159,c6ta02788a,f4,Wavelength
+3160,c6ta07364f,f3,Wavelength
+3161,c7ta08243f,f2,Wavelength
+3162,c8ta01291a,f4,Wavelength
+3163,c5ta04349b,f5,Wavelength
+3164,c5ta06549f,f6,Wavelength
+3165,c5ta08170j,f5,Wavelength
+3166,c5ta08996d,f7,Wavelength
+3167,c6ta04483b,f1,Wavelength
+3168,c9ta04073k,f2,Wavelength
+3169,c9ta06619e,f5,Wavelength
+3170,c9ta90134e,f8,Wavelength
+3171,c6ta01909a,f2,Wavelength
+3172,c7ta02216f,f6,Wavelength
+3173,c7ta02467c,f3,Wavelength
+3174,c7ta11260b,f3,Wavelength
+3175,c8ta02386g,f5,Wavelength
+3176,c8ta07036a,f10,Wavelength
+3177,c8ta09383k,f6,Wavelength
+3178,c9ta01116a,f7,Wavelength
+3179,c5ta01087j,f9,Wavelength
+3180,c5ta01274k,f6,Wavelength
+3181,c5ta03696h,f2,Wavelength
+3182,c5ta03776j,f5,Wavelength
+3183,c5ta06111c,f1,Wavelength
+3184,c5ta09763k,f3,Wavelength
+3185,c6ta04468a,f4,Wavelength
+3186,c6ta10016c,f8,Wavelength
+3187,c7ta02216f,f11,Wavelength
+3188,c7ta02891a,f2,Wavelength
+3189,c7ta08533h,f8,Wavelength
+3190,c8ta05583a,f5,Wavelength
+3191,c8ta06789a,f4,Wavelength
+3192,c8ta08045c,f5,Wavelength
+3193,c8ta08682f,f5,Wavelength
+3194,c4ta07083f,f2,Wavelength
+3195,c4ta04910a,f2,Wavelength
+3196,c4ta04951a,f11,Wavelength
+3197,c5ta03676c,f5,Wavelength
+3198,c5ta04894j,f4,Wavelength
+3199,c5ta06669g,f10,Wavelength
+3200,c5ta10096h,f3,Wavelength
+3201,c6ta04369k,f6,Wavelength
+3202,c6ta10541f,f6,Wavelength
+3203,c6ta10947k,f9,Wavelength
+3204,c7ta00638a,f5,Wavelength
+3205,c8ta02766h,f5,Wavelength
+3206,c8ta05992f,f4,Wavelength
+3207,c8ta08019d,f4,Wavelength
+3208,c9ta00580c,f6,Wavelength
+3209,c9ta07198a,f6,Wavelength
+3210,c4ta07155g,f9,Wavelength
+3211,c5ta00094g,f4,Wavelength
+3212,c4ta04840g,f2,Wavelength
+3213,c5ta02888d,f2,Wavelength
+3214,c5ta03969j,f6,Wavelength
+3215,c5ta04349b,f11,Wavelength
+3216,c5ta09353h,f5,Wavelength
+3217,c4ta03893b,f2,Wavelength
+3218,c4ta05807k,f4,Wavelength
+3219,c7ta01847a,f7,Wavelength
+3220,c7ta07264c,f3,Wavelength
+3221,c4ta06425a,f4,Wavelength
+3222,c7ta10591f,f9,Wavelength
+3223,c8ta04817g,f6,Wavelength
+3224,c4ta06746k,f8,Wavelength
+3225,c5ta00435g,f4,Wavelength
+3226,c5ta00706b,f3,Wavelength
+3227,c5ta02565f,f3,Wavelength
+3228,c5ta03820k,f4,Wavelength
+3229,c5ta03910j,f2,Wavelength
+3230,c5ta04314j,f3,Wavelength
+3231,c5ta07942j,f1,Wavelength
+3232,c4ta05952b,f3,Wavelength
+3233,c7ta00589j,f4,Wavelength
+3234,c7ta02076g,f4,Wavelength
+3235,c7ta03322b,f5,Wavelength
+3236,c7ta05225a,f6,Wavelength
+3237,c7ta06295h,f4,Wavelength
+3238,c4ta06396a,f5,Wavelength
+3239,c4ta04313h,f6,Wavelength
+3240,c8ta02210k,f14,Wavelength
+3241,c8ta07797e,f2,Wavelength
+3242,c8ta07936f,f6,Wavelength
+3243,c8ta10795e,f4,Wavelength
+3244,c8ta11343b,f1,Wavelength
+3245,c4ta06974a,f11,Wavelength
+3246,c5ta03415a,f4,Wavelength
+3247,c5ta06020f,f1,Wavelength
+3248,c5ta09320a,f3,Wavelength
+3249,c6ta02041k,f1,Wavelength
+3250,c6ta04297j,f8,Wavelength
+3251,c6ta04885d,f4,Wavelength
+3252,c6ta05223a,f12,Wavelength
+3253,c6ta08749c,f2,Wavelength
+3254,c7ta03815a,f2,Wavelength
+3255,c7ta06452g,f3,Wavelength
+3256,c9ta04662c,f1,Wavelength
+3257,c5ta00367a,f6,Wavelength
+3258,c5ta00764j,f7,Wavelength
+3259,c5ta05654c,f7,Wavelength
+3260,c5ta06376k,f5,Wavelength
+3261,c5ta10680j,f4,Wavelength
+3262,c6ta03381d,f4,Wavelength
+3263,c6ta08940b,f2,Wavelength
+3264,c6ta09293d,f2,Wavelength
+3265,c7ta01825h,f6,Wavelength
+3266,c7ta03761a,f2,Wavelength
+3267,c7ta04816e,f3,Wavelength
+3268,c8ta01606b,f4,Wavelength
+3269,c9ta02712b,f8,Wavelength
+3270,c9ta06251c,f2,Wavelength
+3271,c5ta00764j,f15,Wavelength
+3272,c5ta01543j,f2,Wavelength
+3273,c4ta05058d,f8,Wavelength
+3274,c6ta01016d,f4,Wavelength
+3275,c6ta05223a,f4,Wavelength
+3276,c6ta09802a,f11,Wavelength
+3277,c7ta02192e,f2,Wavelength
+3278,c7ta06990a,f3,Wavelength
+3279,c7ta11378a,f2,Wavelength
+3280,c8ta00001h,f7,Wavelength
+3281,c8ta02434k,f5,Wavelength
+3282,c8ta02633e,f6,Wavelength
+3283,c8ta09184f,f22,Wavelength
+3284,c5ta01597a,f4,Wavelength
+3285,c4ta05350h,f6,Wavelength
+3286,c5ta08939e,f17,Wavelength
+3287,c5ta09429a,f2,Wavelength
+3288,c6ta07919a,f1,Wavelength
+3289,c7ta01554b,f4,Wavelength
+3290,c7ta07158b,f9,Wavelength
+3291,c8ta08155g,f2,Wavelength
+3292,c5ta00288e,f6,Wavelength
+3293,c5ta00529a,f2,Wavelength
+3294,c4ta04901b,f1,Wavelength
+3295,c5ta04732c,f4,Wavelength
+3296,c5ta05153c,f5,Wavelength
+3297,c4ta05504g,f3,Wavelength
+3298,c4ta05721j,f5,Wavelength
+3299,c6ta06189c,f3,Wavelength
+3300,c6ta10127e,f3,Wavelength
+3301,c5ta00759c,f10,Wavelength
+3302,c6ta03178a,f6,Wavelength
+3303,c7ta07264c,f2,Wavelength
+3304,c8ta11456k,f9,Wavelength
+3305,c8ta12561a,f7,Wavelength
+3306,c5ta00870k,f4,Wavelength
+3307,c5ta05167c,f6,Wavelength
+3308,c5ta06802a,f6,Wavelength
+3309,c5ta10393b,f5,Wavelength
+3310,c6ta08850c,f1,Wavelength
+3311,c6ta11004e,f8,Wavelength
+3312,c7ta02496g,f4,Wavelength
+3313,c7ta07381j,f1,Wavelength
+3314,c8ta00303c,f7,Wavelength
+3315,c8ta04187c,f16,Wavelength
+3316,c8ta10037c,f8,Wavelength
+3317,c5ta02516h,f7,Wavelength
+3318,c5ta02888d,f7,Wavelength
+3319,c5ta03278d,f2,Wavelength
+3320,c5ta06425b,f4,Wavelength
+3321,c5ta08833j,f4,Wavelength
+3322,c5ta08833j,f5,Wavelength
+3323,c5ta09763k,f2,Wavelength
+3324,c6ta04117e,f4,Wavelength
+3325,c4ta05728g,f4,Wavelength
+3326,c4ta05898d,f8,Wavelength
+3327,c4ta05952b,f4,Wavelength
+3328,c7ta01334e,f1,Wavelength
+3329,c5ta00545k,f6,Raman shift
+3330,c5ta01330e,f4,Raman shift
+3331,c5ta06785e,f6,Raman shift
+3332,c4ta04159c,f7,Raman shift
+3333,c5ta00958h,f4,Raman shift
+3334,c4ta04808c,f4,Raman shift
+3335,c6ta00743k,f3,Raman shift
+3336,c4ta06354f,f5,Raman shift
+3337,c5ta01453k,f5,Raman shift
+3338,c6ta01907b,f4,Raman shift
+3339,c7ta09236a,f6,Raman shift
+3340,c8ta04187c,f10,Raman shift
+3341,c4ta05008h,f5,Raman shift
+3342,c6ta00324a,f3,Raman shift
+3343,c6ta10496g,f4,Raman shift
+3344,c5ta02154e,f5,Raman shift
+3345,c4ta05311g,f5,Raman shift
+3346,c7ta09324a,f4,Raman shift
+3347,c5ta01561h,f3,Raman shift
+3348,c4ta05642f,f4,Raman shift
+3349,c8ta09820d,f3,Raman shift
+3350,c8ta12246f,f3,Raman shift
+3351,c5ta05127d,f5,Raman shift
+3352,c6ta04906k,f5,Raman shift
+3353,c8ta09439j,f4,Raman shift
+3354,c6ta09615h,f3,Raman shift
+3355,c4ta06806h,f4,Raman shift
+3356,c6ta08891k,f4,Raman shift
+3357,c6ta00876c,f3,Raman shift
+3358,c7ta02434g,f5,Raman shift
+3359,c7ta03888g,f2,Raman shift
+3360,c8ta05978k,f2,Raman shift
+3361,c8ta09504c,f6,Raman shift
+3362,c5ta08214e,f3,Raman shift
+3363,c7ta04816e,f5,Raman shift
+3364,c8ta00001h,f5,Raman shift
+3365,c9ta02053e,f8,Raman shift
+3366,c5ta07301d,f3,Raman shift
+3367,c7ta11050b,f5,Raman shift
+3368,c8ta02477d,f2,Raman shift
+3369,c7ta03264a,f6,Raman shift
+3370,c5ta00303b,f4,Raman shift
+3371,c6ta09817g,f4,Raman shift
+3372,c8ta04838j,f5,Raman shift
+3373,c8ta11957k,f3,Raman shift
+3374,c7ta11320j,f2,Raman shift
+3375,c9ta00116f,f4,Raman shift
+3376,c9ta03750k,f8,Raman shift
+3377,c5ta10614a,f4,Raman shift
+3378,c8ta02835d,f3,Raman shift
+3379,c8ta10396h,f3,Raman shift
+3380,c9ta03690c,f13,Raman shift
+3381,c5ta03772g,f4,Raman shift
+3382,c4ta05186f,f2,Raman shift
+3383,c4ta05718j,f5,Raman shift
+3384,c5ta02708j,f4,Raman shift
+3385,c5ta08561f,f3,Raman shift
+3386,c5ta00141b,f3,Raman shift
+3387,c5ta08007j,f3,Raman shift
+3388,c6ta02264b,f4,Raman shift
+3389,c5ta02784e,f2,Raman shift
+3390,c8ta12526k,f3,Raman shift
+3391,c5ta05743d,f4,Raman shift
+3392,c6ta05872h,f5,Raman shift
+3393,c8ta07915c,f18,Raman shift
+3394,c5ta06653k,f5,Raman shift
+3395,c4ta05434b,f4,Raman shift
+3396,c7ta01293d,f3,Raman shift
+3397,c5ta00763a,f4,Raman shift
+3398,c5ta05961e,f5,Raman shift
+3399,c7ta07902h,f9,Raman shift
+3400,c9ta00417c,f2,Raman shift
+3401,c5ta03687a,f3,Raman shift
+3402,c5ta06387f,f5,Raman shift
+3403,c8ta04590a,f7,Raman shift
+3404,c7ta02913f,f4,Raman shift
+3405,c7ta02740k,f2,Raman shift
+3406,c5ta01973g,f6,Raman shift
+3407,c4ta07203k,f3,Raman shift
+3408,c5ta01760b,f5,Raman shift
+3409,c7ta04246a,f2,Raman shift
+3410,c7ta11096k,f9,Raman shift
+3411,c7ta02898a,f5,Raman shift
+3412,c9ta03153g,f7,Raman shift
+3413,c5ta01804h,f3,Raman shift
+3414,c6ta08850c,f5,Raman shift
+3415,c7ta02753b,f3,Raman shift
+3416,c7ta07956g,f2,Raman shift
+3417,c5ta00435g,f3,Raman shift
+3418,c5ta01427a,f1,Raman shift
+3419,c4ta05250a,f2,Raman shift
+3420,c6ta09817g,f3,Raman shift
+3421,c7ta01334e,f2,Raman shift
+3422,c8ta08309f,f3,Raman shift
+3423,c5ta00323g,f8,Raman shift
+3424,c5ta00402k,f3,Raman shift
+3425,c7ta04802e,f2,Raman shift
+3426,c5ta03900b,f6,Raman shift
+3427,c7ta01005b,f5,Raman shift
+3428,c5ta01111f,f6,Raman shift
+3429,c5ta03091a,f3,Raman shift
+3430,c5ta06465a,f2,Raman shift
+3431,c6ta09915g,f2,Raman shift
+3432,c8ta07915c,f3,Degree
+3433,c9ta06279c,f3,Degree
+3434,c5ta05132k,f3,Degree
+3435,c6ta11052e,f1,Degree
+3436,c4ta06552b,f4,Degree
+3437,c5ta00720h,f6,Degree
+3438,c5ta05953d,f2,Degree
+3439,c5ta08287k,f7,Degree
+3440,c4ta03821e,f2,Degree
+3441,c6ta05872h,f6,Degree
+3442,c6ta06634h,f3,Degree
+3443,c6ta06688g,f1,Degree
+3444,c7ta02816d,f7,Degree
+3445,c5ta00309a,f7,Degree
+3446,c5ta00315f,f3,Degree
+3447,c6ta01749e,f3,Degree
+3448,c4ta06384h,f3,Degree
+3449,c8ta02703j,f1,Degree
+3450,c8ta03485k,f2,Degree
+3451,c9ta05798f,f1,Degree
+3452,c5ta05155j,f3,Degree
+3453,c5ta10173e,f1,Degree
+3454,c6ta02116f,f2,Degree
+3455,c6ta05386f,f1,Degree
+3456,c7ta01005b,f2,Degree
+3457,c4ta06049k,f2,Degree
+3458,c7ta04333c,f1,Degree
+3459,c4ta06451h,f1,Degree
+3460,c8ta02679c,f2,Degree
+3461,c6ta09809f,f13,Degree
+3462,c7ta03873a,f2,Degree
+3463,c7ta04308b,f1,Degree
+3464,c7ta11180k,f1,Degree
+3465,c5ta00634a,f5,Degree
+3466,c7ta01668a,f3,Degree
+3467,c7ta03761a,f1,Degree
+3468,c7ta03920d,f1,Degree
+3469,c7ta10901f,f4,Degree
+3470,c8ta03803a,f3,Degree
+3471,c8ta03805h,f2,Degree
+3472,c8ta04603d,f2,Degree
+3473,c5ta01176k,f1,Degree
+3474,c5ta02524a,f1,Degree
+3475,c5ta03201f,f8,Degree
+3476,c5ta03780h,f12,Degree
+3477,c5ta06158j,f2,Degree
+3478,c6ta04696g,f4,Degree
+3479,c7ta00993c,f1,Degree
+3480,c4ta06530a,f1,Degree
+3481,c8ta04057e,f4,Degree
+3482,c8ta10378j,f2,Degree
+3483,c8ta10642h,f1,Degree
+3484,c5ta00192g,f1,Degree
+3485,c5ta00274e,f1,Degree
+3486,c5ta03780h,f8,Degree
+3487,c5ta03900b,f3,Degree
+3488,c4ta05186f,f1,Degree
+3489,c5ta05605e,f2,Degree
+3490,c5ta09671e,f3,Degree
+3491,c5ta09979j,f3,Degree
+3492,c7ta10217h,f4,Degree
+3493,c8ta03398f,f1,Degree
+3494,c8ta09021a,f7,Degree
+3495,c9ta03476e,f3,Degree
+3496,c4ta07112c,f2,Degree
+3497,c5ta00266d,f4,Degree
+3498,c5ta02915e,f1,Degree
+3499,c5ta07942j,f4,Degree
+3500,c6ta04398d,f2,Degree
+3501,c4ta05818f,f3,Degree
+3502,c7ta03331a,f7,Degree
+3503,c7ta10093k,f2,Degree
+3504,c4ta06775d,f1,Degree
+3505,c9ta06279c,f2,Degree
+3506,c5ta00528k,f1,Degree
+3507,c5ta00963d,f2,Degree
+3508,c5ta01087j,f3,Degree
+3509,c5ta01111f,f2,Degree
+3510,c5ta02388b,f1,Degree
+3511,c5ta03500g,f4,Degree
+3512,c4ta05504g,f5,Degree
+3513,c6ta05611c,f6,Degree
+3514,c7ta01174a,f6,Degree
+3515,c4ta06394e,f2,Degree
+3516,c8ta00993g,f2,Degree
+3517,c8ta05573d,f3,Degree
+3518,c8ta08019d,f1,Degree
+3519,c9ta02045d,f1,Degree
+3520,c5ta00764j,f1,Degree
+3521,c5ta01552a,f1,Degree
+3522,c5ta02522b,f1,Degree
+3523,c6ta00154h,f2,Degree
+3524,c6ta04468a,f3,Degree
+3525,c6ta06404c,f3,Degree
+3526,c4ta06052k,f1,Degree
+3527,c4ta06055e,f3,Degree
+3528,c8ta05852k,f2,Degree
+3529,c8ta09336a,f3,Degree
+3530,c8ta09647c,f1,Degree
+3531,c4ta04984e,f1,Degree
+3532,c5ta07381b,f5,Degree
+3533,c5ta08959j,f5,Degree
+3534,c5ta09357k,f2,Degree
+3535,c4ta05559d,f2,Degree
+3536,c4ta05770h,f6,Degree
+3537,c7ta04042c,f1,Degree
+3538,c7ta09690a,f2,Degree
+3539,c7ta09723a,f3,Degree
+3540,c7ta09857j,f1,Degree
+3541,c4ta06710j,f3,Degree
+3542,c9ta04487f,f1,Degree
+3543,c5ta03463a,f9,Degree
+3544,c5ta04595a,f7,Degree
+3545,c5ta05110j,f6,Degree
+3546,c5ta05752c,f4,Degree
+3547,c5ta08366d,f1,Degree
+3548,c6ta04085c,f8,Degree
+3549,c7ta11231a,f6,Degree
+3550,c8ta07043a,f2,Degree
+3551,c8ta10610j,f18,Degree
+3552,c8ta11974k,f3,Degree
+3553,c8ta12002a,f2,Degree
+3554,c8ta12483c,f2,Degree
+3555,c4ta04537h,f2,Degree
+3556,c5ta00816f,f3,Degree
+3557,c5ta08390g,f2,Degree
+3558,c6ta01899h,f2,Degree
+3559,c5ta03736k,f2,Degree
+3560,c9ta04412d,f1,Degree
+3561,c4ta07213h,f3,Degree
+3562,c5ta00528k,f8,Degree
+3563,c5ta02549d,f2,Degree
+3564,c4ta06186a,f1,Degree
+3565,c7ta07635e,f1,Degree
+3566,c7ta08733k,f9,Degree
+3567,c8ta03544j,f1,Degree
+3568,c8ta07831a,f7,Degree
+3569,c8ta08830f,f1,Degree
+3570,c8ta10633a,f1,Degree
+3571,c5ta00010f,f3,Degree
+3572,c5ta08015k,f4,Degree
+3573,c4ta05642f,f3,Degree
+3574,c4ta05684a,f4,Degree
+3575,c6ta09381g,f2,Degree
+3576,c7ta06618j,f2,Degree
+3577,c5ta03442f,f2,Degree
+3578,c5ta08458j,f1,Degree
+3579,c5ta09929c,f2,Degree
+3580,c6ta01008c,f1,Degree
+3581,c7ta02643a,f1,Degree
+3582,c7ta08023a,f4,Degree
+3583,c4ta06386d,f3,Degree
+3584,c4ta06438k,f3,Degree
+3585,c8ta03099e,f3,Degree
+3586,c4ta06736c,f3,Degree
+3587,c4ta06869f,f4,Degree
+3588,c9ta08025b,f4,Degree
+3589,c4ta07176j,f1,Degree
+3590,c5ta00888c,f5,Degree
+3591,c5ta02535d,f1,Degree
+3592,c5ta03224e,f1,Degree
+3593,c5ta07403g,f1,Degree
+3594,c4ta03986f,f5,Degree
+3595,c7ta02344h,f2,Degree
+3596,c4ta06292b,f1,Degree
+3597,c7ta09924j,f4,Degree
+3598,c9ta01975h,f1,Degree
+3599,c5ta08426a,f3,Degree
+3600,c6ta06658e,f1,Degree
+3601,c6ta10284k,f5,Degree
+3602,c8ta03839b,f1,Degree
+3603,c5ta02432c,f1,Degree
+3604,c5ta06174a,f2,Degree
+3605,c4ta04765f,f7,Degree
+3606,c5ta02608c,f3,Degree
+3607,c6ta01136e,f3,Degree
+3608,c7ta08954f,f5,Degree
+3609,c7ta10431f,f1,Degree
+3610,c8ta05647a,f4,Degree
+3611,c9ta02281c,f3,Degree
+3612,c5ta01746g,f1,Degree
+3613,c5ta03225c,f1,Degree
+3614,c4ta05249h,f3,Degree
+3615,c6ta10818k,f3,Degree
+3616,c7ta01616f,f1,Degree
+3617,c7ta03897f,f2,Degree
+3618,c7ta08989a,f1,Degree
+3619,c7ta09897a,f1,Degree
+3620,c7ta10886a,f2,Degree
+3621,c4ta06883a,f1,Degree
+3622,c5ta02007g,f5,Degree
+3623,c5ta02757h,f1,Degree
+3624,c5ta06411b,f8,Degree
+3625,c5ta08878j,f1,Degree
+3626,c6ta00305b,f3,Degree
+3627,c6ta01963c,f1,Degree
+3628,c6ta02596j,f1,Degree
+3629,c6ta06740a,f9,Degree
+3630,c6ta09485f,f3,Degree
+3631,c6ta11120c,f2,Degree
+3632,c7ta06335k,f6,Degree
+3633,c4ta06438k,f1,Degree
+3634,c7ta10934b,f1,Degree
+3635,c8ta00576a,f2,Degree
+3636,c8ta06417b,f4,Degree
+3637,c8ta11227d,f2,Degree
+3638,c9ta05145g,f1,Degree
+3639,c5ta00928f,f2,Degree
+3640,c5ta02450a,f1,Degree
+3641,c5ta03281d,f4,Degree
+3642,c5ta03665h,f1,Degree
+3643,c4ta05087h,f2,Degree
+3644,c7ta09734d,f1,Degree
+3645,c8ta00258d,f1,Degree
+3646,c8ta08019d,f7,Degree
+3647,c7ta02953e,f2,Degree
+3648,c4ta04332d,f1,Degree
+3649,c8ta02391c,f2,Degree
+3650,c9ta03725j,f3,Degree
+3651,c9ta06736a,f2,Degree
+3652,c9ta06889a,f4,Degree
+3653,c5ta00201j,f5,Degree
+3654,c5ta00302d,f3,Degree
+3655,c5ta01106j,f3,Degree
+3656,c5ta02306h,f3,Degree
+3657,c5ta03843j,f10,Degree
+3658,c5ta04521e,f4,Degree
+3659,c5ta05613f,f1,Degree
+3660,c5ta08656f,f3,Degree
+3661,c5ta08752j,f1,Degree
+3662,c6ta04363a,f4,Degree
+3663,c7ta01082f,f2,Degree
+3664,c7ta05353c,f2,Degree
+3665,c5ta00697j,f7,Degree
+3666,c5ta02305j,f3,Degree
+3667,c4ta05128a,f1,Degree
+3668,c6ta08038c,f7,Degree
+3669,c6ta10345f,f1,Degree
+3670,c7ta00169j,f3,Degree
+3671,c7ta00794a,f1,Degree
+3672,c8ta07076h,f2,Degree
+3673,c8ta08149b,f2,Degree
+3674,c4ta06848c,f6,Degree
+3675,c9ta04035h,f1,Degree
+3676,c9ta06438a,f1,Degree
+3677,c5ta00446b,f3,Degree
+3678,c5ta06575e,f5,Degree
+3679,c5ta07464a,f3,Degree
+3680,c5ta08565a,f2,Degree
+3681,c6ta00882h,f1,Degree
+3682,c6ta04416f,f2,Degree
+3683,c4ta05946h,f1,Degree
+3684,c7ta08827b,f3,Degree
+3685,c8ta05894f,f2,Degree
+3686,c5ta00402k,f1,Degree
+3687,c5ta01296a,f1,Degree
+3688,c5ta02278a,f1,Degree
+3689,c5ta05210f,f4,Degree
+3690,c5ta05266a,f4,Degree
+3691,c6ta09963g,f2,Degree
+3692,c7ta04971d,f2,Degree
+3693,c4ta04420g,f1,Degree
+3694,c9ta01237k,f13,Degree
+3695,c4ta04636f,f1,Degree
+3696,c5ta00983a,f1,Degree
+3697,c5ta02131f,f1,Degree
+3698,c5ta02721g,f1,Degree
+3699,c5ta04732c,f5,Degree
+3700,c5ta06955f,f4,Degree
+3701,c5ta08611f,f3,Degree
+3702,c4ta05686h,f1,Degree
+3703,c7ta00236j,f1,Degree
+3704,c8ta02950d,f2,Degree
+3705,c9ta11140a,f2,Degree
+3706,c5ta02500a,f2,Degree
+3707,c7ta05787c,f4,Degree
+3708,c7ta07170a,f8,Degree
+3709,c8ta01064a,f1,Degree
+3710,c8ta07783e,f1,Degree
+3711,c8ta08050j,f1,Degree
+3712,c4ta06684g,f10,Degree
+3713,c9ta03666k,f8,Degree
+3714,c5ta03091a,f1,Degree
+3715,c5ta06838j,f1,Degree
+3716,c6ta00402d,f11,Degree
+3717,c6ta03519a,f1,Degree
+3718,c6ta08130d,f4,Degree
+3719,c9ta01237k,f1,Degree
+3720,c5ta04058b,f4,Degree
+3721,c7ta08242h,f2,Degree
+3722,c8ta01387j,f8,Degree
+3723,c8ta02633e,f10,Degree
+3724,c8ta03418d,f2,Degree
+3725,c8ta04529a,f5,Degree
+3726,c8ta07076h,f1,Degree
+3727,c9ta90106j,f7,Degree
+3728,c5ta01293g,f2,Degree
+3729,c5ta01346a,f1,Degree
+3730,c5ta06088e,f2,Degree
+3731,c4ta05288a,f3,Degree
+3732,c5ta06609c,f1,Degree
+3733,c5ta09795a,f2,Degree
+3734,c6ta08692f,f4,Degree
+3735,c6ta10827j,f1,Degree
+3736,c7ta01967j,f5,Degree
+3737,c4ta06378c,f1,Degree
+3738,c5ta02295a,f1,Degree
+3739,c6ta03314h,f2,Degree
+3740,c6ta11004e,f4,Degree
+3741,c8ta11807h,f2,Degree
+3742,c5ta02759d,f7,Degree
+3743,c5ta03796d,f4,Degree
+3744,c5ta10675c,f9,Degree
+3745,c7ta02483e,f4,Degree
+3746,c9ta07465a,f3,Degree
+3747,c5ta00983a,f2,Degree
+3748,c6ta05985f,f6,Degree
+3749,c6ta09793f,f4,Degree
+3750,c6ta10902k,f1,Degree
+3751,c7ta06118h,f4,Degree
+3752,c7ta07842k,f4,Degree
+3753,c8ta02699h,f8,Degree
+3754,c5ta03049h,f2,Degree
+3755,c5ta05304h,f1,Degree
+3756,c4ta05468g,f5,Degree
+3757,c7ta06809c,f5,Degree
+3758,c8ta02429d,f1,Degree
+3759,c4ta06811d,f1,Degree
+3760,c5ta01771h,f1,Degree
+3761,c5ta03334a,f1,Degree
+3762,c5ta04732c,f9,Degree
+3763,c5ta06685a,f2,Degree
+3764,c6ta02563c,f4,Degree
+3765,c4ta05722h,f2,Degree
+3766,c6ta10123b,f3,Degree
+3767,c7ta01447c,f1,Degree
+3768,c7ta02457f,f7,Degree
+3769,c7ta07621e,f2,Degree
+3770,c4ta06458e,f1,Degree
+3771,c8ta00426a,f1,Degree
+3772,c8ta02539h,f3,Degree
+3773,c8ta09620a,f4,Degree
+3774,c9ta00521h,f3,Degree
+3775,c9ta03476e,f1,Degree
+3776,c9ta03917a,f2,Degree
+3777,c5ta07314f,f3,Degree
+3778,c5ta09832g,f6,Degree
+3779,c7ta02344h,f5,Degree
+3780,c4ta04951a,f1,Degree
+3781,c5ta02877a,f5,Degree
+3782,c5ta04309c,f1,Degree
+3783,c5ta05205j,f1,Degree
+3784,c6ta07860e,f1,Degree
+3785,c7ta00230k,f4,Degree
+3786,c7ta04279e,f1,Degree
+3787,c7ta04802e,f1,Degree
+3788,c7ta04918h,f4,Degree
+3789,c7ta08343b,f2,Degree
+3790,c7ta10218f,f1,Degree
+3791,c8ta02477d,f1,Degree
+3792,c8ta09801h,f2,Degree
+3793,c8ta11329g,f11,Degree
+3794,c5ta02114f,f1,Degree
+3795,c5ta03056k,f1,Degree
+3796,c5ta04243g,f6,Degree
+3797,c5ta04549e,f2,Degree
+3798,c5ta07205k,f4,Degree
+3799,c6ta02548j,f1,Degree
+3800,c6ta03121h,f2,Degree
+3801,c6ta04030f,f3,Degree
+3802,c6ta04906k,f4,Degree
+3803,c6ta06975d,f1,Degree
+3804,c6ta07788a,f11,Degree
+3805,c7ta02754k,f3,Degree
+3806,c4ta06262k,f4,Degree
+3807,c7ta10558d,f1,Degree
+3808,c8ta06880a,f2,Degree
+3809,c8ta08458k,f1,Degree
+3810,c8ta11072g,f1,Degree
+3811,c9ta00172g,f2,Degree
+3812,c5ta02556g,f1,Degree
+3813,c5ta04345j,f2,Degree
+3814,c5ta09249c,f2,Degree
+3815,c6ta00325g,f2,Degree
+3816,c6ta04473e,f3,Degree
+3817,c7ta00953d,f1,Degree
+3818,c7ta05252a,f2,Degree
+3819,c7ta08081f,f5,Degree
+3820,c8ta00533h,f4,Degree
+3821,c5ta05350a,f4,Degree
+3822,c5ta07862h,f1,Degree
+3823,c5ta09353h,f8,Degree
+3824,c6ta00468g,f1,Degree
+3825,c6ta04150g,f2,Degree
+3826,c6ta09532a,f3,Degree
+3827,c6ta10490h,f2,Degree
+3828,c4ta05917d,f2,Degree
+3829,c6ta11121a,f1,Degree
+3830,c7ta00770a,f1,Degree
+3831,c7ta02282d,f1,Degree
+3832,c8ta10182e,f1,Degree
+3833,c5ta00077g,f8,Degree
+3834,c4ta04574b,f4,Degree
+3835,c5ta00943j,f3,Degree
+3836,c5ta01400j,f3,Degree
+3837,c5ta07957h,f3,Degree
+3838,c7ta06806a,f2,Degree
+3839,c9ta03151k,f1,Degree
+3840,c9ta03263k,f1,Degree
+3841,c5ta05589j,f2,Degree
+3842,c7ta01228d,f11,Degree
+3843,c7ta01404j,f3,Degree
+3844,c5ta06482a,f5,Degree
+3845,c6ta10795h,f3,Degree
+3846,c7ta05134d,f2,Degree
+3847,c9ta02883h,f1,Degree
+3848,c5ta01507c,f3,Degree
+3849,c7ta00146k,f1,Degree
+3850,c7ta06139k,f2,Degree
+3851,c4ta02319f,f1,Degree
+3852,c8ta04018d,f2,Degree
+3853,c9ta01847f,f2,Degree
+3854,c9ta03711j,f2,Degree
+3855,c4ta07101h,f5,Degree
+3856,c5ta02094h,f1,Degree
+3857,c6ta00889e,f4,Degree
+3858,c6ta00971a,f3,Degree
+3859,c4ta05615a,f1,Degree
+3860,c6ta02230h,f5,Degree
+3861,c6ta07599a,f2,Degree
+3862,c7ta04618a,f6,Voltage
+3863,c8ta12561a,f9,Voltage
+3864,c5ta00092k,f5,Voltage
+3865,c5ta00828j,f4,Voltage
+3866,c6ta03471c,f1,Voltage
+3867,c7ta04851c,f4,Voltage
+3868,c5ta05071e,f19,Voltage
+3869,c6ta10688a,f3,Voltage
+3870,c7ta01467h,f7,Voltage
+3871,c9ta02389e,f6,Voltage
+3872,c5ta05807d,f5,Voltage
+3873,c5ta06376k,f4,Voltage
+3874,c4ta05405a,f2,Voltage
+3875,c7ta04995a,f3,Voltage
+3876,c8ta01291a,f6,Voltage
+3877,c9ta00118b,f2,Voltage
+3878,c5ta09179a,f4,Voltage
+3879,c5ta09727d,f3,Voltage
+3880,c7ta00941k,f7,Voltage
+3881,c5ta02120k,f3,Voltage
+3882,c6ta02601j,f6,Voltage
+3883,c6ta07640h,f10,Voltage
+3884,c6ta10543b,f16,Voltage
+3885,c7ta00896a,f5,Voltage
+3886,c7ta03472e,f5,Voltage
+3887,c4ta06705c,f7,Voltage
+3888,c4ta02319f,f7,Voltage
+3889,c5ta00725a,f6,Voltage
+3890,c5ta03389f,f3,Voltage
+3891,c5ta06111c,f8,Voltage
+3892,c7ta04717g,f5,Voltage
+3893,c8ta01728j,f2,Voltage
+3894,c6ta01909a,f11,Voltage
+3895,c6ta10688a,f4,Voltage
+3896,c7ta01467h,f5,Voltage
+3897,c4ta06198e,f4,Voltage
+3898,c4ta07068b,f5,Voltage
+3899,c5ta00447k,f2,Voltage
+3900,c8ta00303c,f6,Voltage
+3901,c8ta09015g,f8,Voltage
+3902,c5ta05432j,f3,Voltage
+3903,c4ta05233a,f6,Voltage
+3904,c7ta09968a,f2,Voltage
+3905,c8ta09955c,f3,Voltage
+3906,c5ta02372f,f2,Voltage
+3907,c6ta02083f,f7,Voltage
+3908,c4ta05652c,f7,Voltage
+3909,c6ta08783c,f6,Voltage
+3910,c6ta09777d,f2,Voltage
+3911,c8ta01826j,f3,Voltage
+3912,c5ta00190k,f4,Voltage
+3913,c5ta03439f,f5,Voltage
+3914,c5ta06952a,f3,Voltage
+3915,c6ta00110f,f7,Voltage
+3916,c6ta04325a,f3,Voltage
+3917,c8ta08083f,f7,Voltage
+3918,c4ta06879c,f5,Voltage
+3919,c5ta03026a,f5,Voltage
+3920,c5ta06612c,f2,Voltage
+3921,c6ta11012f,f5,Voltage
+3922,c7ta05220k,f7,Voltage
+3923,c5ta00715a,f1,Voltage
+3924,c5ta02728d,f5,Voltage
+3925,c5ta05879a,f9,Voltage
+3926,c5ta06009e,f4,Voltage
+3927,c6ta10327h,f10,Voltage
+3928,c4ta06054g,f3,Voltage
+3929,c6ta02415g,f7,Voltage
+3930,c6ta04879j,f2,Voltage
+3931,c5ta02305j,f4,Voltage
+3932,c5ta06065f,f3,Voltage
+3933,c5ta10040b,f7,Voltage
+3934,c7ta02108a,f7,Voltage
+3935,c7ta04975g,f3,Voltage
+3936,c7ta04986b,f3,Voltage
+3937,c8ta05756g,f5,Voltage
+3938,c5ta06945a,f5,Voltage
+3939,c6ta03695c,f4,Voltage
+3940,c6ta06573b,f5,Voltage
+3941,c8ta05992f,f2,Voltage
+3942,c8ta11783g,f5,Voltage
+3943,c5ta00800j,f7,Voltage
+3944,c5ta02265g,f2,Voltage
+3945,c6ta09572k,f2,Voltage
+3946,c5ta10601j,f6,Voltage
+3947,c6ta02248k,f2,Voltage
+3948,c6ta08979h,f6,Voltage
+3949,c4ta03684k,f2,Voltage
+3950,c6ta05029h,f6,Voltage
+3951,c7ta07730k,f6,Voltage
+3952,c5ta05220c,f5,Voltage
+3953,c5ta06315a,f4,Voltage
+3954,c7ta04132b,f4,Voltage
+3955,c7ta05246d,f7,Voltage
+3956,c5ta00316d,f9,Voltage
+3957,c5ta00614g,f5,Voltage
+3958,c5ta07055d,f3,Voltage
+3959,c5ta07507f,f4,Voltage
+3960,c4ta05491a,f3,Voltage
+3961,c7ta00821j,f6,Voltage
+3962,c7ta02575k,f3,Voltage
+3963,c8ta12330f,f2,Voltage
+3964,c9ta00649d,f3,Voltage
+3965,c5ta04716a,f2,Voltage
+3966,c5ta06878a,f5,Voltage
+3967,c4ta05373g,f4,Voltage
+3968,c7ta04762b,f16,Voltage
+3969,c5ta00316d,f7,Voltage
+3970,c5ta03693c,f6,Voltage
+3971,c7ta10247j,f5,Voltage
+3972,c9ta07198a,f5,Voltage
+3973,c4ta07009g,f1,Voltage
+3974,c5ta07328f,f8,Voltage
+3975,c5ta08833j,f12,Voltage
+3976,c6ta06502c,f2,Voltage
+3977,c6ta09028a,f6,Voltage
+3978,c7ta00941k,f9,Voltage
+3979,c7ta04045h,f15,Voltage
+3980,c8ta01418c,f7,Voltage
+3981,c9ta04592a,f1,Voltage
+3982,c5ta01526j,f1,Voltage
+3983,c5ta03669k,f9,Voltage
+3984,c5ta06425b,f3,Voltage
+3985,c5ta08565a,f5,Voltage
+3986,c5ta02950c,f5,Voltage
+3987,c5ta03644e,f6,Voltage
+3988,c5ta04687d,f8,Voltage
+3989,c5ta06238a,f4,Voltage
+3990,c5ta09546h,f7,Voltage
+3991,c6ta00783j,f3,Voltage
+3992,c6ta04770j,f6,Voltage
+3993,c5ta00400d,f5,Voltage
+3994,c5ta06183k,f13,Voltage
+3995,c5ta06382e,f5,Voltage
+3996,c5ta07111a,f4,Voltage
+3997,c5ta09911k,f33,Voltage
+3998,c6ta09125c,f5,Voltage
+3999,c8ta12398e,f2,Voltage
+4000,c9ta04592a,f8,Voltage
+4001,c9ta09569a,f2,Voltage
+4002,c6ta08891k,f10,Voltage
+4003,c7ta02892j,f7,Voltage
+4004,c8ta06865h,f1,Voltage
+4005,c5ta07713c,f2,Voltage
+4006,c5ta00367a,f4,Voltage
+4007,c6ta08979h,f3,Voltage
+4008,c6ta10605f,f3,Voltage
+4009,c7ta08607e,f5,Voltage
+4010,c4ta06671e,f9,Voltage
+4011,c5ta01277e,f4,Voltage
+4012,c5ta05497d,f6,Voltage
+4013,c7ta01752a,f4,Voltage
+4014,c7ta05560a,f5,Voltage
+4015,c7ta05609e,f10,Voltage
+4016,c8ta03875a,f5,Voltage
+4017,c5ta08650g,f4,Voltage
+4018,c6ta02248k,f5,Voltage
+4019,c6ta04405k,f8,Voltage
+4020,c7ta00997f,f6,Voltage
+4021,c6ta04657f,f7,Voltage
+4022,c8ta05068f,f4,Voltage
+4023,c5ta00788g,f11,Voltage
+4024,c5ta01953b,f5,Voltage
+4025,c5ta06065f,f4,Voltage
+4026,c5ta09133k,f3,Voltage
+4027,c7ta01825h,f5,Voltage
+4028,c8ta05973j,f8,Voltage
+4029,c5ta05437k,f1,Voltage
+4030,c5ta02363g,f3,Voltage
+4031,c5ta09171c,f2,Voltage
+4032,c6ta01776b,f3,Voltage
+4033,c6ta08385d,f4,Voltage
+4034,c6ta10319g,f3,Voltage
+4035,c7ta00229g,f4,Voltage
+4036,c5ta06376k,f6,Voltage
+4037,c6ta06733f,f48,Voltage
+4038,c5ta00472a,f2,Voltage
+4039,c5ta06065f,f5,Voltage
+4040,c5ta09763k,f8,Voltage
+4041,c7ta90124k,f10,Voltage
+4042,c5ta09023g,f3,Voltage
+4043,c7ta00495h,f4,Voltage
+4044,c7ta04728b,f3,Voltage
+4045,c7ta06663e,f5,Voltage
+4046,c4ta04593a,f2,Voltage
+4047,c5ta02241j,f3,Voltage
+4048,c5ta08728g,f3,Voltage
+4049,c6ta00126b,f4,Voltage
+4050,c4ta05615a,f8,Voltage
+4051,c7ta00336f,f6,Voltage
+4052,c8ta00590g,f6,Voltage
+4053,c8ta11160j,f1,Voltage
+4054,c5ta00622h,f5,Voltage
+4055,c5ta03389f,f4,Voltage
+4056,c6ta00123h,f7,Voltage
+4057,c6ta01074a,f4,Voltage
+4058,c6ta01846g,f10,Voltage
+4059,c7ta00990a,f3,Voltage
+4060,c9ta00490d,f1,Voltage
+4061,c9ta02891a,f5,Voltage
+4062,c5ta02360b,f6,Voltage
+4063,c5ta05057j,f7,Voltage
+4064,c7ta01341h,f7,Voltage
+4065,c7ta02617j,f9,Voltage
+4066,c7ta08533h,f10,Voltage
+4067,c6ta04657f,f8,Voltage
+4068,c7ta10558d,f7,Voltage
+4069,c5ta01970b,f6,Voltage
+4070,c5ta07603j,f10,Voltage
+4071,c7ta09193a,f8,Voltage
+4072,c8ta02083c,f5,Voltage
+4073,c8ta10876e,f3,Voltage
+4074,c4ta04647a,f2,Voltage
+4075,c5ta01073j,f8,Voltage
+4076,c4ta04785k,f3,Voltage
+4077,c5ta02840j,f1,Voltage
+4078,c5ta03091a,f11,Voltage
+4079,c4ta05171h,f7,Voltage
+4080,c4ta03688c,f6,Voltage
+4081,c5ta07369c,f5,Voltage
+4082,c4ta05405a,f6,Voltage
+4083,c5ta01362c,f9,Ohm
+4084,c6ta03959f,f10,Ohm
+4085,c5ta07963b,f8,Ohm
+4086,c6ta06729h,f8,Ohm
+4087,c4ta06705c,f8,Ohm
+4088,c6ta08736a,f6,Ohm
+4089,c9ta04288a,f4,Ohm
+4090,c6ta07751j,f8,Ohm
+4091,c9ta02449b,f14,Ohm
+4092,c5ta05818j,f7,Ohm
+4093,c7ta05347a,f9,Ohm
+4094,c5ta04061b,f6,Ohm
+4095,c4ta05431h,f8,Ohm
+4096,c5ta10288j,f7,Ohm
+4097,c6ta03429b,f9,Ohm
+4098,c6ta04874a,f8,Ohm
+4099,c8ta08385a,f11,Ohm
+4100,c4ta02924k,f15,Ohm
+4101,c5ta01529d,f5,Ohm
+4102,c5ta07876h,f9,Ohm
+4103,c6ta08084g,f9,Ohm
+4104,c5ta05733g,f6,Ohm
+4105,c4ta05350h,f8,Ohm
+4106,c4ta03892d,f4,Ohm
+4107,c6ta11191b,f6,Ohm
+4108,c5ta00397k,f7,Ohm
+4109,c5ta03145a,f7,Ohm
+4110,c6ta03162e,f9,Ohm
+4111,c4ta06128d,f5,Ohm
+4112,c5ta04549e,f9,Ohm
+4113,c5ta09740a,f7,Ohm
+4114,c6ta09274h,f5,Ohm
+4115,c7ta02600e,f5,Ohm
+4116,c7ta03301j,f12,Ohm
+4117,c6ta04363a,f8,Ohm
+4118,c7ta02297b,f10,Ohm
+4119,c5ta04445f,f6,Ohm
+4120,c5ta03455h,f6,Ohm
+4121,c6ta08464h,f10,Ohm
+4122,c8ta02907e,f6,Ohm
+4123,c5ta06272a,f5,Ohm
+4124,c7ta04245k,f8,Ohm
+4125,c5ta01857a,f10,Ohm
+4126,c5ta02120k,f5,Ohm
+4127,c6ta10301d,f4,Ohm
+4128,c7ta03150e,f8,Ohm
+4129,c5ta04099j,f7,Ohm
+4130,c6ta00321d,f4,Ohm
+4131,c4ta06322h,f9,Ohm
+4132,c7ta07733e,f6,Ohm
+4133,c7ta07956g,f8,Ohm
+4134,c5ta00961h,f14,Ohm
+4135,c4ta05212a,f5,Ohm
+4136,c5ta09066k,f5,Ohm
+4137,c5ta07133j,f13,Ohm
+4138,c6ta02436j,f5,Ohm
+4139,c9ta06279c,f11,Ohm
+4140,c7ta02254a,f5,Ohm
+4141,c7ta02860a,f9,Ohm
+4142,c7ta07621e,f10,Ohm
+4143,c7ta08868j,f8,Ohm
+4144,c5ta00199d,f12,Ohm
+4145,c5ta04009d,f8,Ohm
+4146,c7ta00941k,f8,Ohm
+4147,c7ta03301j,f5,Ohm
+4148,c4ta06339b,f6,Ohm
+4149,c7ta08663f,f11,Ohm
+4150,c4ta05500d,f6,Ohm
+4151,c6ta10127e,f9,Ohm
+4152,c6ta08117g,f4,Ohm
+4153,c7ta03656f,f7,Ohm
+4154,c4ta07094a,f11,Ohm
+4155,c6ta02563c,f8,Ohm
+4156,c4ta03293d,f8,Ohm
+4157,c7ta03491a,f10,Ohm
+4158,c5ta06548h,f5,Ohm
+4159,c5ta06576c,f12,Ohm
+4160,c6ta05029h,f8,Ohm
+4161,c8ta02341g,f6,Ohm
+4162,c7ta07943e,f6,Ohm
+4163,c7ta09304g,f10,Ohm
+4164,c5ta02627j,f7,Ohm
+4165,c6ta02272c,f3,Ohm
+4166,c6ta04386k,f8,Ohm
+4167,c6ta07911c,f11,Ohm
+4168,c7ta08314a,f9,Ohm
+4169,c5ta03605d,f7,Ohm
+4170,c4ta06511e,f7,Ohm
+4171,c9ta01731c,f8,Ohm
+4172,c5ta00068h,f7,Ohm
+4173,c5ta01195g,f7,Ohm
+4174,c5ta01574j,f7,Ohm
+4175,c5ta01961c,f8,Ohm
+4176,c5ta02628h,f5,Ohm
+4177,c7ta07874a,f7,Ohm
+4178,c8ta02703j,f4,Ohm
+4179,c9ta09482b,f13,Ohm
+4180,c5ta01949d,f6,Ohm
+4181,c5ta05644f,f7,Ohm
+4182,c6ta07919a,f10,Ohm
+4183,c7ta03887a,f11,Ohm
+4184,c7ta07232e,f7,Ohm
+4185,c4ta05622a,f5,Ohm
+4186,c7ta02925j,f3,Ohm
+4187,c5ta02604k,f12,Ohm
+4188,c5ta10040b,f6,Ohm
+4189,c4ta05923a,f6,Ohm
+4190,c8ta01570h,f6,Ohm
+4191,c8ta00587g,f5,Ohm
+4192,c4ta07068b,f6,Ohm
+4193,c5ta00516g,f6,Ohm
+4194,c5ta01660f,f4,Ohm
+4195,c5ta08250a,f5,Ohm
+4196,c6ta10327h,f11,Ohm
+4197,c5ta04851f,f7,Ohm
+4198,c6ta03310e,f6,Ohm
+4199,c5ta07764h,f4,Capacity
+4200,c6ta01125j,f8,Capacity
+4201,c7ta02730c,f4,Capacity
+4202,c5ta04099j,f4,Capacity
+4203,c6ta01152g,f4,Capacity
+4204,c6ta06733f,f54,Capacity
+4205,c6ta02218a,f6,Capacity
+4206,c5ta06387f,f7,Capacity
+4207,c4ta06954d,f3,Capacity
+4208,c8ta03631d,f7,Capacity
+4209,c5ta02628h,f8,Capacity
+4210,c8ta05068f,f2,Capacity
+4211,c5ta01529d,f4,Capacity
+4212,c6ta06435c,f5,Capacity
+4213,c4ta06625a,f13,Capacity
+4214,c5ta03542b,f5,Capacity
+4215,c5ta04110d,f10,Capacity
+4216,c6ta10944f,f4,Capacity
+4217,c7ta03422a,f8,Capacity
+4218,c5ta01601k,f10,Capacity
+4219,c7ta00220c,f5,Capacity
+4220,c5ta02219c,f4,Capacity
+4221,c4ta04727c,f2,Capacity
+4222,c4ta05504g,f11,Capacity
+4223,c6ta01546h,f9,Capacity
+4224,c6ta06401a,f6,Capacity
+4225,c4ta05767h,f4,Capacity
+4226,c9ta00581a,f10,Capacity
+4227,c9ta06906b,f2,Capacity
+4228,c5ta02367j,f2,Capacity
+4229,c5ta04351d,f8,Capacity
+4230,c5ta06361b,f4,Capacity
+4231,c7ta04684g,f7,Capacity
