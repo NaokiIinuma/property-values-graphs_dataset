@@ -1,0 +1,167 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<div id="FigureSection"></div>
+<crowd-form>
+  <crowd-bounding-box
+    id="annotator"
+    name="boundingBox"
+    labels="['Temperature','Ratio','Time','Humidity','Frequency','Doping','Pressure',
+          'Electrolyte concentration','Wavelength','Radius','Voltage','Bandgap']"
+    src="{{ task.input.taskObject | grant_read_access }}"
+    header="Choose proper label. And draw a box as possible as tight around the graph. NOTE : Use multiple bounding boxes to label multiple figures (See good/bad example in full instructions)"
+  >
+    <short-instructions>
+    Choose proper label and draw a bounding box around the gragh in the image.
+    <br>
+    If there are more than one image within a single image, please use <b>multiple bounding boxes</b> to label multiple figures (See good/bad example in full instructions)
+
+    <h2>Lables:</h2>
+
+    <h3>Temperature</h3>
+      Keyword : T, ℃, K, 1/K<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c8ta11254a-f7.png",width="25%" height="25%">
+
+    <h3>Ratio</h3>
+        Keyword : x('chemical formula of material'), x in 'chemical formula of material', wt %, blend ratio， mol/L， mol%<br><br>
+        X-axis represents mixing ratio of substances.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta03699a-f5.png",width="25%" height="25%">
+      
+    <h3>Time</h3>
+        Keyword : s(seconds), min, h(hours), day<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c9ta00028c-f6.png",width="25%" height="25%">
+
+    <h3>Humidity</h3>
+        Keyword : RH(Relative Humidity), r.h., %<br><br>
+        The figure's caption or label of x-axis often include 'relative Humidityities' or 'RH'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c9ta01756a-f8.png",width="25%" height="25%">
+
+    <h3>Frequency</h3>
+        Keyword : frequency,Freq., Hz<br><br>
+        The figure's caption or label of x-axis often include 'frequency'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c7ta07263e-f2.png",width="25%" height="25%">
+
+    <h3>Doping</h3>
+        Keyword : doping level, 'chemical formula of material'-doping, 'material name'-doping, %<br><br>
+        The figure's caption often include 'dope' or 'concentration'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta04355c-f6.png",width="25%" height="25%">
+
+    <h3>Pressure</h3>
+        Keyword : p(pascal), atm<br><br>
+        The figure's caption often include 'pressure' or 'atmospheres'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c8ta06280c-f7.png",width="25%" height="25%">
+
+    <h3>Electrolyte concentration</h3>
+        Keyword : IEC(Ionospheric Electron Content), meq/g<br><br>
+        The figure's caption often include 'membrane'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta04910a-f4.png",width="25%" height="25%">
+
+    <h3>Wavelength</h3>
+      Keyword : λ<br><br>
+      The figure's caption or label of x axis often include 'wavelength' or 'λ'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta04313h-f8.png",width="25%" height="25%">
+
+    <h3>Radius</h3>
+      Keyword : nm, radius<br><br>
+      The figure's caption or label of x-axis often include 'radius'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta06147k-f2.png",width="25%" height="25%">
+
+    <h3>Voltage</h3>
+      Keyword : Voltage, V<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c9ta04367e-f3.png",width="25%" height="25%">
+
+    <h3>Bandgap</h3>
+        Keyword : eV, V,'chemical formula of material',　'material name'<br><br>
+        The figure's caption often include 'bandgap' or 'HOMO' or 'LUMO'.<br><br>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c9ta05200c-f10.png",width="25%" height="25%">
+
+      <h3>
+        Add new label
+      </h3>
+      
+      <crowd-input name="_customLabel" id="customLabel"></crowd-input>
+      <br>
+      <strong>NOTE : <br>This form input doesn't process Delete and Backpace key events, so please type carefully.</strong></p>
+      <br>
+      <crowd-button id="addLabel">Add</crowd-button>
+    </short-instructions>
+    <full-instructions header="Bounding Box Instructions" >
+      <h3>Task : </h3>
+      <p>Choose proper label and draw a bounding box around the gragh in the image. If 
+        there is more than one gragh per image, draw bounding 
+        boxs around all ones.</p>
+      <h3>procedure : </h3>
+      <ul>
+      <li>How to choose label : </li>
+      <p>Choose proper label. The proper label is decided by x-axis of a graph.</p>
+      <p><strong>The case that you find the gragh which doesn't have proper existing label : </strong><br>
+        Add a new label in <strong>Add  new label</strong> form and choose the label.<br>
+        
+      <li>How to draw a bounding box : </li>
+      <p>The box should be tight around the figure with 
+        no more than a couple of pixels of buffer around the 
+        edges.</p>
+      <p>But the box should include all axis labels of one graph.</p>
+      <p>If the image does not contain a graph, check the <strong>
+        Nothing to label</strong> box.
+      </ul>
+
+      <h3><font color="green">Good example</font></h3>
+      <p>Draw a bounding box exactly on each graph.</p>
+      <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta05294c-f4-good1.png",width="50%" height="50%">
+      <h3><font color="blue">Bad examples</font></h3>
+      <ul>
+        <li>Bad example 1 :</li>
+          <p>Don't draw a bounding box over the entire graph.</p>
+          <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta05294c-f4-bad1.png",width="50%" height="50%">
+      </ul>
+      <ul>
+        <li>Bad example 1 :</li>
+        <ul>
+          <li>Draw a bounding box exactly. (a), (b)</li>
+          <li>Don't draw a bounding box on a graph within a graph. (c)</li>
+          <li>Don't draw a bounding box inside a bounding box. (d)</li>
+        </ul>
+          <img src="https://example-for-template.s3-ap-northeast-1.amazonaws.com/ni_objectdetectiontest/c4ta05294c-f4-bad2.png",width="50%" height="50%">
+      </ul>
+      <br>
+    </full-instructions>
+  </crowd-bounding-box>
+</crowd-form>
+
+<script>
+  document.addEventListener('all-crowd-elements-ready', function(event) {
+    document.querySelector('crowd-bounding-box').labels ;  
+  });
+  
+  function populateLabelsSection() {
+    labelsSection.innerHTML = '';
+    annotator.labels.forEach(function(label) {
+      const labelContainer = document.createElement('div');
+      labelContainer.innerHTML = label + ' <a href="javascript:void(0)">(Delete)</a>';
+      labelContainer.querySelector('a').onclick = function() {
+        annotator.labels = annotator.labels.filter(function(l) {
+          return l !== label;
+        });
+        populateLabelsSection();
+      };
+      labelsSection.appendChild(labelContainer);
+    });
+  }
+
+  addLabel.onclick = function() {
+    annotator.labels = annotator.labels.concat([customLabel.value]);
+    customLabel.value = null;
+    
+    populateLabelsSection();
+  };
+</script>
+</div>
+
+<div id="CaptionSection">
+  <h3>
+  Refer to this caption corresponding to the figure shown to select the label:
+  </h3>
+  <br>
+  {{ task.input.metadata.caption }}
+  <hr>
+</div>
