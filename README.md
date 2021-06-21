@@ -43,5 +43,5 @@ The above command will create labeled images under `dataset/holdout` and caption
 
 # Annotation Details
 We created the dataset by annotation it with [Amazon Mechanical Turk](https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGuide/SvcIntro.html). We leave some documents that we made during the creation.
-'CustomJobTemp.html' is the UI template used by the annotator.
-'Amazon SageMaker の使い方.docx' explains how to create an annotation job in Japanese.
+`CustomJobTemp.html` is the UI template used by the annotator.
+`Amazon SageMaker の使い方.docx` explains how to create an annotation job in Japanese.
