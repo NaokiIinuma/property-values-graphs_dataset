@@ -40,3 +40,8 @@ Then, place the paper data under `RSC_data` so that the file structure is as fol
 bash prepro.sh
 ```
 The above command will create labeled images under `dataset/holdout` and caption.json that maps the image file name to a caption under `dataset`.
+
+# Annotation Details
+We created the dataset by annotation it with [Amazon Mechanical Turk](https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGuide/SvcIntro.html). We leave some documents that we made during the creation.
+'CustomJobTemp.html' is the UI template used by the annotator.
+'Amazon SageMaker の使い方.docx' explains how to create an annotation job in Japanese.
