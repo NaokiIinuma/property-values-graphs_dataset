@@ -5,13 +5,13 @@
 conda create -n test python=3.6.12
 conda activate test
 ```
-1. Install bellow packages by conda
+2. Install bellow packages by conda
     
     pandas, tqdm, pillow, nltk, gensim, scikit-learn
 ```
 conda install PACKAGE
 ```
-1. Install scispacy by pip
+3. Install scispacy by pip
 ```
 pip install scispacy
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz
